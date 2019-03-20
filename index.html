@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Coupa Icons</title>
+  <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+  <div class="header_icons">
+    <h2>Header Icons</h2>
+    <table class="header_icons_table">
+      <thead>
+        <tr>
+          <th>Icon</th>
+          <th>CSS Class Name</th>
+          <th>Background Position</th>
+        </tr>
+      </thead>
+      <tbody></tbody>
+    </table>
+  </div>
+  <div class="action_icons">
+    <h2>Action Icons</h2>
+    <table class="action_icons_table">
+      <thead>
+        <tr>
+          <th>Icon</th>
+          <th>CSS Class Name</th>
+          <th>Background Position</th>
+        </tr>
+      </thead>
+      <tbody></tbody>
+    </table>
+  </div>
+  <div class="trigger_icons">
+    <h2>Trigger Icons</h2>
+    <table class="trigger_icons_table">
+      <thead>
+        <tr>
+          <th>Icon</th>
+          <th>CSS Class Name</th>
+          <th>Background Position</th>
+        </tr>
+      </thead>
+      <tbody></tbody>
+    </table>
+  </div>
+  <div class="industry_icon">
+    <h2>Industry Icons</h2>
+    <table class="industry_icon_table">
+      <thead>
+        <tr>
+          <th>Icon</th>
+          <th>CSS Class Name</th>
+          <th>Background Position</th>
+        </tr>
+      </thead>
+      <tbody></tbody>
+    </table>
+  </div>
+  <script type="text/javascript">
+
+    function createTableRows(prefix, iconBaseClass, tableSelector) {
+
+      var rowEl=null, tableEl = document.querySelector(tableSelector);
+
+      for (var i in document.styleSheets[0].cssRules) {
+        var cssRule = document.styleSheets[0].cssRules[i];
+        var className = (cssRule.selectorText || '').substring(1);
+
+        if (className.startsWith(prefix)) {
+          var iconName = className.split(',')[0];
+
+          rowEl = tableEl.insertRow();
+          rowEl.insertCell().innerHTML = '<div class="' + iconBaseClass + " " + iconName + '"></div>';
+          rowEl.insertCell().textContent = className;
+          rowEl.insertCell().textContent = cssRule.style.backgroundPosition;
+        }
+      }
+
+    }
+
+    createTableRows('header-', 'header_icon', '.header_icons_table tbody');
+    createTableRows('sprite-', 'icon_button', '.action_icons_table tbody');
+    createTableRows('opportunity_trigger_', 'opportunity_trigger', '.trigger_icons_table tbody');
+    createTableRows('industry-icon-', 'industry-icon', '.industry_icon_table tbody');
+  </script>
+</body>
+</html>
