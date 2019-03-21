@@ -403,6 +403,8 @@ background-position: -1584px -216px; }
 .sprite-coupa_advantage {  background-position: -1260px -108px; }
 .sprite-announce {  background-position: -1764px -216px; }
 .sprite-void-arrow-disabled {  background-position: -648px -360px; }
+.sprite-gray-person {  background-position: -1764px -180px; }
+
 
 /* icon not used anywhere */
 /*
@@ -529,7 +531,7 @@ background-position: -1584px -216px; }
 .opportunity_trigger_ciIconsSprite_thumbsUpIcon {
   background-position: -108px -3213px;
   width: 55px;
-  height: 52px;
+  height: 55px;
 }
 .opportunity_trigger_community-advantage-sprite_realTimeSavingsIcon {
    background-position: -109px -2658px;   width: 60px;  height: 60px;
@@ -538,3 +540,5 @@ background-position: -1584px -216px; }
 .opportunity_trigger_community-advantage-sprite_potentialSavingsIcon {
   background-position: -107px -2735px; width: 60px;  height: 60px;
 }
+
+.opportunity_trigger_coupaAdvantageIcon{  background-position: -10px -4362px;   width: 160px; height: 40px;  }
