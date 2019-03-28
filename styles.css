@@ -546,7 +546,23 @@ background-position: -1584px -216px; }
 
 .opportunity_trigger_coupaAdvantageIcon{  background-position: -10px -4362px;   width: 160px; height: 40px;  }
 
+.opportunity_trigger_exclaimationIcon {
+   background-position: -58px -333px;
+   width: 32px;
+   height: 32px;
+ }
 
+.opportunity_trigger_groupIcon {
+   background-position: -58px -390px;
+   width: 32px;
+   height: 32px;
+ }
+
+.opportunity_trigger_increasedSpendIcon {
+   background-position: -2px -501px;
+   width: 32px;
+   height: 32px;
+ }
 /* avatar sprint*/
 
 .avatar-icon-user_avatar_thumb,
