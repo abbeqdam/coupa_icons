@@ -24,6 +24,9 @@ textarea.css_input { width: 600px;
 .industry-icon  { background: url(sprite_analytics_display.svg) no-repeat top left;
   display: inline-block;}
 
+.avatar-icon { background: url(sprite_avatar.svg) no-repeat top left;
+  display: inline-block;}
+
 table { border-collapse: collapse;
   table-layout: fixed;
   text-align: left;
@@ -542,3 +545,67 @@ background-position: -1584px -216px; }
 }
 
 .opportunity_trigger_coupaAdvantageIcon{  background-position: -10px -4362px;   width: 160px; height: 40px;  }
+
+
+/* avatar sprint*/
+
+.avatar-icon-user_avatar_thumb,
+.avatar-icon-custom_field_attribute_user_avatar_thumb {
+  background-position: -758px 2px; width: 40px; height: 40px;
+ }
+
+.avatar-icon-user_avatar_big_thumb,
+.avatar-icon-custom_field_attribute_user_avatar_big_thumb {
+   background-position: -620px 2px; width: 128px; height: 128px;
+ }
+
+.avatar-icon-user_avatar_large,
+.avatar-icon-custom_field_attribute_user_avatar_large {
+   background-position: -410px 2px; width: 200px; height: 200px;
+ }
+
+.avatar-icon-user_avatar_mine,
+.avatar-icon-custom_field_attribute_user_avatar_mine {
+   background-position: 0px 2px; width: 400px; height: 400px;
+ }
+
+.avatar-icon-user_group_avatar_thumb,
+.avatar-icon-custom_field_attribute_approval_group_avatar_thumb,
+.avatar-icon-approval_group_avatar_thumb {
+   background-position: -758px -408px; width:40px; height: 40px;
+ }
+
+.avatar-icon-user_group_avatar_big_thumb,
+.avatar-icon-custom_field_attribute_approval_group_avatar_big_thumb,
+.avatar-icon-approval_group_avatar_big_thumb {
+   background-position: -620px -408px; width: 128px; height: 128px;
+ }
+
+.avatar-icon-user_group_avatar_large,
+.avatar-icon-custom_field_attribute_approval_group_avatar_large,
+.avatar-icon-approval_group_avatar_large {
+   background-position: -410px -408px; width: 200px; height: 200px;
+ }
+
+.avatar-icon-user_group_avatar_mine,
+.avatar-icon-custom_field_attribute_approval_group_avatar_mine,
+.avatar-icon-approval_group_avatar_mine {
+   background-position: 0px -408px;  width: 400px; height: 400px;
+ }
+
+
+  .avatar-icon-remote_approver_avatar_thumb {
+     background-position: -758px -1228px; width:40px; height: 40px;
+   }
+
+.avatar-icon-remote_approver_avatar_big_thumb {
+   background-position: -620px -1228px; width:128px; height: 128px;
+ }
+
+.avatar-icon-remote_approver_avatar_large {
+   background-position: -410px -1228px; width:200px; height: 200px;
+ }
+
+.avatar-icon-remote_approver_avatar_mine {
+   background-position: 0px -1228px; width:400px; height: 400px;
+ }
