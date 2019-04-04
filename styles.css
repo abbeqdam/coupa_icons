@@ -408,6 +408,50 @@ background-position: -1584px -216px; }
 .sprite-void-arrow-disabled {  background-position: -648px -360px; }
 .sprite-gray-person {  background-position: -1764px -180px; }
 
+/*start of icons in the main.css.less*/
+.sprite-home { background-position: -316px -430px;
+    width: 23px;
+    height: 23px;}
+.sprite-arrow_icon {
+    background-position: -462px -425px;
+}
+.sprite-arrow_icon {
+    background-position: -390px -425px;
+}
+.sprite-search_icon {
+    background-position: -361px -361px;
+}
+.sprite-search_icon_enabled {
+
+    background-position: -397px -307px;
+    width:18px;
+    height:18px;
+
+}
+.sprite-search_icon_disabled {
+    cursor: auto;
+    background-position: -361px -361px;
+}
+
+.sprite-big-star-rating {
+    list-style:none;
+    margin: 0px;
+    padding:0px;
+    width: 140px;
+    height: 28px;
+    position: relative;
+    background-position: 0px -433px; }
+
+.sprite-current-rating{
+    width: 140px;
+    height: 28px;
+    background-position: -162px -433px;}
+
+.sprite-add_tag{
+    width: 22px;
+    height: 22px;
+    background-position: -720px -108px}
+
 
 /* icon not used anywhere */
 /*
