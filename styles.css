@@ -299,8 +299,14 @@ h2 { background-color: #ffe7e7;
 .sprite-invisible{  background-position: -216px -360px; }
 .sprite-pending_approval {  background-position: -360px -252px; }
 .sprite-info {  background-position: -612px -252px; }
-.sprite-collapsable {  background-position: -396px -430px; }
-.sprite-msa {  background-position: -1152px -252px; }
+.sprite-collapsable {  background-position: -396px -430px;     width: 23px;
+    height: 23px;
+    background-color: #333333}
+.sprite-msa {  background-position: -1152px -252px;
+    width: 23px;
+    height: 23px;
+    background-color: #333333
+}
 .sprite-master {  background-position: -1188px -249px; }
 .sprite-amendment {  background-position: -1224px -252px; }
 .sprite-contract {  background-position: -1260px -252px; }
