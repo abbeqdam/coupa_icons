@@ -185,7 +185,10 @@ h2 { background-color: #ffe7e7;
 .sprite-coins_cn{  background-position: -72px -18px; }
 .sprite-comment{  background-position: -432px -180px; }
 .sprite-comment_add{  background-position: -468px -108px; }
-.sprite-comment_transparent{  background-position: -756px -252px; }
+.sprite-comment_transparent{  background-position: -756px -252px;
+    width: 23px;
+    height: 23px;
+    background-color: #333333;}
 .sprite-connect{  background-position: -504px -108px; }
 .sprite-connecting{  background-position: -540px -108px; }
 .sprite-creditcards{  background-position: -576px -108px; }
@@ -401,26 +404,30 @@ h2 { background-color: #ffe7e7;
 .sprite-existing_relationship {  background-position: -1728px -216px; }
 .sprite-community_intelligence {  background-position: -432px -180px; }
 .sprite-new { // next to bell_remove
-background-position: -1584px -216px; }
+background-position: -1584px -216px;
+}
 .sprite-hot {  background-position: -1764px -252px; }
 .sprite-coupa_advantage {  background-position: -1260px -108px; }
 .sprite-announce {  background-position: -1764px -216px; }
 .sprite-void-arrow-disabled {  background-position: -648px -360px; }
 .sprite-gray-person {  background-position: -1764px -180px; }
 
+
+
+
 /*start of icons in the main.css.less*/
 .sprite-home { background-position: -316px -430px;
-    width: 23px;
-    height: 23px;}
+    width: 40px;
+    height: 40px;
+    background-color: #333333;
+}
 .sprite-arrow_icon {
     background-position: -462px -425px;
+    width: 40px;
+    height: 40px;
+    background-color: #333333;
 }
-.sprite-arrow_icon {
-    background-position: -390px -425px;
-}
-.sprite-search_icon {
-    background-position: -361px -361px;
-}
+
 .sprite-search_icon_enabled {
 
     background-position: -397px -307px;
