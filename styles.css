@@ -417,7 +417,18 @@ background-position: -1584px -216px;
 .sprite-announce {  background-position: -1764px -216px; }
 .sprite-void-arrow-disabled {  background-position: -648px -360px; }
 .sprite-gray-person {  background-position: -1764px -180px; }
-
+.sprite-bank_transfer {
+  background-position: -720px -54px;
+}
+.sprite-expense_reimbursement {
+  background-position: -756px -54px;
+}
+.sprite-virtual_card {
+  background-position: -792px -54px;
+}
+.sprite-digital_check {
+  background-position: -828px -54px;
+}
 
 
 
@@ -620,6 +631,97 @@ background-position: -1584px -216px;
    width: 32px;
    height: 32px;
  }
+
+.opportunity_trigger_bank_transfer_128 {
+    background-position: 0px -4456px;
+    width: 128px;
+    height: 128px;
+  }
+
+ .opportunity_trigger_bank_transfer_64 {
+    background-position: 0px -4615px;
+    width: 64px;
+    height: 64px;
+  }
+
+ .opportunity_trigger_bank_transfer_48 {
+    background-position: 0px -4710px;
+    width: 48px;
+    height: 48px;
+  }
+
+ .opportunity_trigger_expense_reimbursement_128 {
+    background-position: -188px -4456px;
+    width: 128px;
+    height: 128px;
+  }
+
+ .opportunity_trigger_expense_reimbursement_64 {
+    background-position: -188px -4615px;
+    width: 64px;
+    height: 64px;
+  }
+
+ .opportunity_trigger_expense_reimbursement_48 {
+    background-position: -188px -4710px;
+    width: 48px;
+    height: 48px;
+  }
+
+ .opportunity_trigger_virtual_card_128 {
+    background-position: -376px -4456px;
+    width: 128px;
+    height: 128px;
+  }
+
+ .opportunity_trigger_virtual_card_64 {
+    background-position: -376px -4615px;
+    width: 64px;
+    height: 64px;
+  }
+
+ .opportunity_trigger_virtual_card_48 {
+    background-position: -376px -4710px;
+    width: 48px;
+    height: 48px;
+  }
+
+ .opportunity_trigger_digital_check_128 {
+    background-position: -564px -4456px;
+    width: 128px;
+    height: 128px;
+  }
+
+ .opportunity_trigger_digital_check_64 {
+    background-position: -564px -4615px;
+    width: 64px;
+    height: 64px;
+  }
+
+ .opportunity_trigger_digital_check_48 {
+    background-position: -564px -4710px;
+    width: 48px;
+    height: 48px;
+  }
+
+ .opportunity_trigger_egencia_icon {
+    background-position: -1px -4840px;
+    width: 40px;
+    height: 20px;
+  }
+
+ .opportunity_trigger_get_there_icon {
+    background-position: -2px -4882px;
+    width: 21px;
+    height: 20px;
+  }
+
+ .opportunity_trigger_cytric_icon {
+    background-position: 0px -4920px;
+    width: 24px;
+    height: 24px;
+  }
+}
 /* avatar sprint*/
 
 .avatar-icon-user_avatar_thumb,
