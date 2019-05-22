@@ -1,50 +1,16 @@
-body { background-color: #FFF;
-  font-family: helvetica, arial, sans-serif;
-  font-size: 13px;
-  color: #333;}
-textarea.css_input { width: 600px;
-  height: 200px;}
-.header_icon { background: url(sprite_headers.svg) no-repeat top left;
-  width: 26px;
-  height: 24px;
-  margin: 0px 8px 3px 0;
-  background-size: 62px 2532.9px;}
-.icon_button { background: url(sprite_iconbuttons_18x18.svg) no-repeat top left;
-  padding: 0;
-  margin: 3px;
-  width: 18px;
-  height: 18px;
-  vertical-align: top;}
-
-.opportunity_trigger { background: url(trigger_icons.svg) no-repeat top left;
-  width: 30px;
-  height: 30px;
-  display: inline-block;}
-
-.industry-icon  { background: url(sprite_analytics_display.svg) no-repeat top left;
-  display: inline-block;}
-
-.avatar-icon { background: url(sprite_avatar.svg) no-repeat top left;
-  display: inline-block;}
-
-table { border-collapse: collapse;
-  table-layout: fixed;
-  text-align: left;
-  width: 100%;}
-table th { background-color: #f0f0f0;
-  border: 1px solid #ddd;
-  border-top: none;
-  padding: 10px;}
+body { background-color: #FFF;  font-family: helvetica, arial, sans-serif;  font-size: 13px;  color: #333;}
+textarea.css_input { width: 600px;  height: 200px;}
+.header_icon { background: url(sprite_headers.svg) no-repeat top left;  width: 26px;  height: 24px;  margin: 0px 8px 3px 0;  background-size: 62px 2532.9px;}
+.icon_button { background: url(sprite_iconbuttons_18x18.svg) no-repeat top left;  padding: 0;  margin: 3px;  width: 18px;  height: 18px; vertical-align: top;}
+.trigger { background: url(trigger_icons.svg) no-repeat top left; width: 30px; height: 30px;  display: inline-block;}
+.industry-icon  { background: url(sprite_analytics_display.svg) no-repeat top left;  display: inline-block;}
+.avatar-icon { background: url(sprite_avatar.svg) no-repeat top left; display: inline-block;}
+table { border-collapse: collapse; table-layout: fixed; text-align: left; width: 100%;}
+table th { background-color: #f0f0f0; border: 1px solid #ddd; border-top: none;  padding: 10px;}
 table th:first-child { width: 150px;}
-table td { border: 1px solid #ddd;
-  padding: 10px;}
-.header_icons, .action_icons { margin: 20px 10px;
-  padding: 1px 0;}
-h2 { background-color: #ffe7e7;
-  border: 1px solid #ddd;
-  margin: 0;
-  padding: 16px 10px;
-  font-weight: normal;}
+table td { border: 1px solid #ddd;  padding: 10px;}
+.action_icons { margin: 20px 10px; padding: 1px 0;}
+h2 { background-color: #ffe7e7; border: 1px solid #ddd; margin: 0; padding: 16px 10px; font-weight: normal;}
 
 
 /* below are icon sprite styles copied from various Coupa CSS files  */
@@ -52,11 +18,9 @@ h2 { background-color: #ffe7e7;
 /*   asset sprites!    */
 .assets-bullet_arrow_down{ background-position: -158px -2px; width: 9px; height: 16px; }
 .assets-bullet_arrow_up{ background-position: -184px -2px; width: 9px; height: 16px; }
-
 .assets-close_tour{ background-position: -251px 0; width: 17px; height: 34px; }
 .assets-tour_sign{ background-position: -126px -68px; width: 25px; height: 28px; }
 .assets-x_table{ background-position: -172px -78px; width: 7px; height: 7px; }
-
 
 /*   header icon sprites!    */
 .header-additional-settings{ background-position: -15px -1012px; }
@@ -126,13 +90,9 @@ h2 { background-color: #ffe7e7;
 
 /*   icon sprites!    */
 .sprite-accept{ background-position: -756px -180px; }
-.sprite-accept_small{  background-position: -433px -307px;
-  width: 16px;
-  height: 16px; }
+.sprite-accept_small{  background-position: -433px -307px; width: 16px; height: 16px; }
 .sprite-add{  background-position: -108px -54px; }
-.sprite-add_small {  background-position: -73px -307px;
-  width:16px;
-  height:16px; }
+.sprite-add_small {  background-position: -73px -307px; width:16px;  height:16px; }
 .sprite-add_bw{  background-position: -288px -360px; }
 .sprite-anchor{  background-position: -36px -216px; }
 .sprite-application-form{  background-position: -72px -216px; }
@@ -148,7 +108,6 @@ h2 { background-color: #ffe7e7;
 .sprite-arrow_rotate_right {  background-position: -540px -216px; }
 .sprite-expanded_section {  background-position: -1296px -252px; }
 .sprite-collapsed_section {  background-position: -1332px -252px; }
-
 .sprite-restore {  background-position: -792px -144px; }
 .sprite-arrow_split{  background-position: 0 -108px; }
 .sprite-account_split{  background-position: -360px -216px; }
@@ -161,14 +120,10 @@ h2 { background-color: #ffe7e7;
 .sprite-asterisk_orange{  background-position: -36px -108px; }
 .sprite-attach{  background-position: -72px -108px; }
 .sprite-basket{  background-position: -108px -108px; }
-
 .sprite-supplier-item-association {  background-position: -650px -215px; }
 .sprite-bell{  background-position: -144px -108px; }
 .sprite-bell_add{  background-position: -180px -108px; }
-
-.sprite-bell_remove {  background-position: -1548px -216px;
-  width: 18px;
-  height: 19px; }
+.sprite-bell_remove {  background-position: -1548px -216px;  width: 18px;  height: 19px; }
 .sprite-blank_box{  background-position: -288px -252px; }
 .sprite-bullet_go{  background-position: -252px -108px; }
 .sprite-bullseye{  background-position: -288px -108px; }
@@ -185,27 +140,19 @@ h2 { background-color: #ffe7e7;
 .sprite-coins_cn{  background-position: -72px -18px; }
 .sprite-comment{  background-position: -432px -180px; }
 .sprite-comment_add{  background-position: -468px -108px; }
-.sprite-comment_transparent{  background-position: -756px -252px;
-    width: 23px;
-    height: 23px;
-    background-color: #333333;}
+.sprite-comment_transparent{  background-position: -756px -252px; width: 23px; height: 23px; background-color: #333333;}
 .sprite-connect{  background-position: -504px -108px; }
 .sprite-connecting{  background-position: -540px -108px; }
 .sprite-creditcards{  background-position: -576px -108px; }
 .sprite-cross{  background-position: -324px -18px; }
-.sprite-checkmark{  background-position: -36px -146px
-}
+.sprite-checkmark{  background-position: -36px -146px}
 .button img.sprite-delete,
 .sprite-delete_small,.sprite-cross_small {  background-position: -109px -307px; }
 .sprite-delete,
-.sprite-delete_large {  background-position: -324px -18px;
-  width: 20px;
-  height: 19px; }
+.sprite-delete_large {  background-position: -324px -18px; width: 20px; height: 19px; }
 .sprite-delete_bw{  background-position: -144px -360px; }
 .sprite-disk {  background-position: -144px -252px; }
-.sprite-disk_small {  background-position: -253px -307px;
-  width: 16px;
-  height: 16px; }
+.sprite-disk_small {  background-position: -253px -307px; width: 16px; height: 16px; }
 .sprite-door_in{  background-position: -288px -18px; }
 .sprite-download {  background-position: -1835px -218px; }
 /*.sprite-download_gray{
@@ -234,9 +181,7 @@ h2 { background-color: #ffe7e7;
 .sprite-lorry{  background-position: -144px -18px; }
 .sprite-lorry_bw{  background-position: -72px -360px; }
 .sprite-magnifier{  background-position: -324px -144px; }
-.sprite-magnifier_small, .sprite-magnifier_small_grey{  background-position: -397px -307px;
-  width: 16px;
-  height: 16px; }
+.sprite-magnifier_small, .sprite-magnifier_small_grey{  background-position: -397px -307px; width: 16px; height: 16px; }
 .sprite-magnifier_small_grey{  background-position: -361px -361px; }
 .sprite-medal_gold_3{  background-position: -216px -54px; }
 .sprite-minus{  background-position: -72px -180px; }
@@ -254,14 +199,10 @@ h2 { background-color: #ffe7e7;
 .sprite-page_word{  background-position: -576px -144px; }
 .sprite-pencil{  background-position: -180px -18px; }
 .sprite-pencil_bw{  background-position: -252px -360px; }
-.sprite-pencil_small{  background-position: -199px -307px;
-  width: 16px;
-  height: 16px; }
+.sprite-pencil_small{  background-position: -199px -307px; width: 16px; height: 16px; }
 .sprite-price_tier{  background-position: -108px -180px; }
 .sprite-printer{  background-position: 0 -18px; }
-.sprite-printer_small {  background-position: -325px -307px;
-  width: 16px;
-  height: 16px; }
+.sprite-printer_small {  background-position: -325px -307px; width: 16px; height: 16px; }
 /* icon used for "release booking hold". May have different meaning in other locations */
 .sprite-stop{  background-position: -612px -144px; }
 .sprite-table_go{  background-position: -648px -144px; }
@@ -299,14 +240,8 @@ h2 { background-color: #ffe7e7;
 .sprite-invisible{  background-position: -216px -360px; }
 .sprite-pending_approval {  background-position: -360px -252px; }
 .sprite-info {  background-position: -612px -252px; }
-.sprite-collapsable {  background-position: -396px -430px;     width: 23px;
-    height: 23px;
-    background-color: #333333}
-.sprite-msa {  background-position: -1152px -252px;
-    width: 23px;
-    height: 23px;
-    background-color: #333333
-}
+.sprite-collapsable {  background-position: -396px -430px; width: 23px; height: 23px; background-color: #333333}
+.sprite-msa {  background-position: -1152px -252px; width: 23px; height: 23px; background-color: #333333 }
 .sprite-master {  background-position: -1188px -249px; }
 .sprite-amendment {  background-position: -1224px -252px; }
 .sprite-contract {  background-position: -1260px -252px; }
@@ -353,130 +288,54 @@ h2 { background-color: #ffe7e7;
 .sprite-arrow_void {  background-position: -324px -54px; }
 .sprite-cycle_back {  background-position: -504px -54px; }
 .sprite-tick-gray {  background-position: -468px -360px; }
-
 .sprite-external_update {  background-position: -108px -18px; }
 .sprite-internal_update {  background-position: -216px -216px; }
 .sprite-request_review {  background-position: -1224px -180px; }
-
 .sprite-check-gray {  background-position: -504px -363px; }
-
 .sprite-health_rating3 {  background-position: -936px -252px; }
-
 .sprite-health_rating2 {  background-position: -972px -252px; }
-
 .sprite-health_rating1 {  background-position: -1008px -252px; }
-
 .sprite-no {  background-position: -1080px -252px; }
-
 .sprite-health_rating0 {  background-position: -1116px -252px; }
-
 .sprite-coupa-advantage {  background-position: -1260px -108px; }
-
 .sprite-existing-relationships {  background-position: -1297px -108px; }
-
 .sprite-ship-to {  background-position: -1332px -108px; }
-
 .sprite-supplier-items-explorer {  background-position: -1367px -108px; }
-
 .sprite-operational-insights {  background-position: -1476px -216px; }
-
 .sprite-contract-changed-flag, .sprite-field-changed-flag {  background-position: -398px -214px; }
-
-.sprite-red-flag {  background-position: -1404px -108px
-}
-
+.sprite-red-flag {  background-position: -1404px -108px}
 .sprite-pop-out {  background-position: -1440px -108px; }
-
 .sprite-create_ro {  background-position: -1440px -251px; }
-
 .sprite-checkbox-disabled {  background-position: -1512px -184px; }
-
 .sprite-checkbox-selected {  background-position: -1512px -148px; }
-
 .sprite-checkbox {  background-position: -1512px -110px; }
-
 .sprite-circled-checkmark {  background-position: -1548px -180px; }
-
 .sprite-searchable-punchout {  background-position: -1512px -216px; }
-
 .sprite-drag_handle {  background-position: -37px -307px; }
-
 .sprite-sandbox_refresh {  background-position: -216px -216px; }
-
 .sprite-sandbox_refresh_disabled {  background-position: -720px -252px; }
-
 .sprite-community-intelligence {  background-position: -1476px -180px; }
-
 .sprite-existing_relationship {  background-position: -1728px -216px; }
 .sprite-community_intelligence {  background-position: -432px -180px; }
-.sprite-new { // next to bell_remove
-background-position: -1584px -216px;
-}
+.sprite-new { background-position: -1584px -216px;}
 .sprite-hot {  background-position: -1764px -252px; }
 .sprite-coupa_advantage {  background-position: -1260px -108px; }
 .sprite-announce {  background-position: -1764px -216px; }
 .sprite-void-arrow-disabled {  background-position: -648px -360px; }
 .sprite-gray-person {  background-position: -1764px -180px; }
-.sprite-bank_transfer {
-  background-position: -720px -54px;
-}
-.sprite-expense_reimbursement {
-  background-position: -756px -54px;
-}
-.sprite-virtual_card {
-  background-position: -792px -54px;
-}
-.sprite-digital_check {
-  background-position: -828px -54px;
-}
-
-
+.sprite-bank_transfer { background-position: -720px -54px;}
+.sprite-expense_reimbursement { background-position: -756px -54px;}
+.sprite-virtual_card { background-position: -792px -54px;}
+.sprite-digital_check { background-position: -828px -54px;}
 
 /*start of icons in the main.css.less*/
-.sprite-home { background-position: -316px -430px;
-    width: 40px;
-    height: 40px;
-    background-color: #333333;
-}
-.sprite-arrow_icon {
-    background-position: -462px -425px;
-    width: 40px;
-    height: 40px;
-    background-color: #333333;
-}
-
-.sprite-search_icon_enabled {
-
-    background-position: -397px -307px;
-    width:18px;
-    height:18px;
-
-}
-.sprite-search_icon_disabled {
-    cursor: auto;
-    background-position: -361px -361px;
-}
-
-.sprite-big-star-rating {
-    list-style:none;
-    margin: 0px;
-    padding:0px;
-    width: 140px;
-    height: 28px;
-    position: relative;
-    background-position: 0px -433px; }
-
-.sprite-current-rating{
-    width: 140px;
-    height: 28px;
-    background-position: -162px -433px;}
-
-.sprite-add_tag{
-    width: 22px;
-    height: 22px;
-    background-position: -720px -108px}
-
-
+.sprite-home { background-position: -316px -430px; width: 40px; height: 40px; background-color: #333333;}
+.sprite-arrow_icon { background-position: -462px -425px; width: 40px; height: 40px; background-color: #333333;}
+.sprite-search_icon_enabled { background-position: -397px -307px; width:18px; height:18px;}
+.sprite-search_icon_disabled { cursor: auto; background-position: -361px -361px;}
+.sprite-big-star-rating { list-style:none; margin: 0px; padding:0px; width: 140px; height: 28px; position: relative; background-position: 0px -433px; }
+.sprite-current-rating{ width: 140px; height: 28px; background-position: -162px -433px;}
+.sprite-add_tag{ width: 22px; height: 22px; background-position: -720px -108px}
 /* icon not used anywhere */
 /*
 .sprite-briefcase{ background: image-url("sprite_iconbuttons.png") no-repeat -399px 0; width: 16px; height: 16px; }
@@ -485,10 +344,7 @@ background-position: -1584px -216px;
 .sprite-email_open{ background: image-url("sprite_iconbuttons.png") no-repeat -924px 0; width: 16px; height: 16px; }
 .sprite-lock_break{ background: image-url("sprite_iconbuttons.png") no-repeat -2213px 0; width: 16px; height: 16px; }
 */
-
-
 /* Perfect Fit Insights - Industry sprites */
-
 
 .industry-icon-all-industries{ background-position: -1px -1px; width: 60px; height: 60px; }
 .industry-icon-business-services{ background-position: -121px -1px; width: 60px; height: 60px; }
@@ -510,277 +366,91 @@ background-position: -1584px -216px;
 .industry-icon-consumer-goods-services{ background-position: -601px -1px; width: 60px; height: 60px; }
 .industry-icon-energy-transportation{ background-position: -241px -121px; width: 60px; height: 60px; }
 
+.trigger-contract_expiration { background-position: 0px -671px; }
+.trigger-increased_spend { background-position: 0px -503px; }
+.trigger-frequent_free_form { background-position: 0px -615px; }
+.trigger-invoice_increase { background-position: 0px -503px; }
+.trigger-large_requisition { background-position: 0px -783px; }
+.trigger-increased_expenses_by_merchant { background-position: 0px -503px; }
+.trigger-increased_expenses_by_category { background-position: 0px -503px; }
+.trigger-frequent_orders { background-position: 0px -783px; }
+.trigger-frequent_adjustments { background-position: 0px -559px; }
+.trigger-inactive_supplier { background-position: 0px -335px; }
+.trigger-expiring_forms { background-position: 0px -391px; }
+.trigger-outdated_sim { background-position: 0px -447px; }
+.trigger-supplier_link_suggestion { background-position: 0px -2072px; }
+.trigger-supplier_risk { background-position: 0px 0px;}
+.trigger-supplier_performance { background-position: 0px 0px; }
+.trigger-compliant2_2Icon42 { background-position: 0px -2015px; width: 50px;  height: 50px;}
+.trigger-compliant2_2Icon130 { background-position: -4px -1847px;   width: 140px;  height: 140px;}
+.trigger-compliant2_3Icon42 { background-position: 0px -1763px;  width: 50px;  height: 50px;}
+.trigger-compliant2_3Icon130 { background-position: -4px -1343px;   width: 140px;  height: 140px;}
+.trigger-compliant3_3Icon42 { background-position: 0px -1679px; width: 50px;  height: 50px; }
+.trigger-compliant3_3Icon130 { background-position: -4px -1175px;   width: 140px;  height: 140px;}
+.trigger-compliant3_4Icon42 { background-position: 0px -1595px; width: 50px;  height: 50px; }
+.trigger-compliant3_4Icon130 { background-position: -4px -1007px;   width: 140px;  height: 140px;}
+.trigger-compliant4_4Icon42 { background-position: 0px -1511px; width: 50px;  height: 50px; }
+.trigger-compliant4_4Icon130 { background-position: -4px -839px;  width: 140px;  height: 140px; }
+.trigger-compliant1Icon42,  .trigger-compliant1Icon130 { background-position: 0px 50px; }
+.trigger-fraud_risk_sprite_global { background-position: -5px -3980px;  width: 80px;  height: 80px;}
+.trigger-fraud_risk_sprite_users { background-position: -7px -2492px;  width: 60px;  height: 60px;}
+.trigger-fraud_risk_sprite_lines { background-position: -3px -2409px;  width: 60px;  height: 60px;}
+.trigger-search-icon-sprite_magnifier_icon_large {   background-position: 0px -2856px;   width: 60px;  height: 60px;}
+.trigger-spend_guard_global_sprite_expense_lines { background-position: 13px -3037px; width: 60px;  height: 60px; }
+.trigger-spend_guard_global_sprite_expenses_reports { background-position: 7px -3094px; width: 60px;  height: 60px;}
+.trigger-spend_guard_global_sprite_requisitions { background-position: 3px -3260px; width: 60px;  height: 60px;}
+.trigger-spend_guard_global_sprite_purchase_orders { background-position: 3px -3202px;  width: 60px;  height: 60px;}
+.trigger-spend_guard_global_sprite_invoices { background-position: 3px -3142px;  width: 60px;  height: 60px;}
+.trigger-spend_guard_global_sprite_contracts { background-position: 3px -3326px;  width: 60px;  height: 60px;}
+.trigger-spend_guard_global_sprite_sourcing_events { background-position: 5px -3390px; width: 60px;  height: 60px; }
+.trigger-employee_spend_view_avatar_sprite_avatar { background-position: 2px -3880px; width: 80px;  height: 80px;}
+.trigger-spend_profile_sprite_expenses { background-position: -60px -111px; }
+.trigger-spend_profile_sprite_expenses_requisitions { background-position: -60px -223px; }
+.trigger-spend_profile_sprite_expenses_purchase_orders { background-position: -60px -167px; }
+.trigger-spend_profile_sprite_expenses_invoices { background-position: -60px -279px; }
+.trigger-trends-sprite_hot { background-position: -105px -2407px;  width: 60px;  height: 60px;}
+.trigger-trends-sprite_new { background-position: -106px -2492px;  width: 60px;  height: 60px;}
+.trigger-trends-sprite_coupa_accelerate { background-position: -107px -2880px; transform: scale(0.8); width: 63px; }
+.trigger-ciIconsSprite_ciGearIcon { background-position: -5px -2660px; width: 60px;  height: 60px;}
+.trigger-ciIconsSprite_currencyPattern { background-position: -10px -4062px; width: 200px;  height: 140px;}
+.trigger-ciIconsSprite_gearIcon { background-position: -6px -4204px; width: 60px;  height: 60px;}
+.trigger-ciIconsSprite_alertIcon { background-position: -60px -336px; width: 28px;height: 28px; }
+.trigger-ciIconsSprite_newIcon { background-position: -107px -2494px; width: 55px; height: 55px;}
+.trigger-ciIconsSprite_hotIcon { background-position: -111px -2408px; width: 50px; height: 57px;}
+.trigger-ciIconsSprite_accelerateIcon { background-position: -102px -2584px; width: 65px; height: 43px;}
+.trigger-ciIconsSprite_thumbsUpIcon { background-position: -108px -3213px; width: 55px; height: 55px;}
+.trigger-community-advantage-sprite_realTimeSavingsIcon {background-position: -109px -2658px;   width: 60px;  height: 60px;}
+.trigger-community-advantage-sprite_potentialSavingsIcon { background-position: -107px -2735px; width: 60px;  height: 60px;}
+.trigger-coupaAdvantageIcon{  background-position: -10px -4362px;   width: 160px; height: 40px; }
+.trigger-exclaimationIcon { background-position: -58px -333px; width: 32px;height: 32px; }
+.trigger-groupIcon { background-position: -58px -390px; width: 32px; height: 32px; }
+.trigger-increasedSpendIcon { background-position: -2px -501px; width: 32px;height: 32px;}
+.trigger-bank_transfer_128 { background-position: 0px -4456px; width: 128px; height: 128px;}
+.trigger-bank_transfer_64 { background-position: 0px -4615px; width: 64px; height: 64px;}
+.trigger-bank_transfer_48 {  background-position: 0px -4710px; width: 48px; height: 48px; }
+.trigger-expense_reimbursement_128 { background-position: -188px -4456px; width: 128px; height: 128px;}
+.trigger-expense_reimbursement_64 { background-position: -188px -4615px; width: 64px; height: 64px; }
+.trigger-expense_reimbursement_48 { background-position: -188px -4710px; width: 48px; height: 48px; }
+.trigger-virtual_card_128 { background-position: -376px -4456px; width: 128px; height: 128px; }
+.trigger-virtual_card_64 { background-position: -376px -4615px; width: 64px; height: 64px;}
+.trigger-virtual_card_48 { background-position: -376px -4710px; width: 48px; height: 48px;}
+.trigger-digital_check_128 { background-position: -564px -4456px; width: 128px; height: 128px;}
+.trigger-digital_check_64 { background-position: -564px -4615px; width: 64px; height: 64px;}
+.trigger-digital_check_48 { background-position: -564px -4710px; width: 48px; height: 48px;}
+.trigger-egencia_icon { background-position: -1px -4840px; width: 40px; height: 20px;}
+.trigger-get_there_icon { background-position: -2px -4882px; width: 21px; height: 20px;}
+.trigger-cytric_icon {background-position: 0px -4920px; width: 24px; height: 24px;}
 
-
-.opportunity_trigger_contract_expiration { background-position: 0px -671px; }
-.opportunity_trigger_increased_spend { background-position: 0px -503px; }
-.opportunity_trigger_frequent_free_form { background-position: 0px -615px; }
-.opportunity_trigger_invoice_increase { background-position: 0px -503px; }
-.opportunity_trigger_large_requisition { background-position: 0px -783px; }
-.opportunity_trigger_increased_expenses_by_merchant { background-position: 0px -503px; }
-.opportunity_trigger_increased_expenses_by_category { background-position: 0px -503px; }
-.opportunity_trigger_frequent_orders { background-position: 0px -783px; }
-.opportunity_trigger_frequent_adjustments { background-position: 0px -559px; }
-.opportunity_trigger_inactive_supplier { background-position: 0px -335px; }
-.opportunity_trigger_expiring_forms { background-position: 0px -391px; }
-.opportunity_trigger_outdated_sim { background-position: 0px -447px; }
-.opportunity_trigger_supplier_link_suggestion { background-position: 0px -2072px; }
-.opportunity_trigger_supplier_risk { background-position: 0px 0px;}
-.opportunity_trigger_supplier_performance { background-position: 0px 0px; }
-
-
-.opportunity_trigger_compliant2_2Icon42 { background-position: 0px -2015px; width: 50px;  height: 50px;}
-.opportunity_trigger_compliant2_2Icon130 { background-position: -4px -1847px;   width: 140px;  height: 140px;}
-.opportunity_trigger_compliant2_3Icon42 { background-position: 0px -1763px;  width: 50px;  height: 50px;}
-.opportunity_trigger_compliant2_3Icon130 { background-position: -4px -1343px;   width: 140px;  height: 140px;}
-.opportunity_trigger_compliant3_3Icon42 { background-position: 0px -1679px; width: 50px;  height: 50px; }
-.opportunity_trigger_compliant3_3Icon130 { background-position: -4px -1175px;   width: 140px;  height: 140px;}
-.opportunity_trigger_compliant3_4Icon42 { background-position: 0px -1595px; width: 50px;  height: 50px; }
-.opportunity_trigger_compliant3_4Icon130 { background-position: -4px -1007px;   width: 140px;  height: 140px;}
-.opportunity_trigger_compliant4_4Icon42 { background-position: 0px -1511px; width: 50px;  height: 50px; }
-.opportunity_trigger_compliant4_4Icon130 { background-position: -4px -839px;  width: 140px;  height: 140px; }
-.opportunity_trigger_compliant1Icon42,  
-.opportunity_trigger_compliant1Icon130 { background-position: 0px 50px; }
-
-
-.opportunity_trigger_fraud_risk_sprite_global { background-position: -5px -3980px;  width: 80px;  height: 80px;}
-.opportunity_trigger_fraud_risk_sprite_users { background-position: -7px -2492px;  width: 60px;  height: 60px;}
-.opportunity_trigger_fraud_risk_sprite_lines { background-position: -3px -2409px;  width: 60px;  height: 60px;}
-
-.opportunity_trigger_search-icon-sprite_magnifier_icon_large {   background-position: 0px -2856px;   width: 60px;  height: 60px;}
-.opportunity_trigger_spend_guard_global_sprite_expense_lines { background-position: 13px -3037px; width: 60px;  height: 60px; }
-.opportunity_trigger_spend_guard_global_sprite_expenses_reports { background-position: 7px -3094px; width: 60px;  height: 60px;}
-.opportunity_trigger_spend_guard_global_sprite_requisitions { background-position: 3px -3260px; width: 60px;  height: 60px;}
-.opportunity_trigger_spend_guard_global_sprite_purchase_orders { background-position: 3px -3202px;  width: 60px;  height: 60px;}
-.opportunity_trigger_spend_guard_global_sprite_invoices { background-position: 3px -3142px;  width: 60px;  height: 60px;}
-.opportunity_trigger_spend_guard_global_sprite_contracts { background-position: 3px -3326px;  width: 60px;  height: 60px;}
-.opportunity_trigger_spend_guard_global_sprite_sourcing_events { background-position: 5px -3390px; width: 60px;  height: 60px; }
-
-
-.opportunity_trigger_employee_spend_view_avatar_sprite_avatar { background-position: 2px -3880px; width: 80px;  height: 80px;}
-
-.opportunity_trigger_spend_profile_sprite_expenses { background-position: -60px -111px; }
-.opportunity_trigger_spend_profile_sprite_expenses_requisitions { background-position: -60px -223px; }
-.opportunity_trigger_spend_profile_sprite_expenses_purchase_orders { background-position: -60px -167px; }
-.opportunity_trigger_spend_profile_sprite_expenses_invoices { background-position: -60px -279px; }
-
-.opportunity_trigger_trends-sprite_hot { background-position: -105px -2407px;  width: 60px;  height: 60px;}
-.opportunity_trigger_trends-sprite_new { background-position: -106px -2492px;  width: 60px;  height: 60px;}
-.opportunity_trigger_trends-sprite_coupa_accelerate { background-position: -107px -2880px;     transform: scale(0.8);
-  width: 63px; }
-.opportunity_trigger_ciIconsSprite_ciGearIcon {
-  background-position: -5px -2660px; width: 60px;  height: 60px;
-}
-.opportunity_trigger_ciIconsSprite_currencyPattern {
-  background-position: -10px -4062px; width: 200px;  height: 140px;
-}
-.opportunity_trigger_ciIconsSprite_gearIcon {
-  background-position: -6px -4204px; width: 60px;  height: 60px;
-}
-.opportunity_trigger_ciIconsSprite_alertIcon {
-  background-position: -60px -336px;
-  width: 28px;
-  height: 28px;
-}
-
-.opportunity_trigger_ciIconsSprite_newIcon {
-  background-position: -107px -2494px;
-  width: 55px;
-  height: 55px;
-}
-.opportunity_trigger_ciIconsSprite_hotIcon {
-  background-position: -111px -2408px;
-  width: 50px;
-  height: 57px;
-}
-
-.opportunity_trigger_ciIconsSprite_accelerateIcon {
-  background-position: -102px -2584px;
-  width: 65px;
-  height: 43px;
-}
-.opportunity_trigger_ciIconsSprite_thumbsUpIcon {
-  background-position: -108px -3213px;
-  width: 55px;
-  height: 55px;
-}
-.opportunity_trigger_community-advantage-sprite_realTimeSavingsIcon {
-   background-position: -109px -2658px;   width: 60px;  height: 60px;
- }
-
-.opportunity_trigger_community-advantage-sprite_potentialSavingsIcon {
-  background-position: -107px -2735px; width: 60px;  height: 60px;
-}
-
-.opportunity_trigger_coupaAdvantageIcon{  background-position: -10px -4362px;   width: 160px; height: 40px;  }
-
-.opportunity_trigger_exclaimationIcon {
-   background-position: -58px -333px;
-   width: 32px;
-   height: 32px;
- }
-
-.opportunity_trigger_groupIcon {
-   background-position: -58px -390px;
-   width: 32px;
-   height: 32px;
- }
-
-.opportunity_trigger_increasedSpendIcon {
-   background-position: -2px -501px;
-   width: 32px;
-   height: 32px;
- }
-
-.opportunity_trigger_bank_transfer_128 {
-    background-position: 0px -4456px;
-    width: 128px;
-    height: 128px;
-  }
-
- .opportunity_trigger_bank_transfer_64 {
-    background-position: 0px -4615px;
-    width: 64px;
-    height: 64px;
-  }
-
- .opportunity_trigger_bank_transfer_48 {
-    background-position: 0px -4710px;
-    width: 48px;
-    height: 48px;
-  }
-
- .opportunity_trigger_expense_reimbursement_128 {
-    background-position: -188px -4456px;
-    width: 128px;
-    height: 128px;
-  }
-
- .opportunity_trigger_expense_reimbursement_64 {
-    background-position: -188px -4615px;
-    width: 64px;
-    height: 64px;
-  }
-
- .opportunity_trigger_expense_reimbursement_48 {
-    background-position: -188px -4710px;
-    width: 48px;
-    height: 48px;
-  }
-
- .opportunity_trigger_virtual_card_128 {
-    background-position: -376px -4456px;
-    width: 128px;
-    height: 128px;
-  }
-
- .opportunity_trigger_virtual_card_64 {
-    background-position: -376px -4615px;
-    width: 64px;
-    height: 64px;
-  }
-
- .opportunity_trigger_virtual_card_48 {
-    background-position: -376px -4710px;
-    width: 48px;
-    height: 48px;
-  }
-
- .opportunity_trigger_digital_check_128 {
-    background-position: -564px -4456px;
-    width: 128px;
-    height: 128px;
-  }
-
- .opportunity_trigger_digital_check_64 {
-    background-position: -564px -4615px;
-    width: 64px;
-    height: 64px;
-  }
-
- .opportunity_trigger_digital_check_48 {
-    background-position: -564px -4710px;
-    width: 48px;
-    height: 48px;
-  }
-
- .opportunity_trigger_egencia_icon {
-    background-position: -1px -4840px;
-    width: 40px;
-    height: 20px;
-  }
-
- .opportunity_trigger_get_there_icon {
-    background-position: -2px -4882px;
-    width: 21px;
-    height: 20px;
-  }
-
- .opportunity_trigger_cytric_icon {
-    background-position: 0px -4920px;
-    width: 24px;
-    height: 24px;
-  }
-}
 /* avatar sprint*/
-
-.avatar-icon-user_avatar_thumb,
-.avatar-icon-custom_field_attribute_user_avatar_thumb {
-  background-position: -758px 2px; width: 40px; height: 40px;
- }
-
-.avatar-icon-user_avatar_big_thumb,
-.avatar-icon-custom_field_attribute_user_avatar_big_thumb {
-   background-position: -620px 2px; width: 128px; height: 128px;
- }
-
-.avatar-icon-user_avatar_large,
-.avatar-icon-custom_field_attribute_user_avatar_large {
-   background-position: -410px 2px; width: 200px; height: 200px;
- }
-
-.avatar-icon-user_avatar_mine,
-.avatar-icon-custom_field_attribute_user_avatar_mine {
-   background-position: 0px 2px; width: 400px; height: 400px;
- }
-
-.avatar-icon-user_group_avatar_thumb,
-.avatar-icon-custom_field_attribute_approval_group_avatar_thumb,
-.avatar-icon-approval_group_avatar_thumb {
-   background-position: -758px -408px; width:40px; height: 40px;
- }
-
-.avatar-icon-user_group_avatar_big_thumb,
-.avatar-icon-custom_field_attribute_approval_group_avatar_big_thumb,
-.avatar-icon-approval_group_avatar_big_thumb {
-   background-position: -620px -408px; width: 128px; height: 128px;
- }
-
-.avatar-icon-user_group_avatar_large,
-.avatar-icon-custom_field_attribute_approval_group_avatar_large,
-.avatar-icon-approval_group_avatar_large {
-   background-position: -410px -408px; width: 200px; height: 200px;
- }
-
-.avatar-icon-user_group_avatar_mine,
-.avatar-icon-custom_field_attribute_approval_group_avatar_mine,
-.avatar-icon-approval_group_avatar_mine {
-   background-position: 0px -408px;  width: 400px; height: 400px;
- }
-
-
-  .avatar-icon-remote_approver_avatar_thumb {
-     background-position: -758px -1228px; width:40px; height: 40px;
-   }
-
-.avatar-icon-remote_approver_avatar_big_thumb {
-   background-position: -620px -1228px; width:128px; height: 128px;
- }
-
-.avatar-icon-remote_approver_avatar_large {
-   background-position: -410px -1228px; width:200px; height: 200px;
- }
-
-.avatar-icon-remote_approver_avatar_mine {
-   background-position: 0px -1228px; width:400px; height: 400px;
- }
+.avatar-icon-user_avatar_thumb,.avatar-icon-custom_field_attribute_user_avatar_thumb {  background-position: -758px 2px; width: 40px; height: 40px;}
+.avatar-icon-user_avatar_big_thumb, .avatar-icon-custom_field_attribute_user_avatar_big_thumb { background-position: -620px 2px; width: 128px; height: 128px;}
+.avatar-icon-user_avatar_large, .avatar-icon-custom_field_attribute_user_avatar_large { background-position: -410px 2px; width: 200px; height: 200px;}
+.avatar-icon-user_avatar_mine, .avatar-icon-custom_field_attribute_user_avatar_mine {  background-position: 0px 2px; width: 400px; height: 400px;}
+.avatar-icon-user_group_avatar_thumb, .avatar-icon-custom_field_attribute_approval_group_avatar_thumb, .avatar-icon-approval_group_avatar_thumb {background-position: -758px -408px; width:40px; height: 40px;}
+.avatar-icon-user_group_avatar_big_thumb, .avatar-icon-custom_field_attribute_approval_group_avatar_big_thumb, .avatar-icon-approval_group_avatar_big_thumb { background-position: -620px -408px; width: 128px; height: 128px; }
+.avatar-icon-user_group_avatar_large, .avatar-icon-custom_field_attribute_approval_group_avatar_large, .avatar-icon-approval_group_avatar_large { background-position: -410px -408px; width: 200px; height: 200px; }
+.avatar-icon-user_group_avatar_mine, .avatar-icon-custom_field_attribute_approval_group_avatar_mine, .avatar-icon-approval_group_avatar_mine { background-position: 0px -408px;  width: 400px; height: 400px; }
+.avatar-icon-remote_approver_avatar_thumb { background-position: -758px -1228px; width:40px; height: 40px; }
+.avatar-icon-remote_approver_avatar_big_thumb { background-position: -620px -1228px; width:128px; height: 128px; }
+.avatar-icon-remote_approver_avatar_large { background-position: -410px -1228px; width:200px; height: 200px;}
+.avatar-icon-remote_approver_avatar_mine {  background-position: 0px -1228px; width:400px; height: 400px;}
