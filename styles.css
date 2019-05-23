@@ -471,8 +471,7 @@ h2 { background-color: #ffe7e7; border: 1px solid #ddd; margin: 0; padding: 16px
 .avatar-icon-remote_approver_avatar_large { background-position: -410px -1228px; width:200px; height: 200px;}
 .avatar-icon-remote_approver_avatar_mine {  background-position: 0px -1228px; width:400px; height: 400px;}
 
-
-.home-search-nav-icon-4s {  background-position: 0px 0px;  width: 40px;  height: 500px;}
+/* home-search-nav sprint*/
 .home-search-nav-icon-search_click { background-position: 0px 0px; width:9px; height: 60px;}
 .home-search-nav-icon-browse_click {  background-position: 0px -80px; width:9px; height: 60px;}
 .home-search-nav-icon-write_click { background-position: 0px -160px; width:9px; height: 60px;}
