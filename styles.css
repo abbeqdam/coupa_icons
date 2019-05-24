@@ -149,7 +149,6 @@ h2 { background-color: #ffe7e7; border: 1px solid #ddd; margin: 0; padding: 16px
 .sprite-creditcards{  background-position: -576px -108px; }
 .sprite-cross{  background-position: -324px -18px; }
 .sprite-checkmark{  background-position: -36px -146px}
-.sprite-cytric { background-position: -935px -17px;}
 .button img.sprite-delete,
 .sprite-delete_small,.sprite-cross_small {  background-position: -109px -307px; }
 .sprite-delete,
@@ -442,7 +441,9 @@ h2 { background-color: #ffe7e7; border: 1px solid #ddd; margin: 0; padding: 16px
 .trigger-digital_check_64 { background-position: -564px -4615px; width: 64px; height: 64px;}
 .trigger-digital_check_48 { background-position: -564px -4710px; width: 48px; height: 48px;}
 .trigger-egencia_icon { background-position: 0px -4840px; width: 40px; height: 20px;}
+.trigger-egencia_icon_small {  background-position: -60px -4840px;  width: 32px;  height: 16px;}
 .trigger-tripscanner_icon { background-position: 0px -4793px;  width: 21px;  height: 16px;}
+.trigger-cytric { background-position: -51px -4793px; width: 18px; height: 18px;}
 .trigger-get_there_icon { background-position: -2px -4878px; width: 21px; height: 19px;}
 .trigger-search_icon { background-position: -108px -2329px;   width: 60px;   height: 60px;}
 .trigger-submit_icon_green { background-position: -283px -2961px; width: 50px; height: 48px;}
@@ -453,7 +454,14 @@ h2 { background-color: #ffe7e7; border: 1px solid #ddd; margin: 0; padding: 16px
 .trigger-delivery_icon_disabled {  background-position: -460px -3052px;  width: 52px;  height: 48px;}
 .trigger-done_icon {  background-position: -112px -3048px;  width: 55px;  height: 55px;}
 .trigger-done_disabled_icon { background-position: -205px -3048px;	 width: 55px;  height: 55px;}
-.trigger-loading_icon {  background-position: 0px -4913px;  width: 60px;  height: 60px;}
+.trigger-letter_A_icon {  background-position: -180px -4297px;  width: 13px;  height: 13px;}
+.trigger-letter_B_icon { background-position: -214px -4297px;width: 13px;height: 13px;}
+.trigger-letter_C_icon { background-position: -246px -4297px;width: 13px;height: 15px;}
+.trigger-letter_D_icon { background-position: -280px -4297px; width: 13px; height: 13px; }
+.trigger-letter_E_icon {  background-position: -313px -4297px;  width: 11px;  height: 13px;}
+.trigger-conversion_rate_icon {  background-position: -108px -3346px;  width: 60px;  height: 60px;}
+.trigger-no_search_results_icon {  background-position: -108px -3418px;  width: 54px;  height: 52px;}
+/*.trigger-loading_icon {  background-position: 0px -4913px;  width: 60px;  height: 60px;}*/
 
 
 
