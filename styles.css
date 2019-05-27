@@ -69,14 +69,14 @@ h2 { background-color: #ffe7e7; border: 1px solid #ddd; margin: 0; padding: 16px
 .header-requisitions{ background-position: -15px -68px; }
 .header-responses{ background-position: -15px -1150px; }
 .header-score-weights{ background-position: -14px -736px; }
-.evaluation-weights{ background-position: -14px -1745px; }
+.header-evaluation-weights{ background-position: -14px -1745px; }
 .header-supplier{ background-position: -15px -828px; width: 16px; }
 .header-terms-and-conditions{ background-position: -14px -504px; }
 .header-toDos{ background-position: -15px -115px; }
 .header-with-status{ background-position: -15px -458px; }
 .header-suitcase_white{ background-position: -19px -367px; width: 17px; }
 .header-performance-management{ background-position: -14px -2036px; }
-.num_comments{ background-position: -14px -1930px; width: 30px; height: 27px; }
+.header-num_comments{ background-position: -14px -1930px; width: 30px; height: 27px; }
 .header-benchmark-savings{ background-position: -14px -2130px; }
 .header-benchmark-efficiency{ background-position: -14px -2176px; }
 .header-benchmark-usage{ background-position: -14px -2220px; }
