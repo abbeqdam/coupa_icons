@@ -414,13 +414,13 @@ h2 { background-color: #ffe7e7; border: 1px solid #ddd; margin: 0; padding: 16px
 .trigger-trends-sprite_hot { background-position: -105px -2407px;  width: 60px;  height: 60px;}
 .trigger-trends-sprite_new { background-position: -106px -2492px;  width: 60px;  height: 60px;}
 .trigger-trends-sprite_coupa_accelerate { background-position: -107px -2880px; transform: scale(0.8); width: 63px; }
-.trigger-ciIconsSprite_ciGearIcon { background-position: -5px -2660px; width: 60px;  height: 60px;}
-.trigger-ciIconsSprite_currencyPattern { background-position: -10px -4062px; width: 200px;  height: 140px;}
+.trigger-ciIconsSprite_ciGearIcon { background-position: -5px -2656px; width: 60px;  height: 60px;}
+.trigger-ciIconsSprite_currencyPattern { background-position: -11px -4062px; width: 200px;  height: 140px;}
 .trigger-ciIconsSprite_gearIcon { background-position: -6px -4204px; width: 60px;  height: 60px;}
 .trigger-ciIconsSprite_alertIcon { background-position: -60px -336px; width: 28px;height: 28px; }
 .trigger-ciIconsSprite_newIcon { background-position: -107px -2494px; width: 55px; height: 55px;}
-.trigger-ciIconsSprite_hotIcon { background-position: -111px -2408px; width: 50px; height: 57px;}
-.trigger-ciIconsSprite_accelerateIcon { background-position: -102px -2584px; width: 65px; height: 43px;}
+.trigger-ciIconsSprite_hotIcon { background-position: -111px -2404px; width: 50px; height: 57px;}
+.trigger-ciIconsSprite_accelerateIcon { background-position: -104px -2584px; width: 65px; height: 40px;}
 .trigger-ciIconsSprite_thumbsUpIcon { background-position: -108px -3213px; width: 55px; height: 55px;}
 .trigger-community-advantage-sprite_realTimeSavingsIcon {background-position: -109px -2658px;   width: 60px;  height: 60px;}
 .trigger-community-advantage-sprite_potentialSavingsIcon { background-position: -107px -2735px; width: 60px;  height: 60px;}
@@ -429,38 +429,51 @@ h2 { background-color: #ffe7e7; border: 1px solid #ddd; margin: 0; padding: 16px
 .trigger-groupIcon { background-position: -58px -390px; width: 32px; height: 32px; }
 .trigger-increasedSpendIcon { background-position: -2px -501px; width: 32px;height: 32px;}
 .trigger-bank_transfer_128 { background-position: 0px -4456px; width: 128px; height: 128px;}
-.trigger-bank_transfer_64 { background-position: 0px -4615px; width: 64px; height: 64px;}
+.trigger-bank_transfer_64 { background-position: -1px -4616px; width: 64px; height: 64px;}
 .trigger-bank_transfer_48 {  background-position: 0px -4710px; width: 48px; height: 48px; }
 .trigger-expense_reimbursement_128 { background-position: -188px -4456px; width: 128px; height: 128px;}
 .trigger-expense_reimbursement_64 { background-position: -188px -4615px; width: 64px; height: 64px; }
 .trigger-expense_reimbursement_48 { background-position: -188px -4710px; width: 48px; height: 48px; }
 .trigger-virtual_card_128 { background-position: -376px -4456px; width: 128px; height: 128px; }
-.trigger-virtual_card_64 { background-position: -376px -4615px; width: 64px; height: 64px;}
+.trigger-virtual_card_64 { background-position: -377px -4616px; width: 64px; height: 64px;}
 .trigger-virtual_card_48 { background-position: -376px -4710px; width: 48px; height: 48px;}
 .trigger-digital_check_128 { background-position: -564px -4456px; width: 128px; height: 128px;}
-.trigger-digital_check_64 { background-position: -564px -4615px; width: 64px; height: 64px;}
+.trigger-digital_check_64 { background-position: -565px -4616px; width: 64px; height: 64px;}
 .trigger-digital_check_48 { background-position: -564px -4710px; width: 48px; height: 48px;}
-.trigger-egencia_icon { background-position: 0px -4840px; width: 40px; height: 20px;}
-.trigger-egencia_icon_small {  background-position: -60px -4840px;  width: 32px;  height: 16px;}
-.trigger-tripscanner_icon { background-position: 0px -4793px;  width: 21px;  height: 16px;}
-.trigger-cytric { background-position: -51px -4793px; width: 18px; height: 18px;}
-.trigger-get_there_icon { background-position: -2px -4878px; width: 21px; height: 19px;}
-.trigger-search_icon { background-position: -108px -2329px;   width: 60px;   height: 60px;}
-.trigger-submit_icon_green { background-position: -283px -2961px; width: 50px; height: 48px;}
-.trigger-submit_icon_disabled { background-position: -283px -3052px; width: 50px; height: 48px;}
-.trigger-shipped_icon_green { background-position: -363px -2961px;  width: 67px;  height: 45px;}
-.trigger-shipped_icon_disabled { background-position: -363px -3052px;  width: 67px;  height: 45px;}
+.trigger-tripscanner_icon { background-position: 0px -4789px;  width: 21px;  height: 16px;}
+.trigger-egencia_icon { background-position: 0px -4836px; width: 40px; height: 20px;}
+.trigger-egencia_icon_small {  background-position: -60px -4836px;  width: 32px;  height: 16px;}
+.trigger-get_there_icon { background-position: -2px -4874px; width: 21px; height: 19px;}
+.trigger-cytric { background-position: -51px -4788px; width: 18px; height: 18px;}
+.trigger-search_icon { background-position: -108px -2325px;   width: 60px;   height: 60px;}
+.trigger-submit_icon_green { background-position: -283px -2957px; width: 50px; height: 48px;}
+.trigger-submit_icon_disabled { background-position: -283px -3048px; width: 50px; height: 48px;}
+.trigger-shipped_icon_green { background-position: -363px -2957px;  width: 67px;  height: 45px;}
+.trigger-shipped_icon_disabled { background-position: -363px -3048px;  width: 67px;  height: 45px;}
 .trigger-delivery_icon_green {  background-position: -460px -2961px;  width: 52px;  height: 48px;}
 .trigger-delivery_icon_disabled {  background-position: -460px -3052px;  width: 52px;  height: 48px;}
 .trigger-done_icon {  background-position: -112px -3048px;  width: 55px;  height: 55px;}
 .trigger-done_disabled_icon { background-position: -205px -3048px;	 width: 55px;  height: 55px;}
-.trigger-letter_A_icon {  background-position: -180px -4297px;  width: 13px;  height: 13px;}
-.trigger-letter_B_icon { background-position: -214px -4297px;width: 13px;height: 13px;}
-.trigger-letter_C_icon { background-position: -246px -4297px;width: 13px;height: 15px;}
-.trigger-letter_D_icon { background-position: -280px -4297px; width: 13px; height: 13px; }
-.trigger-letter_E_icon {  background-position: -313px -4297px;  width: 11px;  height: 13px;}
-.trigger-conversion_rate_icon {  background-position: -108px -3346px;  width: 60px;  height: 60px;}
-.trigger-no_search_results_icon {  background-position: -108px -3418px;  width: 60px;  height: 60px;}
+.trigger-letter_A_icon {  background-position: -180px -4293px;  width: 13px;  height: 13px;}
+.trigger-letter_B_icon { background-position: -214px -4293px;width: 13px;height: 13px;}
+.trigger-letter_C_icon { background-position: -246px -4293px;width: 13px;height: 15px;}
+.trigger-letter_D_icon { background-position: -280px -4293px; width: 13px; height: 13px; }
+.trigger-letter_E_icon {  background-position: -313px -4293px;  width: 11px;  height: 13px;}
+.trigger-conversion_rate_icon {  background-position: -108px -3342px;  width: 60px;  height: 60px;}
+.trigger-no_search_results_icon {  background-position: -108px -3414px;  width: 60px;  height: 60px;}
+.trigger-returnedIcon {  background-position: -537px -3047px;  width: 48px;  height: 48px;}
+.trigger-canceledIcon {  background-position: -179px -3272px;  width: 48px;  height: 48px;}
+.trigger-handshakeIcon {  background-position: -112px -3494px;  width: 60px;  height: 43px;}
+.trigger-supplierEmailsAcknowledgePOIcon {  background-position: -110px -3564px;  width: 64px;  height: 64px;}
+.trigger-supplierEmailsCommentIcon {  background-position: -190px -3564px;  width: 64px;  height: 64px;}
+.trigger-supplierEmailsShipmentTrackingIcon {  background-position: -270px -3564px;  width: 64px;  height: 64px;}
+.trigger-supplierEmailsPoChangeIcon {  background-position: -350px -3564px;  width: 64px;  height: 64px;}
+.trigger-supplierEmailsAccelerateIcon {  background-position: -430px -3564px;  width: 64px;  height: 64px;}
+.trigger-supplierEmailsOrdersWhiteIcon {  background-position: -112px -3646px;  width: 40px;  height: 30px; background-color: #726666}
+.trigger-supplierEmailsInvoicesWhiteIcon {  background-position: -164px -3646px;  width: 40px;  height: 30px; background-color: #333333}
+.trigger-supplierEmailsPaymentsWhiteIcon {  background-position: -217px -3646px;  width: 40px;  height: 30px; background-color: #333333}
+.trigger-supplierEmailsCustomersWhiteIcon {  background-position: -275px -3646px;  width: 40px;  height: 30px; background-color: #333333}
+.trigger-plusIcon {  background-position: -181px -2803px;  width: 52px;  height: 52px;}
 /*.trigger-loading_icon {  background-position: 0px -4913px;  width: 60px;  height: 60px;}*/
 
 
