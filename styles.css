@@ -413,7 +413,7 @@ h2 { background-color: #ffe7e7; border: 1px solid #ddd; margin: 0; padding: 16px
 .trigger-spend_profile_sprite_expenses_invoices { background-position: -60px -279px; }
 .trigger-trends-sprite_hot { background-position: -105px -2407px;  width: 60px;  height: 60px;}
 .trigger-trends-sprite_new { background-position: -106px -2492px;  width: 60px;  height: 60px;}
-.trigger-trends-sprite_coupa_accelerate { background-position: -107px -2880px; transform: scale(0.8); width: 63px; }
+.trigger-trends-sprite_coupa_accelerate { background-position: -107px -2880px; transform: scale(0.8); width: 63px; height: 63px}
 .trigger-ciIconsSprite_ciGearIcon { background-position: -5px -2656px; width: 60px;  height: 60px;}
 .trigger-ciIconsSprite_currencyPattern { background-position: -11px -4062px; width: 200px;  height: 140px;}
 .trigger-ciIconsSprite_gearIcon { background-position: -6px -4204px; width: 60px;  height: 60px;}
