@@ -6,6 +6,9 @@ textarea.css_input { width: 600px;  height: 200px;}
 .industry-icon  { background: url(sprites/sprite_analytics_display.svg) no-repeat top left;  display: inline-block;}
 .avatar-icon { background: url(sprites/sprite_avatar.svg) no-repeat top left; display: inline-block;}
 .home-search-nav-icon { background: url(sprites/home_search_nav.svg) no-repeat top left; display: inline-block;}
+.tess-icon { background: url(sprites/sprite_icons_cso_16x16.svg) no-repeat top left;   width: 16px; height: 16px;    display: inline-block;}
+.tess-icon32 { background: url(sprites/sprite_icons_cso_32x32.svg) no-repeat top left;   width: 32px; height: 32px;    display: inline-block;}
+
 table { border-collapse: collapse; table-layout: fixed; text-align: left; width: 100%;}
 table th { background-color: #f0f0f0; border: 1px solid #ddd; border-top: none;  padding: 10px;}
 table th:first-child { width: 150px;}
