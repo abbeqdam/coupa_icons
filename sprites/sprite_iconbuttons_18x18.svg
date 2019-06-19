@@ -315,6 +315,12 @@
             <text id="Expenses" font-family="OpenSans-Regular, Open Sans" font-size="6" font-weight="normal" fill="#4A4A4A">
                 <tspan x="1713.85156" y="339">Expenses</tspan>
             </text>
+            <text id="iframe-app" font-family="OpenSans-Regular, Open Sans" font-size="6" font-weight="normal" fill="#4A4A4A">
+                <tspan x="1788.7334" y="339">iframe app</tspan>
+            </text>
+            <text id="Panel-app" font-family="OpenSans-Regular, Open Sans" font-size="6" font-weight="normal" fill="#4A4A4A">
+                <tspan x="1753.11768" y="339">Panel app</tspan>
+            </text>
             <text id="Invoice" font-family="OpenSans-Regular, Open Sans" font-size="6" font-weight="normal" fill="#4A4A4A">
                 <tspan x="1679.13721" y="339">Invoice</tspan>
             </text>
@@ -3931,6 +3937,19 @@
                 <path d="M0.6,7.6 L7.6,0.6 C8.4,-0.2 9.6,-0.2 10.4,0.6 L17.4,7.6 C18.2,8.4 18.2,9.6 17.4,10.4 L10.4,17.4 C9.6,18.2 8.4,18.2 7.6,17.4 L0.6,10.4 C-0.2,9.6 -0.2,8.4 0.6,7.6 Z" id="Rectangle" fill="#F8E273" fill-rule="nonzero"></path>
                 <polygon id="Fill-5" fill="#333333" points="7.5 14.1 10.5 14.1 10.5 12 7.5 12"></polygon>
                 <polygon id="Fill-7" fill="#333333" points="7.5 4 7.5 6.2 8.2 10.8 9.8 10.8 10.5 6.2 10.5 4"></polygon>
+            </g>
+        </g>
+        <g id="icon/sprite/panel_app" transform="translate(1728.000000, 144.000000)">
+            <g>
+                <path d="M14.9988375,4.97590609 L14.9988375,4.52355661 L14.9988375,16.6441419 C14.9988375,16.6441419 15.0927209,18 13.5931233,18 L1.49832895,18 C0.0926147445,18 1.77455338e-15,16.6441419 1.77455338e-15,16.6441419 L1.77455338e-15,1.26783073 C1.77455338e-15,-0.089217718 1.40444551,0.0012521785 1.40444551,0.0012521785 L9.94054997,0.0012521785 L11.2523807,0.0012521785" id="Fill-1" fill="#FFFFFF"></path>
+                <polygon id="Fill-5" fill="#CCCCCC" points="11 5 15 5 11 0"></polygon>
+                <rect id="Rectangle" stroke="#6AAF57" fill="#6AAF57" x="2.5" y="11.5" width="11" height="4"></rect>
+            </g>
+        </g>
+        <g id="icon/sprite/iframe_app" transform="translate(1764.000000, 144.000000)">
+            <g>
+                <path d="M14.9988375,4.97590609 L14.9988375,4.52355661 L14.9988375,16.6441419 C14.9988375,16.6441419 15.0927209,18 13.5931233,18 L1.49832895,18 C0.0926147445,18 1.77455338e-15,16.6441419 1.77455338e-15,16.6441419 L1.77455338e-15,1.26783073 C1.77455338e-15,-0.089217718 1.40444551,0.0012521785 1.40444551,0.0012521785 L9.94054997,0.0012521785 L11.2523807,0.0012521785" id="Fill-1" fill="#FFFFFF"></path>
+                <polygon id="Fill-5" fill="#CCCCCC" points="11 5 15 5 11 0"></polygon>
             </g>
         </g>
     </g>
