@@ -330,6 +330,7 @@ h2 { background-color: #ffe7e7; border: 1px solid #ddd; margin: 0; padding: 16px
 .sprite-expense_reimbursement { background-position: -756px -54px;}
 .sprite-virtual_card { background-position: -792px -54px;}
 .sprite-digital_check { background-position: -828px -54px;}
+.sprite-alertIcon { background-position: -468px -306px;}
 
 /*start of icons in the main.css.less*/
 .sprite-home { background-position: -316px -430px; width: 40px; height: 40px; background-color: #333333;}
@@ -474,6 +475,7 @@ h2 { background-color: #ffe7e7; border: 1px solid #ddd; margin: 0; padding: 16px
 .trigger-supplierEmailsPaymentsWhiteIcon {  background-position: -217px -3646px;  width: 40px;  height: 30px; background-color: #333333}
 .trigger-supplierEmailsCustomersWhiteIcon {  background-position: -275px -3646px;  width: 40px;  height: 30px; background-color: #333333}
 .trigger-plusIcon {  background-position: -181px -2803px;  width: 52px;  height: 52px;}
+.trigger-noImageIcon {  background-position: -100px -3736px; width: 128px;  height: 128px;}
 /*.trigger-loading_icon {  background-position: 0px -4913px;  width: 60px;  height: 60px;}*/
 
 
