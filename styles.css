@@ -153,7 +153,7 @@ h2 { background-color: #ffe7e7; border: 1px solid #ddd; margin: 0; padding: 16px
 .sprite-cross{  background-position: -324px -18px; }
 .sprite-checkmark{  background-position: -36px -146px}
 .button img.sprite-delete,
-.sprite-delete_small,.sprite-cross_small {  background-position: -109px -307px; }
+.sprite-delete_small,.sprite-cross_small {  background-position: -109px -307px; height: 16px; }
 .sprite-delete,
 .sprite-delete_large {  background-position: -324px -18px; width: 20px; height: 19px; }
 .sprite-delete_bw{  background-position: -144px -360px; }
@@ -334,6 +334,8 @@ h2 { background-color: #ffe7e7; border: 1px solid #ddd; margin: 0; padding: 16px
 .sprite-virtual_card { background-position: -792px -54px;}
 .sprite-digital_check { background-position: -828px -54px;}
 .sprite-alertIcon { background-position: -468px -306px;}
+.sprite-panelAppIcon {  background-position: -1728px -144px; height: 30px; background-color: #333333;}
+.sprite-iframeAppIcon {  background-position: -1764px -144px; height: 30px; background-color: #333333;}
 
 /*start of icons in the main.css.less*/
 .sprite-home { background-position: -316px -430px; width: 40px; height: 40px; background-color: #333333;}
