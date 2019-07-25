@@ -2,7 +2,7 @@ body { background-color: #FFF;  font-family: helvetica, arial, sans-serif;  font
 textarea.css_input { width: 600px;  height: 200px;}
 .header_icon { background: url(sprites/sprite_headers.svg) no-repeat top left;  width: 26px;  height: 24px;  margin: 0px 8px 3px 0;  background-size: 62px 2636px;}
 .icon_button { background: url(sprites/sprite_iconbuttons_18x18.svg) no-repeat top left;  padding: 0;  margin: 3px;  width: 18px;  height: 18px; vertical-align: top;}
-.trigger { background: url(sprites/trigger_icons.svg) no-repeat top left; width: 30px; height: 30px;  display: inline-block;}
+.trigger { background: url(sprites/trigger_icons.svg) no-repeat top left;  margin: 0px 8px 3px 0; width: 32px; height: 30px;  display: inline-block;}
 .industry-icon  { background: url(sprites/sprite_analytics_display.svg) no-repeat top left;  display: inline-block;}
 .avatar-icon { background: url(sprites/sprite_avatar.svg) no-repeat top left; display: inline-block;}
 .home-search-nav-icon { background: url(sprites/home_search_nav.svg) no-repeat top left; display: inline-block;}
@@ -344,7 +344,7 @@ h2 { background-color: #ffe7e7; border: 1px solid #ddd; margin: 0; padding: 16px
 .sprite-search_icon_disabled { cursor: auto; background-position: -361px -361px;}
 .sprite-big-star-rating { list-style:none; margin: 0px; padding:0px; width: 140px; height: 28px; position: relative; background-position: 0px -433px; }
 .sprite-current-rating{ width: 140px; height: 28px; background-position: -162px -433px;}
-.sprite-add_tag{ width: 22px; height: 22px; background-position: -720px -108px}
+.sprite-add_tag{ width: 22px; height: 22px; background-position: -720px -108px;}
 /* icon not used anywhere */
 /*
 .sprite-briefcase{ background: image-url("sprite_iconbuttons.png") no-repeat -399px 0; width: 16px; height: 16px; }
