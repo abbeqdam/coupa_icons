@@ -85,6 +85,19 @@
       <tbody></tbody>
     </table>
   </div>
+  <div class="missing_names_icons">
+    <h2>Missing icon names on Sprite </h2>
+    <table class="missing_names_icons_table">
+      <thead>
+        <tr>
+          <th>Icon</th>
+          <th>CSS Class Name</th>
+          <th>Background Position</th>
+        </tr>
+      </thead>
+      <tbody></tbody>
+    </table>
+  </div>
   <script type="text/javascript">
 
     function createTableRows(prefix, iconBaseClass, tableSelector) {
@@ -113,7 +126,7 @@
     createTableRows('industry-icon-', 'industry-icon', '.industry_icon_table tbody');
     createTableRows('avatar-icon-', 'avatar-icon', '.avatar_icon_table tbody');
     createTableRows('home-search-nav-icon-', 'home-search-nav-icon', '.home_search_nav_icon_table tbody');
-
+    createTableRows('missing-name-', 'icon_button', '.missing_names_icons_table tbody');
   </script>
 </body>
 </html>

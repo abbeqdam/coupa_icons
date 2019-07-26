@@ -507,3 +507,76 @@ h2 { background-color: #ffe7e7; border: 1px solid #ddd; margin: 0; padding: 16px
 .home-search-nav-icon-browse_hover {  background-position: 0px -310px; width:9px; height: 65px;}
 .home-search-nav-icon-write_hover { background-position: 0px -390px; width:9px; height: 60px;}
 .home-search-nav-icon-home_gray { background-position: 0px -460px; width:23px; height: 21px;}
+
+/* Missing icon names on Sprite*/
+.missing-name-upload-download {  background-position: 0px -216px; }
+.missing-name-return {  background-position: -36px -256px; }
+.missing-name-key {  background-position: -74px -252px; }
+.missing-name-schedule {  background-position: -2px -311px; }
+.missing-name-send_line {  background-position: -108px -253px;}
+.missing-name-move_up {  background-position: -186px -254px;}
+.missing-name-favorite {  background-position: -289px -218px;}
+.missing-name-dispute {  background-position: -324px -255px;}
+.missing-name-copy_copy_requisitions {  background-position: -361px -307px;}
+.missing-name-approvals_but_not_sure {  background-position: -397px -253px;}
+.missing-name-detailed_receipt {  background-position: -470px -54px;}
+.missing-name-replace_document {  background-position: -504px -179px;}
+.missing-name-add_info {  background-position: -396px -360px;}
+.missing-name-disabled_multi_select {  background-position: -433px -364px;}
+.missing-name-_discard_rework {  background-position: -1693px -179px;}
+.missing-name-lock {  background-position: -541px -252px;}
+.missing-name-move_to_next_line {  background-position: -576px -218px;}
+.missing-name-rework_supplier_view {  background-position: -1584px -254px;}
+.missing-name-back {  background-position: -613px -220px;}
+.missing-name-hide {  background-position: -648px -54px;}
+.missing-name-disable_upgrade {  background-position: -683px -54px;}
+.missing-name-information_disabled {  background-position: -683px -252px;}
+.missing-name-sourcing_timeline {  background-position: -723px -216px;}
+.missing-name-reload {  background-position: -216px -217px;}
+.missing-name-old_download_icon {  background-position: -756px -146px;}
+.missing-name-po_close {  background-position: -828px -18px;}
+.missing-name-sound_announcement  {  background-position: -828px -109px;}
+.missing-name-edit_billing {  background-position: -792px -180px;}
+.missing-name-split_billing {  background-position: -828px -181px;}
+.missing-name-add_text {  background-position: -792px -216px;}
+.missing-name-default_missing_image {  background-position: -792px -254px;}
+.missing-name-send_supplier_feedback_form {  background-position: -792px -254px;}
+.missing-name-item {  background-position: -792px -254px;}
+.missing-name-security {  background-position: -865px -144px;}
+.missing-name-flag {  background-position: }
+.missing-name-sourcing_timeline  {  background-position: -828px -252px;}
+.missing-name-return_supplier_feedback_form {  background-position: -900px -180px;}
+.missing-name-add_item {  background-position: -900px -252px;}
+.missing-name-percent_scale {  background-position: -936px -180px;}
+.missing-name-supplier_record {  background-position: -972px -179px;}
+.missing-name-advanced_reports {  background-position: -936px -109px;}
+.missing-name-purchase_orders {  background-position: -971px -110px;}
+.missing-name-budget_report_liquidity {  background-position: -1007px -110px;}
+.missing-name-supplier_performances  {  background-position: -1118px -108px;}
+.missing-name-document  {  background-position: -1440px -180px;}
+.missing-name-spend_guard {  background-position: -1548px -108px;}
+.missing-name-rework {  background-position: -1586px -182px;}
+.missing-name-accepted_rework {  background-position: -1620px -182px;}
+.missing-name-discard_work {  background-position: -1657px -182px;}
+.missing-name-source_together_host {  background-position: -1731px -180px;}
+/* .missing-name-source_together_participant_could_be_also_disabled_user {  background-position: } */
+.missing-name-digital_check {  background-position: -1800px -180px;}
+.missing-name-commodity {  background-position: -1799px -218px;}
+.missing-name-announcement {  background-position: -1764px -217px;}
+.missing-name-coupapay_invalid {  background-position: -1727px -252px; }
+.missing-name-coupapay_pending {  background-position: -1691px -252px;}
+.missing-name-coupapay_valid {  background-position: -1655px -252px;}
+.missing-name-coupapay {  background-position: -1619px -252px;}
+.missing-name-loading {  background-position: -1584px -254px;}
+.missing-name-payments {  background-position: -1512px -254px;}
+.missing-name-edits_on_contracts {  background-position: -1409px -255px;}
+.missing-name-search_community_intelligence_disabled {  background-position: -1332px -217px;}
+.missing-name-supplier  {  background-position: -1264px -218px;}
+.missing-name-community_intelligence {  background-position: -1116px -179px;}
+.missing-name-sim_supplier_information {  background-position: -1080px -181px;}
+.missing-name-activity_summary {  background-position: -1045px -180px;}
+.missing-name-supplier_record {  background-position: -972px -179px;}
+.missing-name-search_analytics {  background-position: -1152px -111px;}
+.missing-name-close {  background-position: -1188px -144px;}
+.missing-name-rework_supplier_view {  background-position: -578px -362px;}
+.missing-name-discard_supplier_view {  background-position: -614px -362px;}
