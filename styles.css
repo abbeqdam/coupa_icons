@@ -77,7 +77,7 @@ h2 { background-color: #ffe7e7; border: 1px solid #ddd; margin: 0; padding: 16px
 .header-terms-and-conditions{ background-position: -14px -504px; }
 .header-toDos{ background-position: -15px -115px; }
 .header-with-status{ background-position: -15px -458px; }
-.header-suitcase_white{ background-position: -19px -367px; width: 17px; }
+.header-suitcase_white{ background-position: -19px -367px; width: 17px;}
 .header-performance-management{ background-position: -14px -2036px; }
 .header-num_comments{ background-position: -14px -1930px; width: 30px; height: 27px; }
 .header-benchmark-savings{ background-position: -14px -2130px; }
@@ -111,7 +111,9 @@ h2 { background-color: #ffe7e7; border: 1px solid #ddd; margin: 0; padding: 16px
 .sprite-arrow_right_gray{  background-position: -180px -180px; }
 .sprite-arrow_rotate_right {  background-position: -540px -216px; }
 .sprite-expanded_section {  background-position: -1296px -252px; }
+.sprite-expanded_section_white { background-position: -505px -306px; background-color: #333333;}
 .sprite-collapsed_section {  background-position: -1332px -252px; }
+.sprite-collapsed_section_white { background-position: -540px -306px; background-color: #333333;}
 .sprite-restore {  background-position: -792px -144px; }
 .sprite-arrow_split{  background-position: 0 -108px; }
 .sprite-account_split{  background-position: -360px -216px; }
@@ -172,6 +174,8 @@ h2 { background-color: #ffe7e7; border: 1px solid #ddd; margin: 0; padding: 16px
 .sprite-email_blocked{  background-position: -540px -54px; }
 .sprite-error{  background-position: -612px -108px; }
 .sprite-exclamation{  background-position: -648px -108px; }
+.sprite-exclamation_white { background-position: -864px -54px; background-color: #333333;}
+.sprite-exclamation_outline { background-position: -900px -54px;}
 .sprite-grid{  background-position: -540px -180px; }
 .sprite-group{  background-position: -504px -19px; }
 .sprite-keyboard{  background-position: -396px -180px; }
@@ -334,8 +338,8 @@ h2 { background-color: #ffe7e7; border: 1px solid #ddd; margin: 0; padding: 16px
 .sprite-virtual_card { background-position: -792px -54px;}
 .sprite-digital_check { background-position: -828px -54px;}
 .sprite-alertIcon { background-position: -468px -306px;}
-.sprite-panelAppIcon {  background-position: -1728px -144px; height: 30px; background-color: #333333;}
-.sprite-iframeAppIcon {  background-position: -1764px -144px; height: 30px; background-color: #333333;}
+.sprite-panelAppIcon {  background-position: -1727px -144px; height: 30px; background-color: #333333;}
+.sprite-iframeAppIcon {  background-position: -1763px -144px; height: 30px; background-color: #333333;}
 
 /*start of icons in the main.css.less*/
 .sprite-home { background-position: -316px -430px; width: 40px; height: 40px; background-color: #333333;}
