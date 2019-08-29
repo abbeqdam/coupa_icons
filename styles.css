@@ -1,6 +1,6 @@
 body { background-color: #FFF;  font-family: helvetica, arial, sans-serif;  font-size: 13px;  color: #333;}
 textarea.css_input { width: 600px;  height: 200px;}
-.header_icon { background: url(sprites/sprite_headers.svg) no-repeat top left;  width: 26px;  height: 24px;  margin: 0px 8px 3px 0;  background-size: 62px 2636px;}
+.header_icon { background: url(sprites/sprite_headers.svg) no-repeat top left;  width: 26px;  height: 24px;  margin: 0px 8px 3px 0;  background-size: 62px 3000px;}
 .icon_button { background: url(sprites/sprite_iconbuttons_18x18.svg) no-repeat top left;  padding: 0;  margin: 3px;  width: 18px;  height: 18px; vertical-align: top;}
 .trigger { background: url(sprites/trigger_icons.svg) no-repeat top left;  margin: 0px 8px 3px 0; width: 32px; height: 30px;  display: inline-block;}
 .industry-icon  { background: url(sprites/sprite_analytics_display.svg) no-repeat top left;  display: inline-block;}
@@ -47,6 +47,7 @@ h2 { background-color: #ffe7e7; border: 1px solid #ddd; margin: 0; padding: 16px
 .header-credit_card{ background-position: -14px -415px; width: 24px; }
 .header-cxml{ background-position: -15px -873px; width: 19px; }
 .header-documents{ background-position: -18px -597px; width: 19px; }
+.header-clmaAgreement{ background-position: -14px -2585px; width: 27px; height: 24px; }
 .header-event-details,
 .header-contract-details,
 .header-supplier-details{ background-position: -14px -550px; }
@@ -340,6 +341,7 @@ h2 { background-color: #ffe7e7; border: 1px solid #ddd; margin: 0; padding: 16px
 .sprite-alertIcon { background-position: -468px -306px;}
 .sprite-panelAppIcon {  background-position: -1727px -144px; height: 30px; background-color: #333333;}
 .sprite-iframeAppIcon {  background-position: -1763px -144px; height: 30px; background-color: #333333;}
+.sprite-clmaAgreement{   background-position: -1727px -108px;  width: 19px;  height: 17px;}
 
 /*start of icons in the main.css.less*/
 .sprite-home { background-position: -316px -430px; width: 40px; height: 40px; background-color: #333333;}
