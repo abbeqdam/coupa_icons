@@ -342,7 +342,10 @@ h2 { background-color: #ffe7e7; border: 1px solid #ddd; margin: 0; padding: 16px
 .sprite-panelAppIcon {  background-position: -1727px -144px; height: 30px; background-color: #333333;}
 .sprite-iframeAppIcon {  background-position: -1763px -144px; height: 30px; background-color: #333333;}
 .sprite-clmaAgreement{   background-position: -1727px -108px;  width: 19px;  height: 17px;}
-.sprite-view_card {  background-position: -936px -18px;}
+.sprite-viewCard {  background-position: -936px -18px;}
+.sprite-tickLink {  background-position: -578px -310px;}
+.sprite-multiSelect {  background-position: -685px -361px;}
+
 
 /*start of icons in the main.css.less*/
 .sprite-home { background-position: -316px -430px; width: 40px; height: 40px; background-color: #333333;}
