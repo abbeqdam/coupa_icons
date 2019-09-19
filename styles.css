@@ -1,6 +1,6 @@
 body { background-color: #FFF;  font-family: helvetica, arial, sans-serif;  font-size: 13px;  color: #333;}
 textarea.css_input { width: 600px;  height: 200px;}
-.header_icon { background: url(sprites/sprite_headers.svg) no-repeat top left;  width: 26px;  height: 24px;  margin: 0px 8px 3px 0;  background-size: 62px 3000px;}
+.header_icon { background: url(sprites/sprite_headers.svg) no-repeat top left;  width: 26px;  height: 24px;  margin: 0px 8px 3px 0;  background-size: 62px 3200px;}
 .icon_button { background: url(sprites/sprite_iconbuttons_18x18.svg) no-repeat top left;  padding: 0;  margin: 3px;  width: 18px;  height: 18px; vertical-align: top;}
 .trigger { background: url(sprites/trigger_icons.svg) no-repeat top left;  margin: 0px 8px 3px 0; width: 32px; height: 30px;  display: inline-block;}
 .industry-icon  { background: url(sprites/sprite_analytics_display.svg) no-repeat top left;  display: inline-block;}
@@ -91,6 +91,8 @@ h2 { background-color: #ffe7e7; border: 1px solid #ddd; margin: 0; padding: 16px
 .header-supplier-rating{ background-position: -17px -2358px; }
 .header-bell {  background-position: -14px -1654px; }
 .header-user {  background-position: -14px -2320px; }
+.header-gearIcon {  background-position: -15px -918px;}
+.header-cloudCharts {  background-position: -19px -3024px; }
 
 
 /*   icon sprites!    */
