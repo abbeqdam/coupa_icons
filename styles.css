@@ -387,6 +387,7 @@ h2 { background-color: #ffe7e7; border: 1px solid #ddd; margin: 0; padding: 16px
 .industry-icon-consumer-goods-services{ background-position: -601px -1px; width: 60px; height: 60px; }
 .industry-icon-energy-transportation{ background-position: -241px -121px; width: 60px; height: 60px; }
 
+
 .trigger-contract_expiration { background-position: -40px -120px; }
 .trigger-increased_spend { background-position: -40px 0px; }
 .trigger-frequent_free_form { background-position: -40px -80px; }
@@ -402,6 +403,7 @@ h2 { background-color: #ffe7e7; border: 1px solid #ddd; margin: 0; padding: 16px
 .trigger-supplier_link_suggestion { background-position: -160px -80px; }
 .trigger-supplier_risk { background-position: 0px 0px;}
 .trigger-supplier_performance { background-position: 0px 0px; }
+.trigger-spend_guard_sourcing{ background-position: -160px -120px;}
 .trigger-compliant2_2Icon42 { background-position: -560px -350px;  width: 50px;  height: 50px;}
 .trigger-compliant2_2Icon130 { background-position: -560px -200px;    width: 140px;  height: 140px;}
 .trigger-compliant2_3Icon42 { background-position: -440px -350px;  width: 50px;  height: 50px;}
