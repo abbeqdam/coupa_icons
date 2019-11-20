@@ -499,6 +499,8 @@ h2 { background-color: #ffe7e7; border: 1px solid #ddd; margin: 0; padding: 16px
 .trigger-plusIcon {  background-position: -320px -960px;  width: 52px;  height: 52px;}
 .trigger-sgSupplierRisk {  background-position: -400px -960px; width: 52px;  height: 52px;}
 .trigger-noImageIcon {  background-position: -210px -2130px; width: 128px;  height: 128px;}
+.trigger-location_check {  background-position: -480px -960px; width: 60px;  height: 60px;}
+
 /*.trigger-loading_icon {  background-position: 0px -4913px;  width: 60px;  height: 60px;}*/
 
 
