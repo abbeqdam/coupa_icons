@@ -347,7 +347,8 @@ h2 { background-color: #ffe7e7; border: 1px solid #ddd; margin: 0; padding: 16px
 .sprite-viewCard {  background-position: -936px -18px;}
 .sprite-tickLink {  background-position: -578px -310px;}
 .sprite-multiSelect {  background-position: -685px -361px;}
-
+.sprite-trend-up {  background-position: -630px -306px;}
+.sprite-trend-down {  background-position: -612px -306px;}
 
 /*start of icons in the main.css.less*/
 .sprite-home { background-position: -316px -430px; width: 40px; height: 40px; background-color: #333333;}
