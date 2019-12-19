@@ -350,6 +350,38 @@ h2 { background-color: #ffe7e7; border: 1px solid #ddd; margin: 0; padding: 16px
 .sprite-trend-up {  background-position: -630px -306px;}
 .sprite-trend-down {  background-position: -612px -306px;}
 .sprite-write {  background-position: -972px -18px;}
+.sprite-repoirting-main {background-position: -936px -108px;}
+.sprite-repoirting-purchase {background-position: -972px -108px;}
+.sprite-repoirting-expenses {background-position: -1080px -108px;}
+.sprite-repoirting-liquidity {background-position: -1008px -108px;}
+.sprite-repoirting-search_analytics {background-position: -1152px -108px;}
+.sprite-repoirting-supplier {background-position: -1116px -108px;}
+.sprite-repoirting-purchase_order_reports {background-position: -972px -108px;}
+.sprite-repoirting-budget_report {background-position: -1008px -108px;}
+.sprite-repoirting-inventory_history {background-position: -1044px -108px;}
+.sprite-repoirting-advanced_reports {background-position: -936px -108px;}
+.sprite-repoirting-inventory {background-position: -1044px -108px;}
+.sprite-record {background-position: -972px -180px;}
+.sprite-activity_summary {background-position: -1044px -180px; }
+.sprite-p2p_summary {background-position: -1008px -180px; }
+.sprite-supplier_information {background-position: -1080px -180px; }
+.sprite-supplier_health {background-position: -1115px -179px; }
+.sprite-commodity_insights {background-position: -1476px -108px; }
+.sprite-commodity_insights_individual_commodity {background-position: -1800px -216px; }
+.sprite-operational_insights {background-position: -1476px -216px; }
+.sprite-suppliers_table {background-position: -1080px -180px; }
+.sprite-supplier_explorer {background-position: -1116px -180px; }
+.sprite-spend_guard_global {background-position: -1548px -108px; }
+.sprite-spend_guard_expenses {background-position: -1692px -108px; }
+.sprite-spend_guard_requisitions {background-position: -1584px -108px; }
+.sprite-spend_guard_purchase_orders {background-position: -1620px -108px; }
+.sprite-spend_guard_invoices {background-position: -1656px -108px;}
+.sprite-fb-rework-icon {background-position:  -1585px -180px; }
+.sprite-fb-discard-icon { background-position: -1657px -180px;}
+.sprite-fb-rework-icon-disabled { background-position: -577px -360px;}
+.sprite-fb-discard-icon-disabled { background-position: -612px -360px;}
+.sprite-thumbs_up_white { background-position: -684px -307px; width: 18px; height: 18px; background-color: #333333;}
+.sprite-thumbs_down_white { background-position: -720px -306px; width: 18px; height: 18px; background-color: #333333; }
 
 /*start of icons in the main.css.less*/
 .sprite-home { background-position: -316px -430px; width: 40px; height: 40px; background-color: #333333;}
