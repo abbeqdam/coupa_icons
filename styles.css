@@ -462,6 +462,7 @@ h2 { background-color: #ffe7e7; border: 1px solid #ddd; margin: 0; padding: 16px
 .trigger-spend_guard_global_sprite_invoices { background-position: -60px -500px;   width: 40px;  height: 40px;}
 .trigger-spend_guard_global_sprite_contracts { background-position: -240px -500px;  width: 40px;  height: 40px;}
 .trigger-spend_guard_global_sprite_sourcing_events { background-position: -300px -500px; width: 40px;  height: 40px; }
+
 .trigger-employee_spend_view_avatar_sprite_avatar { background-position: 0px -1430px; width: 80px;  height: 80px;}
 .trigger-spend_profile_sprite_expenses { background-position: -120px 0px; }
 .trigger-spend_profile_sprite_expenses_requisitions { background-position: -120px -80px; }
@@ -537,7 +538,9 @@ h2 { background-color: #ffe7e7; border: 1px solid #ddd; margin: 0; padding: 16px
 .trigger-noImageIcon {  background-position: -210px -2130px; width: 128px;  height: 128px;}
 .trigger-location_check {  background-position: -350px -2130px; width: 120px;  height: 120px;}
 .trigger-approval {background-position: -480px -960px; width: 48px;  height: 48px; }
-.trigger-review {background-position: -640px -960px; width: 50px;  height: 50px; }
+.trigger-sourcing_event {background-position: -480px -560px; width: 40px;  height: 40px; }
+.trigger-total_spend {background-position: -540px -560px; width: 31px;  height: 40px; }
+.trigger-contracts {background-position: -600px -560px; width: 41px;  height: 40px; }
 
 /*.trigger-loading_icon {  background-position: 0px -4913px;  width: 60px;  height: 60px;}*/
 
