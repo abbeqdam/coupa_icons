@@ -393,6 +393,8 @@ h2 { background-color: #ffe7e7; border: 1px solid #ddd; margin: 0; padding: 16px
 .sprite-big-star-rating { list-style:none; margin: 0px; padding:0px; width: 140px; height: 28px; position: relative; background-position: 0px -433px; }
 .sprite-current-rating{ width: 140px; height: 28px; background-position: -162px -433px;}
 .sprite-add_tag{ width: 22px; height: 22px; background-position: -720px -108px;}
+.sprite-bell_alert { background-position: -1838px -252px;}
+.sprite-bell_alert_remove { background-position: -1800px -144px;}
 /* icon not used anywhere */
 /*
 .sprite-briefcase{ background: image-url("sprite_iconbuttons.png") no-repeat -399px 0; width: 16px; height: 16px; }
