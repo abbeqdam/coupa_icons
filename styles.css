@@ -395,6 +395,7 @@ h2 { background-color: #ffe7e7; border: 1px solid #ddd; margin: 0; padding: 16px
 .sprite-add_tag{ width: 22px; height: 22px; background-position: -720px -108px;}
 .sprite-bell_alert { background-position: -1838px -252px;}
 .sprite-bell_alert_remove { background-position: -1800px -144px;}
+.sprite-risk_assess { background-position: -936px -54px;}
 /* icon not used anywhere */
 /*
 .sprite-briefcase{ background: image-url("sprite_iconbuttons.png") no-repeat -399px 0; width: 16px; height: 16px; }
