@@ -384,6 +384,14 @@ h2 { background-color: #ffe7e7; border: 1px solid #ddd; margin: 0; padding: 16px
 .sprite-fb-discard-icon-disabled { background-position: -612px -360px;}
 .sprite-thumbs_up_white { background-position: -684px -307px; width: 18px; height: 18px; background-color: #333333;}
 .sprite-thumbs_down_white { background-position: -720px -306px; width: 18px; height: 18px; background-color: #333333; }
+.sprite-add_tag{ width: 22px; height: 22px; background-position: -720px -108px;}
+.sprite-bell_alert { background-position: -1838px -252px;}
+.sprite-bell_alert_remove { background-position: -1800px -144px;}
+.sprite-risk_assess { background-position: -936px -54px;}
+.sprite-delivery { background-position: -1008px -18px;}
+.sprite-deliveryDisabled { background-position: -1044px -18px;}
+.sprite-shipped { background-position: -1080px -18px;}
+.sprite-doneDisabled { background-position: -1116px -18px;}
 
 /*start of icons in the main.css.less*/
 .sprite-home { background-position: -316px -430px; width: 40px; height: 40px; background-color: #333333;}
@@ -392,10 +400,8 @@ h2 { background-color: #ffe7e7; border: 1px solid #ddd; margin: 0; padding: 16px
 .sprite-search_icon_disabled { cursor: auto; background-position: -361px -361px;}
 .sprite-big-star-rating { list-style:none; margin: 0px; padding:0px; width: 140px; height: 28px; position: relative; background-position: 0px -433px; }
 .sprite-current-rating{ width: 140px; height: 28px; background-position: -162px -433px;}
-.sprite-add_tag{ width: 22px; height: 22px; background-position: -720px -108px;}
-.sprite-bell_alert { background-position: -1838px -252px;}
-.sprite-bell_alert_remove { background-position: -1800px -144px;}
-.sprite-risk_assess { background-position: -936px -54px;}
+
+
 /* icon not used anywhere */
 /*
 .sprite-briefcase{ background: image-url("sprite_iconbuttons.png") no-repeat -399px 0; width: 16px; height: 16px; }
@@ -545,6 +551,8 @@ h2 { background-color: #ffe7e7; border: 1px solid #ddd; margin: 0; padding: 16px
 .trigger-sourcing_event {background-position: -480px -560px; width: 40px;  height: 40px; }
 .trigger-total_spend {background-position: -540px -560px; width: 31px;  height: 40px; }
 .trigger-contracts {background-position: -600px -560px; width: 41px;  height: 40px; }
+.trigger-parsingEmail {background-position: -0px -1020px; width: 60px;  height: 40px; }
+
 
 /*.trigger-loading_icon {  background-position: 0px -4913px;  width: 60px;  height: 60px;}*/
 
