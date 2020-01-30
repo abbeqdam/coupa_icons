@@ -552,6 +552,8 @@ h2 { background-color: #ffe7e7; border: 1px solid #ddd; margin: 0; padding: 16px
 .trigger-total_spend {background-position: -540px -560px; width: 31px;  height: 40px; }
 .trigger-contracts {background-position: -600px -560px; width: 41px;  height: 40px; }
 .trigger-parsingEmail {background-position: -0px -1020px; width: 60px;  height: 40px; }
+.trigger-clmaSelectSite {background-position: -280px 0px; width: 24px;  height: 24px; }
+.trigger-clmaSelectTemplate {background-position: -280px -40px; width: 24px;  height: 24px; }
 
 
 /*.trigger-loading_icon {  background-position: 0px -4913px;  width: 60px;  height: 60px;}*/
