@@ -337,6 +337,7 @@ h2 { background-color: #ffe7e7; border: 1px solid #ddd; margin: 0; padding: 16px
 .sprite-coupa_advantage {  background-position: -1260px -108px; }
 .sprite-announce {  background-position: -1764px -216px; }
 .sprite-void-arrow-disabled {  background-position: -648px -360px; }
+.sprite-gray-destination {  background-position: -720px -360px;}
 .sprite-gray-person {  background-position: -1764px -180px; }
 .sprite-bank_transfer { background-position: -720px -54px;}
 .sprite-expense_reimbursement { background-position: -756px -54px;}
@@ -350,6 +351,7 @@ h2 { background-color: #ffe7e7; border: 1px solid #ddd; margin: 0; padding: 16px
 .sprite-tickLink {  background-position: -578px -310px;}
 .sprite-multiSelect {  background-position: -685px -361px;}
 .sprite-trend-up {  background-position: -630px -306px;}
+.sprite-trend-up-red {  background-position: -607px -302px;  transform: rotate(90deg);}	}
 .sprite-trend-down {  background-position: -612px -306px;}
 .sprite-write {  background-position: -972px -18px;}
 .sprite-repoirting-main {background-position: -936px -108px;}
@@ -540,6 +542,7 @@ h2 { background-color: #ffe7e7; border: 1px solid #ddd; margin: 0; padding: 16px
 .trigger-supplierEmailsInvoicesWhiteIcon {  background-position: -420px -500px;  width: 40px;  height: 30px; background-color: #333333}
 .trigger-supplierEmailsPaymentsWhiteIcon {  background-position: -480px -500px;  width: 40px;  height: 30px; background-color: #333333}
 .trigger-supplierEmailsCustomersWhiteIcon {  background-position: -540px -500px;  width: 40px;  height: 30px; background-color: #333333}
+.trigger-map {  background-position: -660px -500px;  width: 28px;  height: 24px;}
 .trigger-supplierEmailsSearchWhiteIcon {  background-position: -360px -560px;  width: 28px;  height: 28px;background-color: #333333}
 .trigger-supplierEmailsAccelerateWhiteIcon {  background-position: -420px -560px;  width: 44px;  height: 27px;background-color: #333333}
 .trigger-plusIcon {  background-position: -320px -960px;  width: 52px;  height: 52px;}
