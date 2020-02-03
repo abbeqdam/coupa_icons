@@ -94,6 +94,7 @@ h2 { background-color: #ffe7e7; border: 1px solid #ddd; margin: 0; padding: 16px
 .header-gearIcon {  background-position: -15px -918px;}
 .header-cloudCharts {  background-position: -19px -3024px; }
 .header-supplier-help {  background-position: -19px -3066px; }
+.header-shipment {  background-position: -20px -3115px; }
 
 
 
@@ -557,7 +558,9 @@ h2 { background-color: #ffe7e7; border: 1px solid #ddd; margin: 0; padding: 16px
 .trigger-parsingEmail {background-position: -0px -1020px; width: 60px;  height: 40px; }
 .trigger-clmaSelectSite {background-position: -280px 0px; width: 24px;  height: 24px; }
 .trigger-clmaSelectTemplate {background-position: -280px -40px; width: 24px;  height: 24px; }
-
+.trigger-prescriptionCreation {background-position: -80px -40px; width: 28px;  height: 28px; }
+.trigger-prescriptionPreview {background-position: -80px -80px; width: 28px;  height: 28px; }
+.trigger-prescriptionApproval {background-position: -80px -120px; width: 28px;  height: 28px; }
 
 /*.trigger-loading_icon {  background-position: 0px -4913px;  width: 60px;  height: 60px;}*/
 
