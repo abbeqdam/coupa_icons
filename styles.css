@@ -354,6 +354,7 @@ h2 { background-color: #ffe7e7; border: 1px solid #ddd; margin: 0; padding: 16px
 .sprite-trend-up {  background-position: -630px -306px;}
 .sprite-trend-up-red {  background-position: -607px -302px;  transform: rotate(90deg);}	}
 .sprite-trend-down {  background-position: -612px -306px;}
+.sprite-trend-noChange {  background-position: -648px -306px;}
 .sprite-write {  background-position: -972px -18px;}
 .sprite-repoirting-main {background-position: -936px -108px;}
 .sprite-repoirting-purchase {background-position: -972px -108px;}
