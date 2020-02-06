@@ -295,6 +295,7 @@ h2 { background-color: #ffe7e7; border: 1px solid #ddd; margin: 0; padding: 16px
 .sprite-items_not_in_lots{  background-position: -684px -180px; }
 .sprite-page_blank {  background-position: -648px -252px; }
 .sprite-enabled {  background-position: -576px -18px; }
+.sprite-enabledDynamicDiscounting {background-position: -972px -54px; }
 .sprite-disabled {  background-position: -612px -18px; }
 .sprite-po-for-wc {  background-position: -648px -18px; }
 .sprite-po-soft-close {  background-position: -684px -18px; }
