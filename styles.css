@@ -397,6 +397,7 @@ h2 { background-color: #ffe7e7; border: 1px solid #ddd; margin: 0; padding: 16px
 .sprite-deliveryDisabled { background-position: -1044px -18px;}
 .sprite-shipped { background-position: -1080px -18px;}
 .sprite-doneDisabled { background-position: -1116px -18px;}
+.sprite-personalPerks { background-position: -1008px -54px;}
 
 /*start of icons in the main.css.less*/
 .sprite-home { background-position: -316px -430px; width: 40px; height: 40px; background-color: #333333;}
@@ -497,6 +498,7 @@ h2 { background-color: #ffe7e7; border: 1px solid #ddd; margin: 0; padding: 16px
 .trigger-community-advantage-sprite_realTimeSavingsIcon {background-position: -80px -960px;   width: 60px;  height: 60px;}
 .trigger-community-advantage-sprite_potentialSavingsIcon { background-position: -160px -960px; width: 60px;  height: 60px;}
 .trigger-coupaAdvantageIcon{  background-position: 0px -2080px;  width: 160px; height: 40px; }
+.trigger-coupaAdvantageIconPoweredBy {  background-position: -160px -2080px;  width: 160px; height: 45px; }
 .trigger-exclaimationIcon { background-position: -160px -0px; width: 32px;height: 32px; }
 .trigger-groupIcon { background-position: -160px -40px; width: 32px; height: 32px; }
 .trigger-increasedSpendIcon { background-position: -40px -0px; width: 32px;height: 32px;}
