@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="1865px" height="608px" viewBox="0 0 1865 608" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 63 (92445) - https://sketch.com -->
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
     <title>sprite_iconbuttons_18x18</title>
     <desc>Created with Sketch.</desc>
     <defs>
@@ -348,6 +348,9 @@
             </text>
             <text id="White-thumbs-up-+-th" font-family="OpenSans-Regular, Open Sans" font-size="4" font-weight="normal" fill="#000000">
                 <tspan x="702" y="499">White thumbs up + thumbs down</tspan>
+            </text>
+            <text id="White-close-button" font-family="OpenSans-Regular, Open Sans" font-size="4" font-weight="normal" fill="#000000">
+                <tspan x="772" y="499">White close button</tspan>
             </text>
         </g>
         <g id="Group-z" transform="translate(0.000000, 19.000000)">
@@ -1139,6 +1142,13 @@
                     <g id="Clip-9"></g>
                     <polygon id="Fill-8" fill="#6AA21F" mask="url(#mask-80)" points="-188 314.333 748 314.333 748 -228.444 -188 -228.444"></polygon>
                     <polygon id="Fill-10" fill="#888888" mask="url(#mask-80)" points="-4.826 14.215 10.19 14.215 10.19 -4.428 -4.826 -4.428"></polygon>
+                </g>
+            </g>
+        </g>
+        <g id="icon/sprite/x-close-white" transform="translate(756.000000, 306.000000)" fill="#FFFFFF">
+            <g id="Fill-1">
+                <g fill-rule="nonzero">
+                    <path d="M11.2798156,9.00026333 L17.6798133,15.3792912 C18.1013072,15.7986882 18.1034042,16.4697233 17.6840072,16.8796838 L16.9081228,17.6566167 C16.5002593,18.0665773 15.8187392,18.0686742 15.4087787,17.6597622 L8.99724756,11.2796858 L2.62765613,17.6922655 C2.20930766,18.1011775 1.53827251,18.1032745 1.11782705,17.6943624 L0.351379097,16.9079931 C-0.0690663623,16.5001296 -0.0711633472,15.8290944 0.347185127,15.408649 L6.72726148,8.99711785 L0.315730355,2.62752642 C-0.103666612,2.20917794 -0.105763597,1.5381428 0.312584877,1.11769734 L1.08951776,0.351249383 C1.50786623,-0.0691960762 2.17890138,-0.0702445686 2.59934684,0.348103906 L8.99934455,6.72818026 L15.3794209,0.316649133 C15.7883329,-0.103796326 16.4688045,-0.105893311 16.8798136,0.312455163 L17.645213,1.08938804 C18.066707,1.50773652 18.068804,2.17877166 17.649407,2.59921712 L11.2798156,9.00026333 Z" id="Path"></path>
                 </g>
             </g>
         </g>
