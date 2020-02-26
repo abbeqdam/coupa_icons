@@ -402,7 +402,7 @@ h2 { background-color: #ffe7e7; border: 1px solid #ddd; margin: 0; padding: 16px
 .sprite-personalPerks { background-position: -1008px -54px;}
 .sprite-clmaRRExtractionRunning { background-position: -1764px -108px;}
 .sprite-clmaRRExtractionComplete { background-position: -1800px -108px;}
-.sprite-clmaRRExtractionMenu { background-position: -1836px -108px;}
+.sprite-clmaRRExtractionMenu { background-position: -1836px -108px; }
 
 
 /*start of icons in the main.css.less*/
