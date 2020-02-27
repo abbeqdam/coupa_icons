@@ -483,8 +483,6 @@ h2 { background-color: #ffe7e7; border: 1px solid #ddd; margin: 0; padding: 16px
 .trigger-spend_guard_global_sprite_invoices { background-position: -60px -500px;   width: 40px;  height: 40px;}
 .trigger-spend_guard_global_sprite_contracts { background-position: -240px -500px;  width: 40px;  height: 40px;}
 .trigger-spend_guard_global_sprite_sourcing_events { background-position: -300px -500px; width: 40px;  height: 40px; }
-.trigger-line40x40 {background-position: 0 -620px; width: 40px;  height: 40px; }
-.trigger-world {background-position: -60px -620px; width: 40px;  height: 40px; }
 
 .trigger-employee_spend_view_avatar_sprite_avatar { background-position: 0px -1430px; width: 80px;  height: 80px;}
 .trigger-spend_profile_sprite_expenses { background-position: -120px 0px; }
@@ -573,7 +571,8 @@ h2 { background-color: #ffe7e7; border: 1px solid #ddd; margin: 0; padding: 16px
 .trigger-prescriptionCreation {background-position: -80px -40px; width: 28px;  height: 28px; }
 .trigger-prescriptionPreview {background-position: -80px -80px; width: 28px;  height: 28px; }
 .trigger-prescriptionApproval {background-position: -80px -120px; width: 28px;  height: 28px; }
-
+.trigger-pigIcon { background-position: 0 -620px; width: 40px;  height: 40px;}
+.trigger-earthIcon { background-position: -60px -620px; width: 40px; height: 40px;}
 
 
 /*.trigger-loading_icon {  background-position: 0px -4913px;  width: 60px;  height: 60px;}*/
