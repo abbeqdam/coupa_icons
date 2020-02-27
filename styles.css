@@ -390,6 +390,7 @@ h2 { background-color: #ffe7e7; border: 1px solid #ddd; margin: 0; padding: 16px
 .sprite-thumbs_up_white { background-position: -684px -307px; width: 18px; height: 18px; background-color: #333333;}
 .sprite-thumbs_down_white { background-position: -720px -306px; width: 18px; height: 18px; background-color: #333333; }
 .sprite-deleteWhite { background-position: -756px -306px; width: 18px; height: 18px; background-color: #333333; }
+.sprite-deleteRed { background-position: -792px -306px; }
 .sprite-delete_grey {  background-position: -1188px -144px;}
 .sprite-add_tag{ width: 22px; height: 22px; background-position: -720px -108px;}
 .sprite-bell_alert { background-position: -1838px -252px;}
