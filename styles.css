@@ -309,6 +309,7 @@ h2 { background-color: #ffe7e7; border: 1px solid #ddd; margin: 0; padding: 16px
 .sprite-internal_update {  background-position: -216px -216px; }
 .sprite-request_review {  background-position: -1224px -180px; }
 .sprite-check-gray {  background-position: -504px -363px; }
+.sprite-checkBlue {  background-position: -828px -306px;}
 .sprite-health_rating3 {  background-position: -936px -252px; }
 .sprite-health_rating2 {  background-position: -972px -252px; }
 .sprite-health_rating1 {  background-position: -1008px -252px; }
