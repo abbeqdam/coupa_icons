@@ -406,7 +406,8 @@ h2 { background-color: #ffe7e7; border: 1px solid #ddd; margin: 0; padding: 16px
 .sprite-clmaRRExtractionComplete { background-position: -1800px -108px;}
 .sprite-clmaRRExtractionMenu { background-position: -1836px -108px; }
 .sprite-coupaCares { background-position: -1836px -144px; }
-
+.sprite-thumbUpBlueOutline {background-position: -1044px -53px;}
+.sprite-thumbUpBlue {background-position: -1080px -54px;}
 
 /*start of icons in the main.css.less*/
 .sprite-home { background-position: -316px -430px; width: 40px; height: 40px; background-color: #333333;}
