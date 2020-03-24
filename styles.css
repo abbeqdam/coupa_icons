@@ -579,6 +579,10 @@ h2 { background-color: #ffe7e7; border: 1px solid #ddd; margin: 0; padding: 16px
 .trigger-prescriptionApproval {background-position: -80px -120px; width: 28px;  height: 28px; }
 .trigger-pigIcon { background-position: 0 -620px; width: 40px;  height: 40px;}
 .trigger-earthIcon { background-position: -60px -620px; width: 40px; height: 40px;}
+.trigger-currencies { background-position: -80px -1020px;width: 70px; height: 70px;}
+.trigger-airplane { background-position: -120px -620px; width: 40px; height: 40px;}
+.trigger-pieChart { background-position: -180px -620px; width: 40px; height: 40px;}
+.trigger-building { background-position:  -240px -620px; width: 40px; height: 40px;}
 
 
 /*.trigger-loading_icon {  background-position: 0px -4913px;  width: 60px;  height: 60px;}*/
