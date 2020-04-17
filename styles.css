@@ -410,6 +410,7 @@ h2 { background-color: #ffe7e7; border: 1px solid #ddd; margin: 0; padding: 16px
 .sprite-thumbUpBlue {background-position: -1080px -54px;}
 .sprite-uploadColorful {background-position: -1116px -54px;}
 .sprite-uploadMonoColor {background-position: -1152px -54px;}
+.sprite-leafGreen {background-position:-1152px -18px;}
 
 /*start of icons in the main.css.less*/
 .sprite-home { background-position: -316px -430px; width: 40px; height: 40px; background-color: #333333;}
@@ -583,7 +584,10 @@ h2 { background-color: #ffe7e7; border: 1px solid #ddd; margin: 0; padding: 16px
 .trigger-airplane { background-position: -120px -620px; width: 40px; height: 40px;}
 .trigger-pieChart { background-position: -180px -620px; width: 40px; height: 40px;}
 .trigger-building { background-position:  -240px -620px; width: 40px; height: 40px;}
-
+.trigger-sustainabilityTree { background-position: -300px -620px; width: 21px;height: 28px;}
+.trigger-sustainabilityWater { background-position: -360px -620px; width: 25px; height: 28px;}
+.trigger-sustainabilityGas { background-position: -420px -620px; width: 26px;	height: 28px;}
+.trigger-sustainabilityClouds { background-position: -480px -620px; width: 47px; height: 28px;}
 
 /*.trigger-loading_icon {  background-position: 0px -4913px;  width: 60px;  height: 60px;}*/
 
