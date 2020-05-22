@@ -412,6 +412,9 @@ h2 { background-color: #ffe7e7; border: 1px solid #ddd; margin: 0; padding: 16px
 .sprite-uploadMonoColor {background-position: -1152px -54px;}
 .sprite-leafGreen {background-position:-1152px -18px;}
 .sprite-lightbulb {background-position:-1188px -54px;}
+.sprite-bulletArrowUp {background-position:-864px -306px;}
+.sprite-bulletArrowDown {background-position:-882px -306px;}
+
 
 /*start of icons in the main.css.less*/
 .sprite-home { background-position: -316px -430px; width: 40px; height: 40px; background-color: #333333;}
