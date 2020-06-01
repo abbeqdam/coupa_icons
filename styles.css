@@ -592,6 +592,9 @@ h2 { background-color: #ffe7e7; border: 1px solid #ddd; margin: 0; padding: 16px
 .trigger-sustainabilityWater { background-position: -360px -620px; width: 25px; height: 28px;}
 .trigger-sustainabilityGas { background-position: -420px -620px; width: 26px;	height: 28px;}
 .trigger-sustainabilityClouds { background-position: -480px -620px; width: 47px; height: 28px;}
+.trigger-airplaneWhite   {background-position: -540px -620px; width: 40px; height: 40px; background-color: #333333}
+.trigger-airplaneGray   {background-position: -600px -620px; width: 40px; height: 40px;}
+.trigger-paymentWhite   {background-position: -660px -620px; width: 40px; height: 40px; background-color: #333333}
 
 /*.trigger-loading_icon {  background-position: 0px -4913px;  width: 60px;  height: 60px;}*/
 
