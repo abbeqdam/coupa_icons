@@ -598,8 +598,8 @@ h2 { background-color: #ffe7e7; border: 1px solid #ddd; margin: 0; padding: 16px
 .trigger-pencil {background-position: -660px -560px; width: 50px; height: 40px;}
 .trigger-deactivate {background-position: 0 -680px; width: 50px; height: 40px;}
 .trigger-reject {background-position: -60px -680px; width: 50px; height: 50px;}
-.trigger-increase {background-position: -120px -680px; width: 50px; height: 30px;}
-.trigger-decrease {background-position: -180px -680px; width: 50px; height: 30px;}
+.trigger-decrease {background-position: -120px -680px; width: 50px; height: 30px;}
+.trigger-increase {background-position: -180px -680px; width: 50px; height: 30px;}
 
 
 /*.trigger-loading_icon {  background-position: 0px -4913px;  width: 60px;  height: 60px;}*/
