@@ -216,6 +216,7 @@ h2 { background-color: #ffe7e7; border: 1px solid #ddd; margin: 0; padding: 16px
 .sprite-pencil{  background-position: -180px -18px; }
 .sprite-pencil_bw{  background-position: -252px -360px; }
 .sprite-pencil_small{  background-position: -199px -307px; width: 16px; height: 16px; }
+.sprite-pencilWhite{  background-position: -900px -306px; background-color: #333333; }
 .sprite-price_tier{  background-position: -108px -180px; }
 .sprite-printer{  background-position: 0 -18px; }
 .sprite-printer_small {  background-position: -325px -307px; width: 16px; height: 16px; }
@@ -408,6 +409,8 @@ h2 { background-color: #ffe7e7; border: 1px solid #ddd; margin: 0; padding: 16px
 .sprite-coupaCares { background-position: -1836px -144px; }
 .sprite-thumbUpBlueOutline {background-position: -1044px -53px;}
 .sprite-thumbUpBlue {background-position: -1080px -54px;}
+.sprite-reportingSupplier { background-position: -1116px -108px;
+}
 .sprite-uploadColorful {background-position: -1116px -54px;}
 .sprite-uploadMonoColor {background-position: -1152px -54px;}
 .sprite-leafGreen {background-position:-1152px -18px;}
