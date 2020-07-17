@@ -1,3 +1,4 @@
+@import 'colors.less';
 body { background-color: #FFF;  font-family: helvetica, arial, sans-serif;  font-size: 13px;  color: #333;}
 textarea.css_input { width: 600px;  height: 200px;}
 .header_icon { background: url(sprites/sprite_headers.svg) no-repeat top left;  width: 26px;  height: 24px;  margin: 0px 8px 3px 0;  background-size: 62px 3200px;}
@@ -9,13 +10,30 @@ textarea.css_input { width: 600px;  height: 200px;}
 .tess-icon { background: url(sprites/sprite_icons_cso_16x16.svg) no-repeat top left;   width: 16px; height: 16px;    display: inline-block;}
 .tess-icon32 { background: url(sprites/sprite_icons_cso_32x32.svg) no-repeat top left;   width: 32px; height: 32px;    display: inline-block;}
 
+
+/*   Start:: testing single sprites!    */
+
+.magnifier { background: url(sprites/singleSprites/magnifier.svg);  width: 18px; height: 18px; }
+.user_add { background: url(sprites/singleSprites/user_add.svg);  width: 18px; height: 18px; }
+.sprite-alertIcon { background: url(sprites/singleSprites/sprite-alertIcon.svg);  width: 18px; height: 18px; }
+.sprite-exclamation { background: url(sprites/singleSprites/sprite-exclamation.svg);  width: 18px; height: 18px; }
+.sprite-accept { background: url(sprites/singleSprites/sprite-accept.svg);  width: 18px; height: 18px; }
+.sprite-info { background: url(sprites/singleSprites/sprite-info.svg);  width: 18px; height: 18px; }
+.sprite-delete { background: url(sprites/singleSprites/sprite-delete.svg); }
+.sprite-delete_bw { background: url(sprites/singleSprites/sprite-delete_bw.svg); width: 18px; height: 18px;}
+.sprite-note { background: url(sprites/singleSprites/sprite-note.svg); width: 18px; height: 18px;}
+.sprite-field-changed-flag { background: url(sprites/singleSprites/sprite-field-changed-flag.svg); width: 13.72px; height: 18px;}
+.calendar { background: url(sprites/singleSprites/calendar.svg); width: 17px; height: 18px;}
+
+/*   End:: testing single sprites!    */
+
 table { border-collapse: collapse; table-layout: fixed; text-align: left; width: 100%;}
 table th { background-color: #f0f0f0; border: 1px solid #ddd; border-top: none;  padding: 10px;}
 table th:first-child { width: 150px;}
 table td { border: 1px solid #ddd;  padding: 10px;}
 .action_icons { margin: 20px 10px; padding: 1px 0;}
 h2 { background-color: #ffe7e7; border: 1px solid #ddd; margin: 0; padding: 16px 10px; font-weight: normal;}
-
+.additional-settings{ background-position: -15px -1012px; }
 
 /* below are icon sprite styles copied from various Coupa CSS files  */
 
@@ -27,7 +45,6 @@ h2 { background-color: #ffe7e7; border: 1px solid #ddd; margin: 0; padding: 16px
 .assets-x_table{ background-position: -172px -78px; width: 7px; height: 7px; }
 
 /*   header icon sprites!    */
-.header-additional-settings{ background-position: -15px -1012px; }
 .header-address,
 .header-shipping{ background-position: -19px -367px; width: 17px; }
 .header-alerts{ background-position: -15px -1654px; }
