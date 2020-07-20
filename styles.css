@@ -316,6 +316,8 @@ h2 { background-color: #ffe7e7; border: 1px solid #ddd; margin: 0; padding: 16px
 .sprite-health_rating1 {  background-position: -1008px -252px; }
 .sprite-no {  background-position: -1080px -252px; }
 .sprite-health_rating0 {  background-position: -1116px -252px; }
+.sprite-heart-empty { background-position: -1225px -110px;}
+.sprite-heart-filled { background-position: -1189px -110px;}
 .sprite-coupa-advantage {  background-position: -1260px -108px; }
 .sprite-existing-relationships {  background-position: -1297px -108px; }
 .sprite-ship-to {  background-position: -1332px -108px; }
