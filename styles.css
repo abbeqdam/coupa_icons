@@ -412,14 +412,19 @@ h2 { background-color: #ffe7e7; border: 1px solid #ddd; margin: 0; padding: 16px
 .sprite-coupaCares { background-position: -1836px -144px; }
 .sprite-thumbUpBlueOutline {background-position: -1044px -53px;}
 .sprite-thumbUpBlue {background-position: -1080px -54px;}
-.sprite-reportingSupplier { background-position: -1116px -108px;
-}
+.sprite-reportingSupplier { background-position: -1116px -108px; }
 .sprite-uploadColorful {background-position: -1116px -54px;}
 .sprite-uploadMonoColor {background-position: -1152px -54px;}
 .sprite-leafGreen {background-position:-1152px -18px;}
 .sprite-lightbulb {background-position:-1188px -54px;}
 .sprite-bulletArrowUp {background-position:-864px -306px;}
 .sprite-bulletArrowDown {background-position:-882px -306px;}
+.sprite-densityRelaxedInactiveGray { background-position: -936px -306px; }
+.sprite-densityComfortableInactiveGray { background-position: -972px -306px; }
+.sprite-densityCompactInactiveGray { background-position: -1008px -306px; }
+.sprite-densityRelaxedActiveWhite { background-position: -1044px -306px; width: 18px; height: 18px; background-color: #333333;}
+.sprite-densityComfortableActiveWhite { background-position: -1080px -306px; width: 18px; height: 18px; background-color: #333333;}
+.sprite-densityCompactActiveWhite { background-position: -1116px -306px; width: 18px; height: 18px; background-color: #333333;}
 
 
 /*start of icons in the main.css.less*/
