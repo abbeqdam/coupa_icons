@@ -425,7 +425,11 @@ h2 { background-color: #ffe7e7; border: 1px solid #ddd; margin: 0; padding: 16px
 .sprite-densityRelaxedActiveWhite { background-position: -1044px -306px; width: 18px; height: 18px; background-color: #333333;}
 .sprite-densityComfortableActiveWhite { background-position: -1080px -306px; width: 18px; height: 18px; background-color: #333333;}
 .sprite-densityCompactActiveWhite { background-position: -1116px -306px; width: 18px; height: 18px; background-color: #333333;}
-
+.sprite-coupaPay { background-position: -1620px -252px; }
+.sprite-coupaPayInvalid { background-position: -1656px -252px; }
+.sprite-coupaPayPending { background-position: -1692px -252px; }
+.sprite-coupaPayOk { background-position: -1728px -252px; }
+.sprite-diversityShield { background-position: -1188px -18px; }
 
 /*start of icons in the main.css.less*/
 .sprite-home { background-position: -316px -430px; width: 40px; height: 40px; background-color: #333333;}
@@ -702,10 +706,10 @@ h2 { background-color: #ffe7e7; border: 1px solid #ddd; margin: 0; padding: 16px
 .missing-name-digital_check {  background-position: -1800px -180px;}
 .missing-name-commodity {  background-position: -1799px -218px;}
 .missing-name-announcement {  background-position: -1764px -217px;}
-.missing-name-coupapay_invalid {  background-position: -1727px -252px; }
+/* .missing-name-coupapay_invalid {  background-position: -1727px -252px; }
 .missing-name-coupapay_pending {  background-position: -1691px -252px;}
 .missing-name-coupapay_valid {  background-position: -1655px -252px;}
-.missing-name-coupapay {  background-position: -1619px -252px;}
+.missing-name-coupapay {  background-position: -1619px -252px;}*/
 .missing-name-loading {  background-position: -1584px -254px;}
 .missing-name-payments {  background-position: -1512px -254px;}
 .missing-name-edits_on_contracts {  background-position: -1409px -255px;}
