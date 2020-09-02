@@ -641,10 +641,14 @@ h2 { background-color: #ffe7e7; border: 1px solid #ddd; margin: 0; padding: 16px
 .avatar-icon-user_group_avatar_big_thumb, .avatar-icon-custom_field_attribute_approval_group_avatar_big_thumb, .avatar-icon-approval_group_avatar_big_thumb { background-position: -620px -408px; width: 128px; height: 128px; }
 .avatar-icon-user_group_avatar_large, .avatar-icon-custom_field_attribute_approval_group_avatar_large, .avatar-icon-approval_group_avatar_large { background-position: -410px -408px; width: 200px; height: 200px; }
 .avatar-icon-user_group_avatar_mine, .avatar-icon-custom_field_attribute_approval_group_avatar_mine, .avatar-icon-approval_group_avatar_mine { background-position: 0px -408px;  width: 400px; height: 400px; }
-.avatar-icon-remote_approver_avatar_thumb { background-position: -758px -1228px; width:40px; height: 40px; }
-.avatar-icon-remote_approver_avatar_big_thumb { background-position: -620px -1228px; width:128px; height: 128px; }
-.avatar-icon-remote_approver_avatar_large { background-position: -410px -1228px; width:200px; height: 200px;}
-.avatar-icon-remote_approver_avatar_mine {  background-position: 0px -1228px; width:400px; height: 400px;}
+.avatar-icon-system_approver_avatar_thumb { background-position: -758px -1228px; width:40px; height: 40px; }
+.avatar-icon-system_approver_avatar_big_thumb { background-position: -620px -1228px; width:128px; height: 128px; }
+.avatar-icon-system_approver_avatar_large { background-position: -410px -1228px; width:200px; height: 200px;}
+.avatar-icon-system_approver_avatar_mine {  background-position: 0px -1228px; width:400px; height: 400px;}
+.avatar-icon-remote_approver_avatar_thumb { background-position: -758px -1640px; width:40px; height: 40px; }
+.avatar-icon-remote_approver_avatar_big_thumb { background-position: -620px -1640px; width:128px; height: 128px; }
+.avatar-icon-remote_approver_avatar_large { background-position: -410px -1640px; width:200px; height: 200px;}
+.avatar-icon-remote_approver_avatar_mine {  background-position: 0px -1640px; width:400px; height: 400px;}
 
 /* home-search-nav sprint*/
 .home-search-nav-icon-search_click { background-position: 0px 0px; width:9px; height: 60px;}
