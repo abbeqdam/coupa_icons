@@ -435,7 +435,8 @@ h2 { background-color: #ffe7e7; border: 1px solid #ddd; margin: 0; padding: 16px
 .sprite-partnerLinkLogoMini { background-position:  -1224px -55px; }
 .sprite-riskAssessAdd { background-position: -1260px -18px;}
 .sprite-acceptOutline { background-position: -1260px -54px;}
-.sprite-PaymentBaches { background-position:  -1296px -54px; }
+.sprite-paymentBaches { background-position:  -1296px -54px; }
+.sprite-calculatorWarning { background-position:  -1296px -18px; }
 
 /*start of icons in the main.css.less*/
 .sprite-home { background-position: -316px -430px; width: 40px; height: 40px; background-color: #333333;}
