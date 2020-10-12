@@ -630,9 +630,13 @@ h2 { background-color: #ffe7e7; border: 1px solid #ddd; margin: 0; padding: 16px
 .trigger-deem {background-position: -440px -2340px; width: 32px; height: 10px;}
 .trigger-spendGuardShield {background-position: -240px -1024px; 	width: 41px; height: 50px;}
 .trigger-emptyStatePlug {background-position: 0px -2500px; 	width: 200px; height: 200px;}
-
-
-
+.trigger-sandClockOrange { background-position: -240px -680px; } 
+.trigger-sandClockBlue { background-position: -300px -680px; } 
+.trigger-supplierInvited { background-position: -360px -680px; } 
+.trigger-supplierInvitedComplete { background-position: -420px -680px; } 
+.trigger-shareGray { background-position: -480px -680px; } 
+.trigger-shareOrange { background-position: -540px -680px; } 
+.trigger-shareBlue { background-position: -600px -680px; } 
 
 /*.trigger-loading_icon {  background-position: 0px -4913px;  width: 60px;  height: 60px;}*/
 
