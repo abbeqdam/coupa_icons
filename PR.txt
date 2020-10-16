@@ -1,0 +1,29 @@
+## JIRA
+[MAIN_JIRA]: https://coupadev.atlassian.net/browse/CD-
+[Main JIRA ticket][MAIN_JIRA]
+
+
+## Code reviewers
+
+- [ ] @anandcoupa  
+
+## Summary of issue
+
+- New icon needed for
+
+## Summary of change
+
+- Add icons to 18x18 sprite
+- Updated sprite_iconbuttons_18x18.svg , trigger_icons, sprite_headers.svg
+
+![image]
+
+
+
+
+
+## Testing approach
+
+- Verified the icons by adding the new css classes to one of our icons on the page and testing here: https://coupadev.atlassian.net/wiki/spaces/PM/pages/178173143/Icons+and+Graphics
+
+
