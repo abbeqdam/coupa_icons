@@ -13,7 +13,7 @@
 
 ## Summary of change
 
-- Add icons to 18x18 sprite
+- Added icon to 18x18 sprite
 - Updated sprite_iconbuttons_18x18.svg , trigger_icons, sprite_headers.svg
 
 ![image]
