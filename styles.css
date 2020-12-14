@@ -442,6 +442,25 @@ h2 { background-color: #ffe7e7; border: 1px solid #ddd; margin: 0; padding: 16px
 .sprite-travelSaver { background-position: -1368px -18px; }
 .sprite-analytics { background-position: -1368px -54px; }
 .sprite-copy { background-position: -361px -307px; }
+.sprite-collaborationWatching { background-position: -1404px -18px; }
+.sprite-collaborationWatchingTracking { background-position: -1440px -18px; }
+.sprite-collaborationWatchingMuted { background-position: -1476px -18px; }
+.sprite-collaborationWatchingNormal { background-position: -1512px -18px; }
+.sprite-collaborationFlag { background-position: -1548px -18px; }
+.sprite-collaborationLink { background-position: -1584px -18px; }
+.sprite-collaborationReply { background-position:  -1620px -18px; }
+.sprite-collaborationBookmark { background-position: -1656px -18px; }
+.sprite-collaborationWatchingDisabled { background-position: -1404px -54px; }
+.sprite-collaborationWatchingTrackingDisabled { background-position:  -1440px -54px; }
+.sprite-collaborationWatchingMutedDisabled { background-position:  -1476px -54px; }
+.sprite-collaborationWatchingNormalDisabled { background-position:  -1512px -54px; }
+.sprite-collaborationFlagDisabled { background-position: -1548px  -54px; }
+.sprite-collaborationLinkDisabled { background-position:  -1584px -54px; }
+.sprite-collaborationReplyDisabled { background-position:  -1620px -54px; }
+.sprite-collaborationBookmarkDisabled { background-position:  -1656px -54px; }
+.sprite-doctypeContract { background-position:  -756px -360px; }
+.sprite-doctypeSourcing { background-position:  -792px -360px; }
+.sprite-doctypeSupplier { background-position:  -828px -360px; }
 
 /*start of icons in the main.css.less*/
 .sprite-home { background-position: -316px -430px; width: 40px; height: 40px; background-color: #333333;}
