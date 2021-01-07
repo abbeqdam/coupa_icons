@@ -98,7 +98,7 @@ h2 { background-color: #ffe7e7; border: 1px solid #ddd; margin: 0; padding: 16px
 .header-lightbulb { background-position: -20px -3155px; }
 .header-paySchedule { background-position:-20px -3195px;}
 .header-brainiac { background-position:-19px -2496px; }
-
+.header-diversity { background-position: -20px -3235px;}
 
 /*   icon sprites!    */
 .sprite-accept{ background-position: -756px -180px; }
@@ -461,7 +461,9 @@ h2 { background-color: #ffe7e7; border: 1px solid #ddd; margin: 0; padding: 16px
 .sprite-doctypeContract { background-position:  -756px -360px; }
 .sprite-doctypeSourcing { background-position:  -792px -360px; }
 .sprite-doctypeSupplier { background-position:  -828px -360px; }
-
+.sprite-diversity_notDiverse  { background-position:  -1692px -18px; }
+.sprite-heartBlue  { background-position:  -1728px -18px; }
+.sprite-virtualCard  { background-position:  -1692px -54px; }
 /*start of icons in the main.css.less*/
 .sprite-home { background-position: -316px -430px; width: 40px; height: 40px; background-color: #333333;}
 .sprite-arrow_icon { background-position: -462px -425px; width: 40px; height: 40px; background-color: #333333;}
@@ -660,6 +662,10 @@ h2 { background-color: #ffe7e7; border: 1px solid #ddd; margin: 0; padding: 16px
 .trigger-shareOrange { background-position: -540px -680px; width: 40px; height: 40px;} 
 .trigger-shareBlue { background-position: -600px -680px; width: 40px; height: 40px;} 
 .trigger-formulaIcon {background-position: -320px -1024px; width: 55px; height: 55px;}
+.trigger-diversity {background-position: -280px -80px;}
+.trigger-diversity_notDiverse {background-position: -660px -680px; width: 36px; height: 36px;}
+.trigger-approved {background-position: -400px -1024px; width: 64px; height: 64px; }
+.trigger-noExpense {background-position: -480px -2080px;width: 212px; height: 212px;}
 
 /*.trigger-loading_icon {  background-position: 0px -4913px;  width: 60px;  height: 60px;}*/
 
