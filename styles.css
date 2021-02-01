@@ -320,7 +320,7 @@ h2 { background-color: #ffe7e7; border: 1px solid #ddd; margin: 0; padding: 16px
 .sprite-no {  background-position: -1080px -252px; }
 .sprite-health_rating0 {  background-position: -1116px -252px; }
 .sprite-heart-empty { background-position: -1225px -110px;}
-.sprite-heart-filled { background-position: -1189px -110px;}
+.sprite-heart-filled { background-position: -1728px -18px;}
 .sprite-coupa-advantage {  background-position: -1260px -108px; }
 .sprite-existing-relationships {  background-position: -1297px -108px; }
 .sprite-ship-to {  background-position: -1332px -108px; }
@@ -462,7 +462,6 @@ h2 { background-color: #ffe7e7; border: 1px solid #ddd; margin: 0; padding: 16px
 .sprite-doctypeSourcing { background-position:  -792px -360px; }
 .sprite-doctypeSupplier { background-position:  -828px -360px; }
 .sprite-diversity_notDiverse  { background-position:  -1692px -18px; }
-.sprite-heartBlue  { background-position:  -1728px -18px; }
 .sprite-virtualCard  { background-position:  -1692px -54px; }
 /*start of icons in the main.css.less*/
 .sprite-home { background-position: -316px -430px; width: 40px; height: 40px; background-color: #333333;}
@@ -653,7 +652,7 @@ h2 { background-color: #ffe7e7; border: 1px solid #ddd; margin: 0; padding: 16px
 .trigger-uber {background-position: -400px -2340px; width: 24px; height: 24px;}
 .trigger-deem {background-position: -440px -2340px; width: 32px; height: 10px;}
 .trigger-spendGuardShield {background-position: -240px -1024px; 	width: 41px; height: 50px;}
-.trigger-emptyStatePlug {background-position: 0px -2500px; 	width: 200px; height: 200px;}
+.trigger-emptyStatePlug {background-position: 0px -2500px; 	width: 141px; height: 141px;}
 .trigger-sandClockOrange { background-position: -240px -680px; } 
 .trigger-sandClockBlue { background-position: -300px -680px; } 
 .trigger-supplierInvited { background-position: -360px -680px; } 
@@ -665,8 +664,15 @@ h2 { background-color: #ffe7e7; border: 1px solid #ddd; margin: 0; padding: 16px
 .trigger-diversity {background-position: -280px -80px;}
 .trigger-diversity_notDiverse {background-position: -660px -680px; width: 36px; height: 36px;}
 .trigger-approved {background-position: -400px -1024px; width: 64px; height: 64px; }
-.trigger-noExpense {background-position: -480px -2080px;width: 212px; height: 212px;}
-
+.trigger-noExpense {background-position: -480px -2080px; width: 212px; height: 212px;}
+.trigger-moveArrowFourWays {background-position: -480px -2340px; }
+.trigger-moveArrowFourWaysSelected {background-position:  -520px -2340px; }
+.trigger-moveArrowTwoWays {background-position: -560px -2340px; }
+.trigger-moveArrowTwoWaysSelected {background-position: -600px -2340px; }
+.trigger-discountsIllustration {background-position: -150px -2500px; width: 130px; height: 130px; }
+.trigger-diversityIllustration {background-position: -290px -2500px; width: 130px; height: 130px; }
+.trigger-documentsIllustration {background-position: -430px -2502px; width: 130px; height: 130px; }
+.trigger-searchIllustration {background-position: -570px -2500px; width: 130px; height: 130px; }
 /*.trigger-loading_icon {  background-position: 0px -4913px;  width: 60px;  height: 60px;}*/
 
 
