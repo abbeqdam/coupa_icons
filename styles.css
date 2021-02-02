@@ -623,7 +623,7 @@ h2 { background-color: #ffe7e7; border: 1px solid #ddd; margin: 0; padding: 16px
 .trigger-sourcing_event {background-position: -480px -560px; width: 40px;  height: 40px; }
 .trigger-total_spend {background-position: -540px -560px; width: 31px;  height: 40px; }
 .trigger-contracts {background-position: -600px -560px; width: 41px;  height: 40px; }
-.trigger-parsingEmail {background-position: -0px -1020px; width: 60px;  height: 40px; }
+.trigger-parsingEmail {background-position: -0px -1040px; width: 60px;  height: 40px; }
 .trigger-clmaSelectSite {background-position: -280px 0px; width: 24px;  height: 24px; }
 .trigger-clmaSelectTemplate {background-position: -280px -40px; width: 24px;  height: 24px; }
 .trigger-prescriptionCreation {background-position: -80px -40px; width: 28px;  height: 28px; }
@@ -631,7 +631,7 @@ h2 { background-color: #ffe7e7; border: 1px solid #ddd; margin: 0; padding: 16px
 .trigger-prescriptionApproval {background-position: -80px -120px; width: 28px;  height: 28px; }
 .trigger-pigIcon { background-position: 0 -620px; width: 40px;  height: 40px;}
 .trigger-earthIcon { background-position: -60px -620px; width: 40px; height: 40px;}
-.trigger-currencies { background-position: -80px -1020px;width: 70px; height: 70px;}
+.trigger-currencies { background-position: -80px -1040px;width: 70px; height: 70px;}
 .trigger-airplane { background-position: -120px -620px; width: 40px; height: 40px;}
 .trigger-pieChart { background-position: -180px -620px; width: 40px; height: 40px;}
 .trigger-building { background-position:  -240px -620px; width: 40px; height: 40px;}
@@ -648,10 +648,10 @@ h2 { background-color: #ffe7e7; border: 1px solid #ddd; margin: 0; padding: 16px
 .trigger-decrease {background-position: -120px -680px; width: 50px; height: 30px;}
 .trigger-increase {background-position: -180px -680px; width: 50px; height: 30px;}
 .trigger-redo {background-position: -640px -880px; width: 58px; height: 48px;}
-.trigger-time {background-position: -160px -1024px; width: 52px; height: 52px;}
+.trigger-time {background-position: -160px -1040px; width: 52px; height: 52px;}
 .trigger-uber {background-position: -400px -2340px; width: 24px; height: 24px;}
 .trigger-deem {background-position: -440px -2340px; width: 32px; height: 10px;}
-.trigger-spendGuardShield {background-position: -240px -1024px; 	width: 41px; height: 50px;}
+.trigger-spendGuardShield {background-position: -240px -1040px; 	width: 41px; height: 50px;}
 .trigger-emptyStatePlug {background-position: 0px -2500px; 	width: 141px; height: 141px;}
 .trigger-sandClockOrange { background-position: -240px -680px; } 
 .trigger-sandClockBlue { background-position: -300px -680px; } 
@@ -660,10 +660,10 @@ h2 { background-color: #ffe7e7; border: 1px solid #ddd; margin: 0; padding: 16px
 .trigger-shareGray { background-position: -480px -680px; width: 40px; height: 40px;} 
 .trigger-shareOrange { background-position: -540px -680px; width: 40px; height: 40px;} 
 .trigger-shareBlue { background-position: -600px -680px; width: 40px; height: 40px;} 
-.trigger-formulaIcon {background-position: -320px -1024px; width: 55px; height: 55px;}
+.trigger-formulaIcon {background-position: -320px -1040px; width: 55px; height: 55px;}
 .trigger-diversity {background-position: -280px -80px;}
 .trigger-diversity_notDiverse {background-position: -660px -680px; width: 36px; height: 36px;}
-.trigger-approved {background-position: -400px -1024px; width: 64px; height: 64px; }
+.trigger-approved {background-position: -400px -1040px; width: 64px; height: 64px; }
 .trigger-noExpense {background-position: -480px -2080px; width: 212px; height: 212px;}
 .trigger-moveArrowFourWays {background-position: -480px -2340px; }
 .trigger-moveArrowFourWaysSelected {background-position:  -520px -2340px; }
