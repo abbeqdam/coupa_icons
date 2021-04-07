@@ -464,6 +464,9 @@ h2 { background-color: #ffe7e7; border: 1px solid #ddd; margin: 0; padding: 16px
 .sprite-diversity_notDiverse  { background-position:  -1692px -18px; }
 .sprite-virtualCard  { background-position:  -1692px -54px; }
 .sprite-autoResolve  { background-position:  -1728px -54px; }
+.sprite-moderatelyUsed  { background-position:  -1764px -54px; }
+.sprite-notUsed { background-position:  -1764px -18px; }
+
 /*start of icons in the main.css.less*/
 .sprite-home { background-position: -316px -430px; width: 40px; height: 40px; background-color: #333333;}
 .sprite-arrow_icon { background-position: -462px -425px; width: 40px; height: 40px; background-color: #333333;}
