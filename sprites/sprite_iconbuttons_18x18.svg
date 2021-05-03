@@ -2602,6 +2602,13 @@
             <path d="M1.68891403,0 C0.81561086,0 0.100678733,0.61849977 0.0113122172,1.40665746 C0.0056561086,1.46249425 0,1.51725725 0,1.57309403 L9,7 L18,1.57309403 C18,1.51725725 17.9943439,1.45712533 17.9886878,1.40236233 C17.8936652,0.613130848 17.178733,0 16.311086,0 L1.68891403,0 Z" id="Fill-1" fill="#B5CDE9"></path>
             <path d="M9,7.8362069 L0,3 L0,10.5977011 C0,11.3726054 0.757918552,12 1.68891403,12 L16.311086,12 C17.2420814,12 18,11.3726054 18,10.5977011 L18,3 L9,7.8362069 Z" id="Fill-1" fill="#7FA9D9"></path>
         </g>
+        <g id="Group" transform="translate(1152.000000, 306.000000)" fill="#6A6969" fill-rule="nonzero">
+            <g id="Rectangle">
+                <rect x="0" y="0" width="4" height="4" rx="2"></rect>
+                <rect x="0" y="14" width="4" height="4" rx="2"></rect>
+                <rect x="0" y="7" width="4" height="4" rx="2"></rect>
+            </g>
+        </g>
         <g id="icon/sprite/drag_handle" transform="translate(38.000000, 311.000000)" fill="#5A5B5A">
             <rect id="Rectangle-3" x="0" y="0" width="12" height="2"></rect>
             <rect id="Rectangle-3" x="0" y="5" width="12" height="2"></rect>
