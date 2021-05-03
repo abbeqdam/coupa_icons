@@ -2603,7 +2603,7 @@
             <path d="M9,7.8362069 L0,3 L0,10.5977011 C0,11.3726054 0.757918552,12 1.68891403,12 L16.311086,12 C17.2420814,12 18,11.3726054 18,10.5977011 L18,3 L9,7.8362069 Z" id="Fill-1" fill="#7FA9D9"></path>
         </g>
         <g id="Group" transform="translate(1152.000000, 306.000000)" fill="#6A6969" fill-rule="nonzero">
-            <g id="Rectangle">
+            <g id="Rectangle" transform="translate(7.000000, 0.000000)">
                 <rect x="0" y="0" width="4" height="4" rx="2"></rect>
                 <rect x="0" y="14" width="4" height="4" rx="2"></rect>
                 <rect x="0" y="7" width="4" height="4" rx="2"></rect>
