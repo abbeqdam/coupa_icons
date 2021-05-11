@@ -688,6 +688,14 @@ h2 { background-color: #ffe7e7; border: 1px solid #ddd; margin: 0; padding: 16px
 .trigger-clmUploadDocument { background-position: -160px -1115px; width: 80px; 	height: 80px; }
 .trigger-clmTemplate { background-position: -240px -1115px; width: 80px; 	height: 80px; }
 .trigger-clmParties { background-position: -320px -1115px; width: 80px; 	height: 80px; }
+.trigger-superScreen_comments { background-position: 0px -740px; width: 40px; 	height: 40px; }
+.trigger-superScreen_commentsGray { background-position: -60px -740px; width: 40px; 	height: 40px; }
+.trigger-superScreen_imageScan { background-position: -120px -740px; width: 40px; 	height: 40px; }
+.trigger-superScreen_imageScanGray { background-position: -180px -740px; width: 40px; 	height: 40px; }
+.trigger-superScreen_relatedDocs { background-position: -240px -740px; width: 40px; 	height: 40px; }
+.trigger-superScreen_relatedDocsGray { background-position: -300px -740px; width: 40px; 	height: 40px; }
+.trigger-superScreen_toDos { background-position: -360px -740px; width: 40px; 	height: 40px; }
+.trigger-superScreen_toDosGray { background-position: -420px -740px; width: 40px; 	height: 40px; }
 /*.trigger-loading_icon {  background-position: 0px -4913px;  width: 60px;  height: 60px;}*/
 
 
