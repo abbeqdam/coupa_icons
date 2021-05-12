@@ -99,6 +99,7 @@ h2 { background-color: #ffe7e7; border: 1px solid #ddd; margin: 0; padding: 16px
 .header-paySchedule { background-position:-20px -3195px;}
 .header-brainiac { background-position:-19px -2496px; }
 .header-diversity { background-position: -20px -3235px;}
+.header-orgChart { background-position: -20px -3275px;}
 
 /*   icon sprites!    */
 .sprite-accept{ background-position: -756px -180px; }
