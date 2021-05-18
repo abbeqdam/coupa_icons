@@ -472,8 +472,8 @@ h2 { background-color: #ffe7e7; border: 1px solid #ddd; margin: 0; padding: 16px
 .sprite-fullBodyUserGreen { background-position: -1188px -306px; } 
 .sprite-fullBodyUser { background-position: -1224px -306px; }
 .sprite-coupaPayGreen { background-position: -1260px -306px; }
-.sprite-wolrdGreen { background-position: -1296px -306px; }
-.sprite-wolrd { background-position: -1332px -306px; }
+.sprite-worldGreen { background-position: -1296px -306px; }
+.sprite-world { background-position: -1332px -306px; }
 
 /*start of icons in the main.css.less*/
 .sprite-home { background-position: -316px -430px; width: 40px; height: 40px; background-color: #333333;}
