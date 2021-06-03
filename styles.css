@@ -474,6 +474,8 @@ h2 { background-color: #ffe7e7; border: 1px solid #ddd; margin: 0; padding: 16px
 .sprite-coupaPayGreen { background-position: -1260px -306px; }
 .sprite-worldGreen { background-position: -1296px -306px; }
 .sprite-world { background-position: -1332px -306px; }
+.sprite-engagement { background-position: -1800px -54px; }
+.sprite-supplierRisk { background-position: -1836px -18px; }
 
 /*start of icons in the main.css.less*/
 .sprite-home { background-position: -316px -430px; width: 40px; height: 40px; background-color: #333333;}
@@ -702,6 +704,13 @@ h2 { background-color: #ffe7e7; border: 1px solid #ddd; margin: 0; padding: 16px
 .trigger-superScreen_relatedDocsGray { background-position: -300px -740px; width: 40px; 	height: 40px; }
 .trigger-superScreen_toDos { background-position: -360px -740px; width: 40px; 	height: 40px; }
 .trigger-superScreen_toDosGray { background-position: -420px -740px; width: 40px; 	height: 40px; }
+.trigger-car { background-position: -0px -2380px; width: 24px; 	height: 24px; }
+.trigger-arrowRight { background-position: -40px -2380px; width: 24px; 	height: 24px; }
+.trigger-flight { background-position: -80px -2380px; width: 24px; 	height: 24px; }
+.trigger-hotel { background-position: -120px -2380px; width: 24px; 	height: 24px; }
+.trigger-tripError { background-position: -190px -2750px; width: 160px; 	height: 160px; }
+.trigger-tripNoUpcoming { background-position: -360px -2750px; width: 160px; 	height: 160px; }
+
 /*.trigger-loading_icon {  background-position: 0px -4913px;  width: 60px;  height: 60px;}*/
 
 
