@@ -710,6 +710,10 @@ h2 { background-color: #ffe7e7; border: 1px solid #ddd; margin: 0; padding: 16px
 .trigger-hotel { background-position: -120px -2380px; width: 24px; 	height: 24px; }
 .trigger-tripError { background-position: -190px -2750px; width: 160px; 	height: 160px; }
 .trigger-tripNoUpcoming { background-position: -360px -2750px; width: 160px; 	height: 160px; }
+.trigger-parentEntity { background-position: -320px 0px; width: 28px; 	height: 28px; }
+.trigger-patternCustomer { background-position: 0px -2950px; width: 196px; 	height: 228px; }
+.trigger-patternFinished { background-position: -200px -2950px; width: 192px; height: 213px; }
+.trigger-patternTrophy { background-position: 0px -3200px; width: 313px; height: 252px; }
 
 /*.trigger-loading_icon {  background-position: 0px -4913px;  width: 60px;  height: 60px;}*/
 
