@@ -714,6 +714,22 @@ h2 { background-color: #ffe7e7; border: 1px solid #ddd; margin: 0; padding: 16px
 .trigger-patternCustomer { background-position: 0px -2950px; width: 196px; 	height: 228px; }
 .trigger-patternFinished { background-position: -200px -2950px; width: 192px; height: 213px; }
 .trigger-patternTrophy { background-position: 0px -3200px; width: 313px; height: 252px; }
+.trigger-clmSelectedDraft { background-position: 0px -400px; width: 27px; height: 27px; }
+.trigger-clmSelectedApprovals { background-position: -40px -400px; width: 27px; height: 27px; }
+.trigger-clmSelectedApproved { background-position: -80px -400px; width: 27px; height: 27px; }
+.trigger-clmSelectedSignatures { background-position: -120px -400px; width: 27px; height: 27px; }
+.trigger-clmSelectedCompleted { background-position: -160px -400px; width: 27px; height: 27px; }
+.trigger-clmSelectedPublished { background-position: -200px -400px; width: 27px; height: 27px; }
+.trigger-clmSelectedExTer { background-position: -240px -400px; width: 27px; height: 27px; }
+.trigger-clmNormalDraft { background-position: -280px -400px; width: 27px; height: 27px; }
+.trigger-clmNormalApprovals { background-position: -320px -400px; width: 27px; height: 27px; }
+.trigger-clmNormalApproved { background-position: -360px -400px; width: 27px; height: 27px; }
+.trigger-clmNormalSignatures { background-position: -400px -400px; width: 27px; height: 27px; }
+.trigger-clmNormalCompleted { background-position: -440px -400px; width: 27px; height: 27px; }
+.trigger-clmNormalPublished { background-position: -480px -400px; width: 27px; height: 27px; }
+.trigger-clmNormalExTer { background-position: -520px -400px; width: 27px; height: 27px; }
+
+
 
 /*.trigger-loading_icon {  background-position: 0px -4913px;  width: 60px;  height: 60px;}*/
 
