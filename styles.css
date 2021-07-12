@@ -476,6 +476,20 @@ h2 { background-color: #ffe7e7; border: 1px solid #ddd; margin: 0; padding: 16px
 .sprite-world { background-position: -1332px -306px; }
 .sprite-engagement { background-position: -1800px -54px; }
 .sprite-supplierRisk { background-position: -1836px -18px; }
+.sprite-handRight { background-position: -1368px -306px; }
+.sprite-quote { background-position: -1404px -306px; }
+.sprite-userGroup { background-position: -1440px -306px; }
+.sprite-linkBlue { background-position:  -1476px -306px; }
+.sprite-pencilBlue { background-position: -1512px -306px; }
+.sprite-userPlus { background-position: -1548px -306px; }
+.sprite-messageBlue { background-position: -1584px -306px; }
+.sprite-bellOneNotification { background-position: -1620px -306px; }
+.sprite-addBlue { background-position:  -1657px -306px; }
+.sprite-moved { background-position: -1692px -306px; }
+.sprite-badgeBlue { background-position: -1728px -306px; }
+.sprite-timeBlue { background-position:  -1764px -306px; }
+.sprite-atSign { background-position: -1800px -306px; }
+.sprite-arrowReply { background-position: -1836px -306px; }
 
 /*start of icons in the main.css.less*/
 .sprite-home { background-position: -316px -430px; width: 40px; height: 40px; background-color: #333333;}
