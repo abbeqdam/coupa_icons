@@ -742,6 +742,9 @@ h2 { background-color: #ffe7e7; border: 1px solid #ddd; margin: 0; padding: 16px
 .trigger-clmNormalCompleted { background-position: -440px -400px; width: 27px; height: 27px; }
 .trigger-clmNormalPublished { background-position: -480px -400px; width: 27px; height: 27px; }
 .trigger-clmNormalExTer { background-position: -520px -400px; width: 27px; height: 27px; }
+.trigger-illustrationEngage { background-position: -440px -2900px; width: 240px; height: 205px; }
+.trigger-illustrationCollaborate { background-position: -440px -3120px; width: 240px; height: 205px; }
+.trigger-illustrationLearnandShare { background-position: -440px -3330px; width: 240px; height: 205px; }
 
 
 
