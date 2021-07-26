@@ -703,6 +703,7 @@ h2 { background-color: #ffe7e7; border: 1px solid #ddd; margin: 0; padding: 16px
 .trigger-documentsIllustration {background-position: -430px -2502px; width: 130px; height: 130px; }
 .trigger-searchIllustration {background-position: -570px -2500px; width: 130px; height: 130px; }
 .trigger-aiClassification {background-position: -480px -1040px; width: 70px; height: 70px; }
+.trigger-contentInsights { background-position: -560px -1040px; width: 60px; height: 60px; }
 .trigger-coupaSourcingAdvantageLogo {background-position: 0px -2030px; width: 150px; height: 40px; }
 .trigger-videoPlaceholder {background-position: 0px -2650px; width: 100px; height: 50px; }
 .trigger-emptyExpenseLine { background-position: 0px -2750px; width: 200px; 	height: 150px; }
@@ -750,6 +751,9 @@ h2 { background-color: #ffe7e7; border: 1px solid #ddd; margin: 0; padding: 16px
 .trigger-placeholderNoMessageOption2 { background-position: -250px -3550px; width: 200px; height: 200px; }
 .trigger-placeholderNoMessageOption3 { background-position: -500px -3550px; width: 200px; height: 200px; }
 .trigger-illustrationGalleryNoImage { background-position: 0px -3760px; width: 476px; height: 343px; }
+
+
+
 
 
 /*.trigger-loading_icon {  background-position: 0px -4913px;  width: 60px;  height: 60px;}*/
