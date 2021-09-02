@@ -491,6 +491,9 @@ h2 { background-color: #ffe7e7; border: 1px solid #ddd; margin: 0; padding: 16px
 .sprite-atSign { background-position: -1800px -306px; }
 .sprite-arrowReply { background-position: -1836px -306px; }
 .sprite-heartGray { background-position: -1836px -54px;}
+.sprite-contractAmendSelected { background-position: -936px -360px;}
+.sprite-contractParentPubSelected { background-position: -864px -360px;}
+.sprite-contractChildPubSelected { background-position: -900px -360px;}
 
 /*start of icons in the main.css.less*/
 .sprite-home { background-position: -316px -430px; width: 40px; height: 40px; background-color: #333333;}
@@ -751,6 +754,11 @@ h2 { background-color: #ffe7e7; border: 1px solid #ddd; margin: 0; padding: 16px
 .trigger-placeholderNoMessageOption2 { background-position: -250px -3550px; width: 200px; height: 200px; }
 .trigger-placeholderNoMessageOption3 { background-position: -500px -3550px; width: 200px; height: 200px; }
 .trigger-illustrationGalleryNoImage { background-position: 0px -3760px; width: 476px; height: 343px; }
+.trigger-hamburgerMenuIcon { background-position: -160px -2380px; }
+.trigger-contractMenuNormal { background-position: -200px -2380px; }
+.trigger-contractMenuSelected { background-position: -240px -2380px; }
+.trigger-hierarchyExpand { background-position: -280px -2380px; }
+.trigger-hierarchyCollapse { background-position: -320px -2380px; }
 
 
 
