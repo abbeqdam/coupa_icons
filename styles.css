@@ -759,6 +759,9 @@ h2 { background-color: #ffe7e7; border: 1px solid #ddd; margin: 0; padding: 16px
 .trigger-contractMenuSelected { background-position: -240px -2380px; }
 .trigger-hierarchyExpand { background-position: -280px -2380px; }
 .trigger-hierarchyCollapse { background-position: -320px -2380px; }
+.trigger-tagBlue { background-position: -600px -400px; width: 32px; height: 32px; }
+.trigger-calendar { background-position: -560px -400px; width: 32px; height: 32px; }
+.trigger-loginCommunityBanner { background-position: 0px -4150px; width: 436px; height: 171px; }
 
 
 
@@ -797,6 +800,18 @@ h2 { background-color: #ffe7e7; border: 1px solid #ddd; margin: 0; padding: 16px
 .avatar-icon-system_approver_spendGuard_avatar_big_thumb { background-position: -620px -2470px; width:128px; height: 128px; }
 .avatar-icon-system_approver_spendGuard_avatar_large { background-position: -410px -2470px; width:200px; height: 200px;}
 .avatar-icon-system_approver_spendGuard_avatar_mine {  background-position: 0px -2470px; width:400px; height: 400px;}
+.avatar-icon-userBlue60x60 { background-position: -0px -2900px; width: 60px; height: 60px; }
+.avatar-icon-userRed60x60 { background-position: -80px -2900px; width: 60px; height: 60px; }
+.avatar-icon-userPurple60x60 { background-position: -160px -2900px;  width: 60px; height: 60px; }
+.avatar-icon-userGreen60x60 { background-position: -240px -2900px;  width: 60px; height: 60px; }
+.avatar-icon-userOrange60x60 { background-position: -320px -2900px;  width: 60px; height: 60px; }
+.avatar-icon-userYellow60x60 { background-position: -400px -2900px;  width: 60px; height: 60px; }
+.avatar-icon-userBlue25x25 { background-position: -480px -2900px;  width: 25px; height: 25px; }
+.avatar-icon-userRed25x25 { background-position: -520px -2900px;  width: 25px; height: 25px; }
+.avatar-icon-userPurple25x25 { background-position: -560px -2900px;  width: 25px; height: 25px; }
+.avatar-icon-userGreen25x25 { background-position: -600px -2900px;  width: 25px; height: 25px; }
+.avatar-icon-userOrange25x25 { background-position: -640px -2900px;  width: 25px; height: 25px; }
+.avatar-icon-userYellow25x25 { background-position: -680px -2900px;  width: 25px; height: 25px; }
 
 /* home-search-nav sprint*/
 .home-search-nav-icon-search_click { background-position: 0px 0px; width:9px; height: 60px;}
