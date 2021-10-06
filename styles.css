@@ -592,7 +592,7 @@ h2 { background-color: #ffe7e7; border: 1px solid #ddd; margin: 0; padding: 16px
 .trigger-ciIconsSprite_accelerateIcon { background-position: 0px -960px; width: 65px; height: 40px;}
 .trigger-ciIconsSprite_thumbsUpIcon { background-position: -400px -800px; width: 55px; height: 55px;}
 .trigger-community-advantage-sprite_realTimeSavingsIcon {background-position: -80px -960px;   width: 60px;  height: 60px;}
-.trigger-community-advantage-sprite_realTimeSavingsIcon32x32 {background-position: -480px -1530px;   width: 32px;  height: 32px;}
+.trigger-community-advantage-sprite_realTimeSavingsIconSmall {background-position: -480px -1530px;   width: 32px;  height: 32px;}
 .trigger-community-advantage-sprite_potentialSavingsIcon { background-position: -160px -960px; width: 60px;  height: 60px;}
 .trigger-coupaAdvantageIcon{  background-position: 0px -2080px;  width: 160px; height: 40px; }
 .trigger-coupaAdvantageIconPoweredBy {  background-position: -160px -2080px;  width: 160px; height: 45px; }
@@ -655,7 +655,7 @@ h2 { background-color: #ffe7e7; border: 1px solid #ddd; margin: 0; padding: 16px
 .trigger-approval {background-position: -640px -960px; width: 48px;  height: 48px; }
 .trigger-sourcing_event {background-position: -480px -560px; width: 40px;  height: 40px; }
 .trigger-total_spend {background-position: -540px -560px; width: 31px;  height: 40px; }
-.trigger-total_spend32x32 {background-position: -400px -1530px; width: 24px;  height: 32px; }
+.trigger-totalSpendSmall {background-position: -400px -1530px; width: 24px;  height: 32px; }
 .trigger-contracts {background-position: -600px -560px; width: 41px;  height: 40px; }
 .trigger-parsingEmail {background-position: -0px -1040px; width: 60px;  height: 40px; }
 .trigger-clmaSelectSite {background-position: -280px 0px; width: 24px;  height: 24px; }
