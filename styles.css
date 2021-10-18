@@ -494,6 +494,19 @@ h2 { background-color: #ffe7e7; border: 1px solid #ddd; margin: 0; padding: 16px
 .sprite-contractAmendSelected { background-position: -936px -360px;}
 .sprite-contractParentPubSelected { background-position: -864px -360px;}
 .sprite-contractChildPubSelected { background-position: -900px -360px;}
+.sprite-contractParentDraftSelected	{ background-position: -972px -360px;}
+.sprite-contractChildDraftSelected	{ background-position: -1008px -360px;}
+.sprite-contractChildApprovedSelected	{ background-position: -1044px -360px;}
+.sprite-contractChildCompletedSelected	{ background-position: -1080px -360px;}
+.sprite-contractAmendmentCompletedSelected	{ background-position: -1116px -360px;}
+.sprite-contractAmendmentApprovedSelected	{ background-position: -1152px -360px;}
+.sprite-contractChildPendingApprovalSelected	{ background-position: -1188px -360px;}
+.sprite-contractParentCompletedSelected	{ background-position: -1224px -360px;}
+.sprite-contractParentApprovedSelected	{ background-position: -1260px -360px;}
+.sprite-contractParentPendingApprovalSelected	{ background-position: -1296px -360px;}
+.sprite-contractChildPendingSignaturesSelected	{ background-position: -1332px -360px;}
+.sprite-contractChildExpiredSelected	{ background-position: -1368px -360px;}
+.sprite-contractParentExpiredGraySelected	{ background-position: -1404px -360px;}
 
 /*start of icons in the main.css.less*/
 .sprite-home { background-position: -316px -430px; width: 40px; height: 40px; background-color: #333333;}
