@@ -507,6 +507,8 @@ h2 { background-color: #ffe7e7; border: 1px solid #ddd; margin: 0; padding: 16px
 .sprite-contractChildPendingSignaturesSelected	{ background-position: -1332px -360px;}
 .sprite-contractChildExpiredSelected	{ background-position: -1368px -360px;}
 .sprite-contractParentExpiredGraySelected	{ background-position: -1404px -360px;}
+.sprite-totalSpendGrey	{ background-position: -1440px -360px;}
+.sprite-totalSpendWhite	{ background-position: -1476px -360px; background-color: #333333}
 
 /*start of icons in the main.css.less*/
 .sprite-home { background-position: -316px -430px; width: 40px; height: 40px; background-color: #333333;}
@@ -780,7 +782,7 @@ h2 { background-color: #ffe7e7; border: 1px solid #ddd; margin: 0; padding: 16px
 .trigger-coupaCares { background-position: -550px -1870px; width: 108px; height: 70px; }
 .trigger-illustrationEmptyStateSearch { background-position: 0px -4330px; width: 256px; height: 256px; }
 .trigger-illustrationSearchNoResults { background-position: -300px -4330px; width: 256px; height: 256px; }
-
+.trigger-contingentWorkforce { background-position: -480px -1430px; width: 70px; height: 70px; }
 
 
 
