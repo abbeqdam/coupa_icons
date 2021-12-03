@@ -795,7 +795,10 @@ h2 { background-color: #ffe7e7; border: 1px solid #ddd; margin: 0; padding: 16px
 .trigger-healthRating4  { background-position: -480px -1330px; width: 40px; height: 40px; }
 .trigger-healthRating0  { background-position: -560px -1330px; width: 40px; height: 40px; }
 .trigger-exclamation  { background-position: -480px -1260px; width: 40px; height: 40px; }
-
+.trigger-insightsAi40x40  { background-position: -480px -740px; width: 40px; height: 40px; }
+.trigger-insightsAi32x32  { background-position: -540px -740px; width: 32px; height: 32px; }
+.trigger-insightsAi18x18  { background-position: -600px -740px; width: 18px; height: 18px; }
+.trigger-insightsAi12x12  { background-position: -660px -740px; width: 12px; height: 12px; }
 
 
 
