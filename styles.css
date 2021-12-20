@@ -512,6 +512,10 @@ h2 { background-color: #ffe7e7; border: 1px solid #ddd; margin: 0; padding: 16px
 .sprite-analyticsGray	{ background-position: -1512px -360px;}
 .sprite-trendDownGray	{ background-position: -1548px -360px;}
 .sprite-trendUpGray	{ background-position: -1584px -360px;}
+.sprite-layoutLineExpandedActive	{ background-position: -1620px -360px;}
+.sprite-layoutLineExpandedInactive	{ background-position: -1692px -360px;}
+.sprite-layoutLineCollapsedActive	{ background-position: -1657px -360px;}
+.sprite-layoutLineCollapsedInactive	{ background-position: -1728px -360px;}
 
 
 
