@@ -516,6 +516,9 @@ h2 { background-color: #ffe7e7; border: 1px solid #ddd; margin: 0; padding: 16px
 .sprite-layoutLineExpandedInactive	{ background-position: -1692px -360px;}
 .sprite-layoutLineCollapsedActive	{ background-position: -1657px -360px;}
 .sprite-layoutLineCollapsedInactive	{ background-position: -1728px -360px;}
+.sprite-taskAssigned	{ background-position: -1764px -360px;}
+.sprite-taskUnassigned	{ background-position: -1800px -360px;}
+.sprite-taskAlert	{ background-position: -1836px -360px;}
 
 
 
@@ -780,6 +783,8 @@ h2 { background-color: #ffe7e7; border: 1px solid #ddd; margin: 0; padding: 16px
 .trigger-placeholderNoMessageOption1 { background-position: 0px -3550px; width: 200px; height: 200px; }
 .trigger-placeholderNoMessageOption2 { background-position: -250px -3550px; width: 200px; height: 200px; }
 .trigger-placeholderNoMessageOption3 { background-position: -500px -3550px; width: 200px; height: 200px; }
+.trigger-placeholderNoWarehouseSelected { background-position: -500px -3760px; width: 200px; height: 200px; }
+.trigger-placeholderNoTasks { background-position: -500px -3970px; width: 200px; height: 200px; }
 .trigger-illustrationGalleryNoImage { background-position: 0px -3760px; width: 476px; height: 343px; }
 .trigger-hamburgerMenuIcon { background-position: -160px -2380px; }
 .trigger-contractMenuNormal { background-position: -200px -2380px; }
@@ -803,7 +808,10 @@ h2 { background-color: #ffe7e7; border: 1px solid #ddd; margin: 0; padding: 16px
 .trigger-insightsAi32x32  { background-position: -540px -740px; width: 32px; height: 32px; }
 .trigger-insightsAi18x18  { background-position: -600px -740px; width: 18px; height: 18px; }
 .trigger-insightsAi12x12  { background-position: -660px -740px; width: 12px; height: 12px; }
-
+.trigger-tasksFulfillment { background-position: -360px -2380px; width: 24px; height: 24px; }
+.trigger-tasksCounting { background-position: -400px -2380px; width: 24px; height: 24px; }
+.trigger-tasksPicking { background-position: -440px -2380px; width: 24px; height: 24px; }
+.trigger-tasksAdditional { background-position: -480px -2380px; width: 24px; height: 24px; }
 
 
 
