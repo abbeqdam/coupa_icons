@@ -520,6 +520,8 @@ h2 { background-color: #ffe7e7; border: 1px solid #ddd; margin: 0; padding: 16px
 .sprite-taskUnassigned	{ background-position: -1800px -360px;}
 .sprite-taskAlert	{ background-position: -1836px -360px;}
 .sprite-badgeVerified { background-position: -432px -396px;}
+.sprite-riskAssessHighRisk { background-position:  -468px -396px; }
+.sprite-clauseHierarchy { background-position:  -504px -396px; }
 
 
 
@@ -815,6 +817,8 @@ h2 { background-color: #ffe7e7; border: 1px solid #ddd; margin: 0; padding: 16px
 .trigger-tasksAdditional { background-position: -480px -2380px; width: 24px; height: 24px; }
 .trigger-illustrationPatternCreditCard { background-position: 0px -4600px; width: 200px; height: 200px; }
 .trigger-homepageAnnouncement { background-position: -150px -2650px; width: 90px; height: 50px; }
+.trigger-moreActions { background-position: -520px -2380px; width: 24px; height: 6px; }
+.trigger-detailsActive { background-position: -560px -2380px; width: 30px; height: 30px; }
 
 
 /*.trigger-loading_icon {  background-position: 0px -4913px;  width: 60px;  height: 60px;}*/
