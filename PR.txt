@@ -1,23 +1,21 @@
 ## JIRA
 [MAIN_JIRA]: https://coupadev.atlassian.net/browse/CD-
 [Main JIRA ticket][MAIN_JIRA]
+Also
+* [CD-](https://coupadev.atlassian.net/browse/CD-)
+* [CD-](https://coupadev.atlassian.net/browse/CD-)
 
 
 ## Code reviewers
 
 - [ ] @anandcoupa  
 
-## Summary of issue
-
-- New icon needed for
-
 ## Summary of change
 
-- Added icon to 18x18 sprite
-- Updated sprite_iconbuttons_18x18.svg , trigger_icons, sprite_headers.svg
-
-![image]
-
+- Add 3 icons to trigger
+- Add 12 icon to Action sprite
+- Updated trigger_icons.svg
+- Updated sprite_iconbuttons_18x18
 
 
 
@@ -27,3 +25,33 @@
 - Verified the icons by adding the new css classes to one of our icons on the page and testing here: https://coupadev.atlassian.net/wiki/spaces/PM/pages/178173143/Icons+and+Graphics
 
 
+
+------
+CD-253488 & CD-253492 Master: 
+Add icons for no_message placeholders & gray heart to trigger and action sprite
+
+## JIRA
+[MAIN_JIRA]: https://coupadev.atlassian.net/browse/CD-253488
+[Main JIRA ticket][MAIN_JIRA]
+Also
+* [CD-253492](https://coupadev.atlassian.net/browse/CD-253492)
+
+
+## Code reviewers
+
+- [ ] @anandcoupa  
+
+## Summary of change
+
+
+- Add 3 icons to trigger
+- Add 12 icon to avatar sprite
+- Updated trigger_icons.svg
+- Updated sprite_avatar.svg
+
+
+
+
+## Testing approach
+
+- Verified the icons by adding the new css classes to one of our icons on the page and testing here: https://coupadev.atlassian.net/wiki/spaces/PM/pages/178173143/Icons+and+Graphics

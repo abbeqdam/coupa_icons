@@ -5,6 +5,7 @@ textarea.css_input { width: 600px;  height: 200px;}
 .trigger { background: url(sprites/trigger_icons.svg) no-repeat top left;  margin: 0px 8px 3px 0; width: 32px; height: 30px;  display: inline-block;}
 .industry-icon  { background: url(sprites/sprite_analytics_display.svg) no-repeat top left;  display: inline-block;}
 .avatar-icon { background: url(sprites/sprite_avatar.svg) no-repeat top left; display: inline-block;}
+.logos { background: url(sprites/sprite_coupa_logo.svg) no-repeat top left; display: inline-block;}
 .home-search-nav-icon { background: url(sprites/home_search_nav.svg) no-repeat top left; display: inline-block;}
 .tess-icon { background: url(sprites/sprite_icons_cso_16x16.svg) no-repeat top left;   width: 16px; height: 16px;    display: inline-block;}
 .tess-icon32 { background: url(sprites/sprite_icons_cso_32x32.svg) no-repeat top left;   width: 32px; height: 32px;    display: inline-block;}
@@ -828,7 +829,7 @@ h2 { background-color: #ffe7e7; border: 1px solid #ddd; margin: 0; padding: 16px
 
 /*.trigger-loading_icon {  background-position: 0px -4913px;  width: 60px;  height: 60px;}*/
 
-/* avatar sprint*/
+/* avatar sprite*/
 .avatar-icon-user_avatar_thumb,.avatar-icon-custom_field_attribute_user_avatar_thumb {  background-position: -758px 0px; width: 40px; height: 40px;}
 .avatar-icon-user_avatar_big_thumb, .avatar-icon-custom_field_attribute_user_avatar_big_thumb { background-position: -620px 0px; width: 128px; height: 128px;}
 .avatar-icon-user_avatar_large, .avatar-icon-custom_field_attribute_user_avatar_large { background-position: -410px 0px; width: 200px; height: 200px;}
@@ -869,6 +870,21 @@ h2 { background-color: #ffe7e7; border: 1px solid #ddd; margin: 0; padding: 16px
 .avatar-icon-userGreen25x25 { background-position: -600px -2900px;  width: 25px; height: 25px; }
 .avatar-icon-userOrange25x25 { background-position: -640px -2900px;  width: 25px; height: 25px; }
 .avatar-icon-userYellow25x25 { background-position: -680px -2900px;  width: 25px; height: 25px; }
+
+/* logo sprite*/
+.logos-coupaSmallLogo { background-position: 0px 0px; width: 99px; height: 28px;}
+.logos-coupaSmallLogoWhiteBg { background-position: -120px 0px; width: 99px; height: 28px;}
+.logos-coupaSmallWhiteLogo { background-position: -240px 0px; width: 99px; height: 28px; background-color: #333333}
+.logos-coupaSmallLogoBlueBg { background-position: -360px 0px; width: 99px; height: 28px;}
+.logos-coupaMediumLogo { background-position: 0px -80px; width: 107px; height: 30px;}
+.logos-coupaMediumLogoWhiteBg { background-position: -120px -80px; width: 107px; height: 30px;}
+.logos-coupaMediumWhiteLogo{ background-position: -240px -80px; width: 107px; height: 30px; background-color: #333333}
+.logos-coupaLargeLogo { background-position: 0px -160px; width: 143px; height: 40px;}
+.logos-coupaLargeLogoWhiteBg { background-position: -160px -160px; width: 143px; height: 40px;}
+.logos-coupaLargWhiteLogo { background-position: -320px -160px; width: 143px; height: 40px; background-color: #333333}
+.logos-coupaLogo { background-position: 0px -240px; width: 66px; height: 60px;}
+.logos-coupaLogoWhiteBg { background-position: -120px -240px; width: 66px; height: 60px;}
+.logos-coupaWhiteLogo { background-position: -240px -240px; width: 66px; height: 60px; background-color: #333333}
 
 /* home-search-nav sprint*/
 .home-search-nav-icon-search_click { background-position: 0px 0px; width:9px; height: 60px;}
