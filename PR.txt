@@ -1,6 +1,31 @@
 ## JIRA
 [MAIN_JIRA]: https://coupadev.atlassian.net/browse/CD-
 [Main JIRA ticket][MAIN_JIRA]
+
+
+
+## Code reviewers
+
+- [ ] @anandcoupa  
+
+## Summary of change
+
+- Add 3 icons to trigger
+- Add 12 icon to Action sprite
+- Updated trigger_icons.svg
+- Updated sprite_iconbuttons_18x18
+
+
+
+
+## Testing approach
+
+- Verified the icons by adding the new css classes to one of our icons on the page and testing here: https://coupadev.atlassian.net/wiki/spaces/PM/pages/178173143/Icons+and+Graphics
+
+---------------------------------------------------
+## JIRA
+[MAIN_JIRA]: https://coupadev.atlassian.net/browse/CD-
+[Main JIRA ticket][MAIN_JIRA]
 Also
 * [CD-](https://coupadev.atlassian.net/browse/CD-)
 * [CD-](https://coupadev.atlassian.net/browse/CD-)
