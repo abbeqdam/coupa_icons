@@ -825,10 +825,10 @@ h2 { background-color: #ffe7e7; border: 1px solid #ddd; margin: 0; padding: 16px
 .trigger-illustrationSnoozeAlarmOff { background-position: 0 -4940px;	width: 224px;	height: 108px; }
 .trigger-illustrationSnoozeAlarmOn { background-position: -240px -4940px;	width: 224px;	height: 108px; }
 .trigger-commodity { background-position: -640px -400px;	width: 32px;	height: 33px; }
-.trigger-expenseForm { background-position: 0 -1590px;	width: 48px;	height: 65px; }
-.trigger-form { background-position: -80px -1590px;	width: 48px;	height: 65px; }
-.trigger-webForm { background-position: -160px -1590px;	width: 48px;	height: 65px; }
-.trigger-commodityForm { background-position: -240px -1590px;	width: 48px;	height: 65px; }
+.trigger-formExpense { background-position: 0 -1590px;	width: 48px;	height: 65px; }
+.trigger-formDefault { background-position: -80px -1590px;	width: 48px;	height: 65px; }
+.trigger-formWeb { background-position: -160px -1590px;	width: 48px;	height: 65px; }
+.trigger-formCommodity { background-position: -240px -1590px;	width: 48px;	height: 65px; }
 
 
 
