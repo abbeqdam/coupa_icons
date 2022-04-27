@@ -1,0 +1,104 @@
+/**********************************/
+/***** Global Color Variables *****/
+/**********************************/
+
+/* primary theme colors (coupa blue). Do not use @primary_dark & @primary_med_dark in your css classes */
+/* Use any of the css classes below instead so that custom theme colors can override them */
+/* .primary_bkgd, .secondary_bkgd, .primary_brdr, .secondary_brdr */
+@primary_dark: #268ECD;
+@primary_med_dark: #53B8E7;
+@primary_darkest: #364d96;
+@primary_light: #E4F1F9;
+
+/* neutral colors for borders, backgrounds etc. */
+@neutral_dark: #333;
+@neutral_med_dark: #6A6969;
+@neutral_medium: #999;
+@neutral_med_light: #ccc;
+@neutral_light: #e9e9e9;
+@neutral_lighter: #F3F3F3;
+@neutral_lightest: #F7F7F7;
+@steel_gray: #738da4;
+@light_gray: #d3d3d3;
+@light_green: #90EE90;
+@light_blue: #EBF6FC;
+
+/* common colors */
+@link_color: #009be0;
+@label_color: #60768A;
+@info_color: #268ECD;
+@info_light: #7ec7eb;
+@highlight_color: #f27921;
+@highlight_dark: #8533FF;
+@success_color: #6AAF57;
+@warning_color: #F8E273;
+@warning_light_color: #FEFECB;
+@error_color: #df0f0f;
+@error_light_color: #FFF4F4;
+@warning_dark_color: #F0B82C;
+@page_color: #fff;
+
+// The contrasting color for text with a background of @success_color or others.
+@success_text_overlay_color: #fff;
+@error_text_overlay_color: #fff;
+@warning_text_overlay_color: @neutral_dark;
+@primary_bkgd_overlay_color: #fff;
+
+@body_text: #404040;
+@disabled_button_text: #bbb;
+@disabled_background_color: #f2f2f2;
+@disabled_border_color: #e4e4e4;
+
+@white: #FFFFFF;
+@black: #000000;
+@green: #68ac57;
+
+@border_white_shadow: rgba(255, 255, 255, 0.5);
+
+@box_shadow_color: rgba(102, 102, 102, 0.4);
+
+// Pre-existing colors. They were already in use, now they're at least in the
+// colors file.
+@button_background_color: #f0f0f0;
+@button_border_color: #e0e0e0;
+@button_text_color: #2e2d2e;
+@input_text_color: #666;
+
+// scorecards colors
+@score_high: #6AAF57;
+@score_med_high: #e0bc07;
+@score_med: #f27921;
+@score_med_low: #FF3121;
+@score_low: #7d0900;
+
+.gradient(@start_color,@end_color) {
+  background-image: none;
+  background-image: -webkit-gradient(linear, left top, left bottom, from(@start_color), to(@end_color));
+  background: -moz-linear-gradient(top, @start_color, @end_color);
+  background-color: (@start_color + @end_color) / 2;
+}
+
+/* text colors */
+label {
+  color: @label_color;
+}
+.text_light, .text_hint {
+  color: @neutral_med_dark;
+}
+.text_error {
+  color: @error_color;
+  font-weight: bold;
+}
+.text_label {
+  color: @label_color;
+  font-weight: bold;
+}
+.text_small, .text_hint {
+  font-size: 11px;
+}
+
+/* matchmaker colors */
+@green_banner: #dcecd7;
+
+/* navigation flash */
+@nav_flash: #EFF7EC;
