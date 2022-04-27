@@ -523,6 +523,12 @@ h2 { background-color: #ffe7e7; border: 1px solid #ddd; margin: 0; padding: 16px
 .sprite-badgeVerified { background-position: -432px -396px;}
 .sprite-riskAssessHighRisk { background-position:  -468px -396px; }
 .sprite-clauseHierarchy { background-position:  -504px -396px; }
+.sprite-revert { background-position:  -540px -396px; }
+.sprite-contingentWorkSpaceWhite { background-position:  -576px -396px; background-color: #333333}
+.sprite-contingentWorkSpace { background-position:  -612px -396px; }
+.sprite-timesheet { background-position:  -648px -396px; }
+.sprite-timesheetWhite { background-position:  -684px -396px; background-color: #333333}
+.sprite-sourcingBlue { background-position:  -720px -396px; }
 
 
 
