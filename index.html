@@ -9,29 +9,6 @@
 <body>
 
   
-  <div class="magnifier">
-  </div>
-  <div class="user_add">
-  </div>
-  <div class="sprite-alertIcon">
-  </div>
-  <div class="sprite-exclamation">
-  </div>
-  <div class="sprite-accept">
-  </div>
-  <div class="sprite-info">
-  </div>
-  <div class="sprite-delete">
-  </div>
-  <div class="sprite-delete_bw">
-  </div>
-  <div class="sprite-note">
-  </div>
-  <div class="sprite-field-changed-flag">
-  </div>
-  <div class="calendar">
-   </div>
-
 
 
   <div class="header_icons">
@@ -50,6 +27,19 @@
   <div class="action_icons">
     <h2>Action Icons</h2>
     <table class="action_icons_table">
+      <thead>
+        <tr>
+          <th>Icon</th>
+          <th>CSS Class Name</th>
+          <th>Background Position</th>
+        </tr>
+      </thead>
+      <tbody></tbody>
+    </table>
+  </div>
+  <div class="singel_icons">
+    <h2>Single SVG Icons</h2>
+    <table class="singel_icons_table">
       <thead>
         <tr>
           <th>Icon</th>
@@ -163,6 +153,7 @@
     }
     createTableRows('header-', 'header_icon', '.header_icons_table tbody');
     createTableRows('sprite-', 'icon_button', '.action_icons_table tbody');
+    createTableRows('singel-', 'singel', '.singel_icons_table tbody');
     createTableRows('trigger-', 'trigger', '.trigger_icons_table tbody');
     createTableRows('industry-icon-', 'industry-icon', '.industry_icon_table tbody');
     createTableRows('avatar-icon-', 'avatar-icon', '.avatar_icon_table tbody');

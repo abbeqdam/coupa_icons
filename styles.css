@@ -12,21 +12,7 @@ textarea.css_input { width: 600px;  height: 200px;}
 .tess-icon32 { background: url(sprites/sprite_icons_cso_32x32.svg) no-repeat top left;   width: 32px; height: 32px;    display: inline-block;}
 
 
-/*   Start:: testing single sprites!    */
 
-.magnifier { background: url(sprites/singleSprites/magnifier.svg);  width: 18px; height: 18px; }
-.user_add { background: url(sprites/singleSprites/user_add.svg);  width: 18px; height: 18px; }
-.sprite-alertIcon { background: url(sprites/singleSprites/sprite-alertIcon.svg);  width: 18px; height: 18px; }
-.sprite-exclamation { background: url(sprites/singleSprites/sprite-exclamation.svg);  width: 18px; height: 18px; }
-.sprite-accept { background: url(sprites/singleSprites/sprite-accept.svg);  width: 18px; height: 18px; }
-.sprite-info { background: url(sprites/singleSprites/sprite-info.svg);  width: 18px; height: 18px; }
-.sprite-delete { background: url(sprites/singleSprites/sprite-delete.svg); }
-.sprite-delete_bw { background: url(sprites/singleSprites/sprite-delete_bw.svg); width: 18px; height: 18px;}
-.sprite-note { background: url(sprites/singleSprites/sprite-note.svg); width: 18px; height: 18px;}
-.sprite-field-changed-flag { background: url(sprites/singleSprites/sprite-field-changed-flag.svg); width: 13.72px; height: 18px;}
-.calendar { background: url(sprites/singleSprites/calendar.svg); width: 17px; height: 18px;}
-
-/*   End:: testing single sprites!    */
 
 table { border-collapse: collapse; table-layout: fixed; text-align: left; width: 100%;}
 table th { background-color: #f0f0f0; border: 1px solid #ddd; border-top: none;  padding: 10px;}
@@ -558,6 +544,38 @@ h2 { background-color: #ffe7e7; border: 1px solid #ddd; margin: 0; padding: 16px
 .sprite-big-star-rating { list-style:none; margin: 0px; padding:0px; width: 140px; height: 28px; position: relative; background-position: 0px -433px; }
 .sprite-current-rating{ width: 140px; height: 28px; background-position: -162px -433px;}
 
+
+/*   Start:: testing single sprites!    */
+
+.singel-sprite-magnifier { background: url(sprites/singleSprites/sprite-magnifier.svg);  width: 18px; height: 18px; }
+.singel-sprite-user_add { background: url(sprites/singleSprites/sprite-user_add.svg);  width: 18px; height: 18px; }
+.singel-sprite-alertIcon { background: url(sprites/singleSprites/sprite-alertIcon.svg);  width: 18px; height: 18px; }
+.singel-sprite-exclamation { background: url(sprites/singleSprites/sprite-exclamation.svg);  width: 18px; height: 18px; }
+.singel-sprite-accept { background: url(sprites/singleSprites/sprite-accept.svg);  width: 18px; height: 18px; }
+.singel-sprite-info { background: url(sprites/singleSprites/sprite-info.svg);  width: 18px; height: 18px; }
+.singel-sprite-delete { background: url(sprites/singleSprites/sprite-delete.svg); width: 18px; height: 18px; }
+.singel-sprite-delete_bw { background: url(sprites/singleSprites/sprite-delete_bw.svg); width: 18px; height: 18px;}
+.singel-sprite-note { background: url(sprites/singleSprites/sprite-note.svg); width: 18px; height: 18px;}
+.singel-sprite-field-changed-flag { background: url(sprites/singleSprites/sprite-field-changed-flag.svg); width: 13.72px; height: 18px;}
+.singel-sprite-calendar { background: url(sprites/singleSprites/calendar.svg); width: 17px; height: 18px;}
+.singel-sprite-user_go { background: url(sprites/singleSprites/april2022/sprite-user_go.svg);  width: 18px; height: 18px; }
+.singel-sprite-uploadColorful { background: url(sprites/singleSprites/april2022/sprite-uploadColorful.svg);  width: 18px; height: 18px; }
+.singel-sprite-time { background: url(sprites/singleSprites/april2022/sprite-time.svg);  width: 18px; height: 18px; }
+.singel-sprite-tick { background: url(sprites/singleSprites/april2022/sprite-tick.svg);  width: 18px; height: 18px; }
+.singel-sprite-pending_approval { background: url(sprites/singleSprites/april2022/sprite-pending_approval.svg);  width: 18px; height: 18px; }
+.singel-sprite-info { background: url(sprites/singleSprites/april2022/sprite-info.svg);  width: 18px; height: 18px; }
+.singel-sprite-group { background: url(sprites/singleSprites/april2022/sprite-group.svg);  width: 18px; height: 18px; }
+.singel-sprite-field-changed-flag { background: url(sprites/singleSprites/april2022/sprite-field-changed-flag.svg);  width: 18px; height: 18px; }
+.singel-sprite-escalated { background: url(sprites/singleSprites/april2022/sprite-escalated.svg);  width: 18px; height: 18px; }
+.singel-sprite-email_go { background: url(sprites/singleSprites/april2022/sprite-email_go.svg);  width: 18px; height: 18px; }
+.singel-sprite-delete_grey { background: url(sprites/singleSprites/april2022/sprite-delete_grey.svg);  width: 18px; height: 18px; }
+.singel-sprite-community-intelligence { background: url(sprites/singleSprites/april2022/sprite-community-intelligence.svg);  width: 18px; height: 18px; }
+.singel-sprite-calendar { background: url(sprites/singleSprites/april2022/sprite-calendar.svg);  width: 18px; height: 18px; }
+.singel-sprite-arrow_undo { background: url(sprites/singleSprites/april2022/sprite-arrow_undo.svg);  width: 18px; height: 18px; }
+.singel-sprite-account_split_edit { background: url(sprites/singleSprites/april2022/sprite-account_split_edit.svg);  width: 18px; height: 18px; }
+.singel-sprite-account_split { background: url(sprites/singleSprites/april2022/sprite-account_split.svg);  width: 18px; height: 18px; }
+
+/*   End:: testing single sprites!    */
 
 /* icon not used anywhere */
 /*
