@@ -3,7 +3,7 @@ body { background-color: #FFF;  font-family: helvetica, arial, sans-serif;  font
 textarea.css_input { width: 600px;  height: 200px;}
 .header_icon { background: url(sprites/sprite_headers.svg) no-repeat top left;  width: 26px;  height: 24px;  margin: 0px 8px 3px 0;  background-size: 62px 3400px;}
 .icon_button { background: url(sprites/sprite_iconbuttons_18x18.svg) no-repeat top left;  padding: 0;  margin: 3px;  width: 18px;  height: 18px; vertical-align: top;}
-.trigger { background: url(sprites/trigger_icons.svg) no-repeat top left;  margin: 0px 8px 3px 0; width: 32px; height: 30px;  display: inline-block;}
+.trigger { background: url(sprites/trigger_icons.svg) no-repeat top left;  margin: 0px 8px 3px 0;   display: inline-block;}
 .industry-icon  { background: url(sprites/sprite_analytics_display.svg) no-repeat top left;  display: inline-block;}
 .avatar-icon { background: url(sprites/sprite_avatar.svg) no-repeat top left; display: inline-block;}
 .logos { background: url(sprites/sprite_coupa_logo.svg) no-repeat top left; display: inline-block;}
@@ -527,12 +527,15 @@ h2 { background-color: #ffe7e7; border: 1px solid #ddd; margin: 0; padding: 16px
 .sprite-riskAssessHighRisk { background-position:  -468px -396px; }
 .sprite-clauseHierarchy { background-position:  -504px -396px; }
 .sprite-revert { background-position:  -540px -396px; }
-.sprite-contingentWorkSpaceWhite { background-position:  -576px -396px; background-color: #333333}
-.sprite-contingentWorkSpace { background-position:  -612px -396px; }
+.sprite-contingentWorkforceWhite { background-position:  -576px -396px; background-color: #333333}
+.sprite-contingentWorkforce { background-position:  -612px -396px; }
 .sprite-timesheet { background-position:  -648px -396px; }
 .sprite-timesheetWhite { background-position:  -684px -396px; background-color: #333333}
 .sprite-sourcingBlue { background-position:  -720px -396px; }
 .sprite-bolt { background-position:  -756px -396px; }
+.sprite-totalSpendBlue{ background-position:  -792px -396px; }
+.sprite-invoicesBlue { background-position:  -828px -396px; }
+.sprite-invoicesWhite { background-position:  -864px -396px; background-color: #333333}
 
 
 
@@ -608,22 +611,22 @@ h2 { background-color: #ffe7e7; border: 1px solid #ddd; margin: 0; padding: 16px
 .industry-icon-energy-transportation{ background-position: -241px -121px; width: 60px; height: 60px; }
 
 
-.trigger-contract_expiration { background-position: -40px -120px; }
-.trigger-increased_spend { background-position: -40px 0px; }
-.trigger-frequent_free_form { background-position: -40px -80px; }
-.trigger-invoice_increase { background-position: -40px 0px; }
+.trigger-contract_expiration { background-position: -40px -120px;width: 28px;  height: 28px; }
+.trigger-increased_spend { background-position: -40px 0px; width: 28px;  height: 28px; }
+.trigger-frequent_free_form { background-position: -40px -80px; width: 28px;  height: 28px; }
+.trigger-invoice_increase { background-position: -40px 0px; width: 28px;  height: 28px; }
 .trigger-large_requisition { background-position: -80px 0px; }
-.trigger-increased_expenses_by_merchant { background-position: -40px 0px; }
-.trigger-increased_expenses_by_category { background-position: -40px 0px; }
-.trigger-frequent_orders { background-position: -80px 0px;  }
-.trigger-frequent_adjustments { background-position: -40px -40px; }
-.trigger-inactive_supplier { background-position: 0px -40px; }
-.trigger-expiring_forms { background-position: 0px -80px;}
-.trigger-outdated_sim { background-position: 0px -120px; }
-.trigger-supplier_link_suggestion { background-position: -160px -80px; }
-.trigger-supplier_risk { background-position: 0px 0px;}
-.trigger-supplier_performance { background-position: 0px 0px; }
-.trigger-sgSourcing{ background-position: -160px -120px;}
+.trigger-increased_expenses_by_merchant { background-position: -40px 0px; width: 28px;  height: 28px; }
+.trigger-increased_expenses_by_category { background-position: -40px 0px; width: 28px;  height: 28px; }
+.trigger-frequent_orders { background-position: -80px 0px;  width: 28px;  height: 28px; }
+.trigger-frequent_adjustments { background-position: -40px -40px; width: 28px;  height: 28px; }
+.trigger-inactive_supplier { background-position: 0px -40px; width: 28px;  height: 28px; }
+.trigger-expiring_forms { background-position: 0px -80px; width: 28px;  height: 28px; }
+.trigger-outdated_sim { background-position: 0px -120px; width: 28px;  height: 28px; }
+.trigger-supplier_link_suggestion { background-position: -160px -80px; width: 28px;  height: 28px;  }
+.trigger-supplier_risk { background-position: 0px 0px; width: 28px;  height: 28px; }
+.trigger-supplier_performance { background-position: 0px 0px; width: 28px;  height: 28px;  }
+.trigger-sgSourcing{ background-position: -160px -120px; width: 28px;  height: 28px; }
 .trigger-compliant2_2Icon42 { background-position: -560px -350px;  width: 50px;  height: 50px;}
 .trigger-compliant2_2Icon130 { background-position: -560px -200px;    width: 140px;  height: 140px;}
 .trigger-compliant2_3Icon42 { background-position: -440px -350px;  width: 50px;  height: 50px;}
@@ -648,10 +651,10 @@ h2 { background-color: #ffe7e7; border: 1px solid #ddd; margin: 0; padding: 16px
 .trigger-spend_guard_global_sprite_sourcing_events { background-position: -300px -500px; width: 40px;  height: 40px; }
 
 .trigger-employee_spend_view_avatar_sprite_avatar { background-position: 0px -1430px; width: 80px;  height: 80px;}
-.trigger-spend_profile_sprite_expenses { background-position: -120px 0px; }
-.trigger-spend_profile_sprite_expenses_requisitions { background-position: -120px -80px; }
-.trigger-spend_profile_sprite_expenses_purchase_orders { background-position: -120px -40px; }
-.trigger-spend_profile_sprite_expenses_invoices { background-position: -120px -120px; }
+.trigger-spend_profile_sprite_expenses { background-position: -120px 0px; width: 28px;  height: 28px;}
+.trigger-spend_profile_sprite_expenses_requisitions { background-position: -120px -80px; width: 28px;  height: 28px;}
+.trigger-spend_profile_sprite_expenses_purchase_orders { background-position: -120px -40px; width: 28px;  height: 28px;}
+.trigger-spend_profile_sprite_expenses_invoices { background-position: -120px -120px; width: 28px;  height: 28px;}
 .trigger-trends-sprite_hot { background-position: -160px -800px;  width: 60px;  height: 60px;transform: scale(0.8);}
 .trigger-trends-sprite_new { background-position: -320px -800px;  width: 60px;  height: 60px;transform: scale(0.8);}
 .trigger-trends-sprite_coupa_advantage{ background-position: -560px -880px;  transform: scale(0.8); width: 63px; height: 63px  }
@@ -761,22 +764,22 @@ h2 { background-color: #ffe7e7; border: 1px solid #ddd; margin: 0; padding: 16px
 .trigger-deem {background-position: -440px -2340px; width: 32px; height: 10px;}
 .trigger-spendGuardShield {background-position: -240px -1040px; 	width: 41px; height: 50px;}
 .trigger-emptyStatePlug {background-position: 0px -2500px; 	width: 141px; height: 141px;}
-.trigger-sandClockOrange { background-position: -240px -680px; } 
-.trigger-sandClockBlue { background-position: -300px -680px; } 
-.trigger-supplierInvited { background-position: -360px -680px; } 
-.trigger-supplierInvitedComplete { background-position: -420px -680px; } 
+.trigger-sandClockOrange { background-position: -240px -680px; width: 23px; height: 32px;} 
+.trigger-sandClockBlue { background-position: -300px -680px; width: 23px; height: 32px;}  
+.trigger-supplierInvited { background-position: -360px -680px; width: 32px; height: 32px;}   
+.trigger-supplierInvitedComplete { background-position: -420px -680px; width: 32px; height: 32px;}    
 .trigger-shareGray { background-position: -480px -680px; width: 40px; height: 40px;} 
 .trigger-shareOrange { background-position: -540px -680px; width: 40px; height: 40px;} 
 .trigger-shareBlue { background-position: -600px -680px; width: 40px; height: 40px;} 
 .trigger-formulaIcon {background-position: -320px -1040px; width: 55px; height: 55px;}
-.trigger-diversity {background-position: -280px -80px;}
+.trigger-diversity {background-position: -280px -80px;width: 28px; height: 28px;}
 .trigger-diversity_notDiverse {background-position: -660px -680px; width: 36px; height: 36px;}
 .trigger-approved {background-position: -400px -1040px; width: 64px; height: 64px; }
 .trigger-noExpense {background-position: -480px -2080px; width: 212px; height: 212px;}
-.trigger-moveArrowFourWays {background-position: -480px -2340px; }
-.trigger-moveArrowFourWaysSelected {background-position:  -520px -2340px; }
-.trigger-moveArrowTwoWays {background-position: -560px -2340px; }
-.trigger-moveArrowTwoWaysSelected {background-position: -600px -2340px; }
+.trigger-moveArrowFourWays {background-position: -480px -2340px; width: 30px; height: 30px;}
+.trigger-moveArrowFourWaysSelected {background-position:  -520px -2340px; width: 30px; height: 30px;}
+.trigger-moveArrowTwoWays {background-position: -560px -2340px; width: 30px; height: 30px;}
+.trigger-moveArrowTwoWaysSelected {background-position: -600px -2340px; width: 30px; height: 30px;}
 .trigger-discountsIllustration {background-position: -150px -2500px; width: 130px; height: 130px; }
 .trigger-diversityIllustration {background-position: -290px -2500px; width: 130px; height: 130px; }
 .trigger-documentsIllustration {background-position: -430px -2502px; width: 130px; height: 130px; }
@@ -832,11 +835,11 @@ h2 { background-color: #ffe7e7; border: 1px solid #ddd; margin: 0; padding: 16px
 .trigger-placeholderNoWarehouseSelected { background-position: -500px -3760px; width: 200px; height: 200px; }
 .trigger-placeholderNoTasks { background-position: -500px -3970px; width: 200px; height: 200px; }
 .trigger-illustrationGalleryNoImage { background-position: 0px -3760px; width: 476px; height: 343px; }
-.trigger-hamburgerMenuIcon { background-position: -160px -2380px; }
-.trigger-contractMenuNormal { background-position: -200px -2380px; }
-.trigger-contractMenuSelected { background-position: -240px -2380px; }
-.trigger-hierarchyExpand { background-position: -280px -2380px; }
-.trigger-hierarchyCollapse { background-position: -320px -2380px; }
+.trigger-hamburgerMenuIcon { background-position: -160px -2380px; width: 24px; height: 24px; }
+.trigger-contractMenuNormal { background-position: -200px -2380px; width: 28px; height: 28px; }
+.trigger-contractMenuSelected { background-position: -240px -2380px; width: 28px; height: 28px; }
+.trigger-hierarchyExpand { background-position: -280px -2380px; width: 24px; height: 24px;}
+.trigger-hierarchyCollapse { background-position: -320px -2380px; width: 24px; height: 24px;}
 .trigger-tagBlue { background-position: -600px -400px; width: 32px; height: 32px; }
 .trigger-calendar { background-position: -560px -400px; width: 32px; height: 32px; }
 .trigger-loginCommunityBanner { background-position: 0px -4150px; width: 436px; height: 171px; }
@@ -871,6 +874,7 @@ h2 { background-color: #ffe7e7; border: 1px solid #ddd; margin: 0; padding: 16px
 .trigger-formDefault { background-position: -80px -1590px;	width: 48px;	height: 65px; }
 .trigger-formWeb { background-position: -160px -1590px;	width: 48px;	height: 65px; }
 .trigger-formCommodity { background-position: -240px -1590px;	width: 48px;	height: 65px; }
+.trigger-contingentWorkforce40x40 { background-position: -660px -620px;	width: 40px;	height: 40px; }
 
 
 
