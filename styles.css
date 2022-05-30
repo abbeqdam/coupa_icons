@@ -577,6 +577,7 @@ h2 { background-color: #ffe7e7; border: 1px solid #ddd; margin: 0; padding: 16px
 .singel-sprite-arrow_undo { background: url(sprites/singleSprites/april2022/sprite-arrow_undo.svg);  width: 18px; height: 18px; }
 .singel-sprite-account_split_edit { background: url(sprites/singleSprites/april2022/sprite-account_split_edit.svg);  width: 18px; height: 18px; }
 .singel-sprite-account_split { background: url(sprites/singleSprites/april2022/sprite-account_split.svg);  width: 18px; height: 18px; }
+.singel-sprite-ellipsisVertical { background: url(sprites/singleSprites/april2022/sprite-ellipsisVertical.svg);  width: 18px; height: 18px; }
 
 /*   End:: testing single sprites!    */
 
