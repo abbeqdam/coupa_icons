@@ -585,10 +585,12 @@ h2 { background-color: #ffe7e7; border: 1px solid #ddd; margin: 0; padding: 16px
 .singel-sprite-tag_blue { background: url(sprites/singleSVG18x18/sprite-tag_blue.svg);  width: 18px; height: 18px; }
 .singel-sprite-tag_blue_add { background: url(sprites/singleSVG18x18/sprite-tag_blue_add.svg);  width: 18px; height: 18px; }
 .singel-sprite-lock { background: url(sprites/singleSVG18x18/sprite-lock.svg);  width: 18px; height: 18px; }
-.singel-sprite-header-avatar { background: url(sprites/singleSVG18x18/sprite-header-avatar.svg);  width: 28px; height: 28px; }
+.singel-sprite-header-avatar { background: url(sprites/singleSVG18x18/sprite-header-avatar.svg);  width: 18px; height: 18px; }
 .singel-sprite-header-bell { background: url(sprites/singleSVG18x18/sprite-header-bell.svg);  width: 18px; height: 18px; }
 .singel-sprite-header-questionMark{ background: url(sprites/singleSVG18x18/sprite-header-questionMark.svg);  width: 18px; height: 18px; }
 .singel-sprite-header-shoppingCart { background: url(sprites/singleSVG18x18/sprite-header-shoppingCart.svg);  width: 18px; height: 18px; }
+.singel-sprite-header-avata28x28 { background: url(sprites/singleSVG18x18/sprite-header-avatar28x28.svg);  width: 28px; height: 28px; }
+
 
 /*   End:: testing single sprites!    */
 
