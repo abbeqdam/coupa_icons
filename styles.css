@@ -533,9 +533,10 @@ h2 { background-color: #ffe7e7; border: 1px solid #ddd; margin: 0; padding: 16px
 .sprite-timesheetWhite { background-position:  -684px -396px; background-color: #333333}
 .sprite-sourcingBlue { background-position:  -720px -396px; }
 .sprite-bolt { background-position:  -756px -396px; }
-.sprite-totalSpendBlue{ background-position:  -792px -396px; }
+.sprite-totalSpendBlue { background-position:  -792px -396px; }
 .sprite-invoicesBlue { background-position:  -828px -396px; }
 .sprite-invoicesWhite { background-position:  -864px -396px; background-color: #333333}
+.sprite-commentNewNotification { background-position:  -900px -396px; }
 
 
 
