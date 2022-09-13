@@ -821,6 +821,8 @@ h2 { background-color: #ffe7e7; border: 1px solid #ddd; margin: 0; padding: 16px
 .trigger-superScreen_toDosGray { background-position: -420px -740px; width: 40px; 	height: 40px; }
 .trigger-superScreen_attachments { background-position: -560px -1530px;	width: 40px;	height: 40px; }
 .trigger-superScreen_attachmentsGray { background-position: -640px -1530px;	width: 40px;	height: 40px; }
+.trigger-superScreen_history { background-position: -560px -1430px;	width: 40px;	height: 40px; }
+.trigger-superScreen_historyGrey { background-position: -640px -1430px;	width: 40px;	height: 40px; }
 .trigger-car { background-position: -0px -2380px; width: 24px; 	height: 24px; }
 .trigger-arrowRight { background-position: -40px -2380px; width: 24px; 	height: 24px; }
 .trigger-flight { background-position: -80px -2380px; width: 24px; 	height: 24px; }
@@ -902,6 +904,7 @@ h2 { background-color: #ffe7e7; border: 1px solid #ddd; margin: 0; padding: 16px
 .trigger-inventoryConsume { background-position: -560px -1590px;	width: 60px;	height: 60px; }
 .trigger-cspBannerSquare { background-position: 0px -5780px;	width: 769px; height: 79px;}
 .trigger-cspBannerQuadrilateral { background-position: 0px -5880px;	width: 346px; height: 70px; }
+
 
 
 
