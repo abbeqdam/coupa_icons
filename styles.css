@@ -539,8 +539,6 @@ h2 { background-color: #ffe7e7; border: 1px solid #ddd; margin: 0; padding: 16px
 .sprite-commentNewNotification { background-position:  -900px -396px; }
 .sprite-doubleGears { background-position:  -936px -396px; }
 .sprite-doubleGearsGrey { background-position:  -972px -396px; }
-.sprite-searchGrey { background-position:  -1008px -396px; }
-.sprite-searchBlack { background-position:  -1044px -396px; }
 
 
 
@@ -595,6 +593,8 @@ h2 { background-color: #ffe7e7; border: 1px solid #ddd; margin: 0; padding: 16px
 .singel-sprite-header-questionMark{ background: url(sprites/singleSVG18x18/sprite-header-questionMark.svg);  width: 18px; height: 18px; }
 .singel-sprite-header-shoppingCart { background: url(sprites/singleSVG18x18/sprite-header-shoppingCart.svg);  width: 18px; height: 18px; }
 .singel-sprite-header-avata28x28 { background: url(sprites/singleSVG18x18/sprite-header-avatar28x28.svg);  width: 28px; height: 28px; }
+.singel-sprite-searchBlack { background: url(sprites/singleSVG18x18/sprite-searchBlack.svg);  width: 18px; height: 18px; }
+.singel-sprite-searchGrey { background: url(sprites/singleSVG18x18/sprite-searchGrey.svg);  width: 18px; height: 18px; }
 
 
 /*   End:: testing single sprites!    */
