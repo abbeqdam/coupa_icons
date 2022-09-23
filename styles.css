@@ -341,6 +341,7 @@ h2 { background-color: #ffe7e7; border: 1px solid #ddd; margin: 0; padding: 16px
 .sprite-circled-checkmark {  background-position: -1548px -180px; }
 .sprite-searchable-punchout {  background-position: -1512px -216px; }
 .sprite-drag_handle {  background-position: -37px -307px; }
+.sprite-dragHandleWhite {background-position: -1008px -396px;  background-color: #333333;}
 .sprite-sandbox_refresh {  background-position: -216px -216px; }
 .sprite-sandbox_refresh_disabled {  background-position: -720px -252px; }
 .sprite-community-intelligence {  background-position: -1476px -180px; }
@@ -365,7 +366,7 @@ h2 { background-color: #ffe7e7; border: 1px solid #ddd; margin: 0; padding: 16px
 .sprite-tickLink {  background-position: -578px -310px;}
 .sprite-multiSelect {  background-position: -685px -361px;}
 .sprite-trend-up {  background-position: -630px -306px;}
-.sprite-trend-up-red {  background-position: -607px -302px;  transform: rotate(90deg);}	}
+.sprite-trend-up-red {  background-position: -607px -302px;  transform: rotate(90deg);}
 .sprite-trend-down {  background-position: -612px -306px;}
 .sprite-trend-noChange {  background-position: -648px -306px;}
 .sprite-write {  background-position: -972px -18px;}
