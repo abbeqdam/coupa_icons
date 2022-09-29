@@ -990,55 +990,55 @@ h2 { background-color: #ffe7e7; border: 1px solid #ddd; margin: 0; padding: 16px
 /*   Start:: CSP sprites!    */
 .csp-verticalCurvedPaid { background-position: -410px -410px; width: 228px; height: 400px; }
 .csp-verticalCurvedFaster { background-position: -0px -410px; width: 265px; height: 400px; }
-.csp-verticalCurvedDiversity {width: 228px; height: 400px; background-position: -2460px -0px;}
-.csp-verticalCurvedCustomize {width: 228px; height: 400px; background-position: -2050px -0px;}
-.csp-verticalCurvedContact {width: 228px; height: 400px; background-position: -1640px -0px;}
-.csp-verticalCurvedConnect {width: 302px; height: 400px; background-position: -1230px -0px;}
-.csp-verticalCurvedCategories {width: 226px; height: 400px; background-position: -820px -0px;}
-.csp-verticalCurvedBusiness {width: 228px; height: 400px; background-position: -410px -0px;}
-.csp-verticalCurvedAccount {width: 228px; height: 400px; background-position: -0px -0px;}
-.csp-verticalUpload {width: 228px; height: 400px; background-position: -0px -2463px;}
-.csp-verticalPaid {width: 228px; height: 400px; background-position: -3280px -2050px;}
-.csp-verticalFaster {width: 265px; height: 400px; background-position: -2870px -2050px;}
-.csp-verticalDiversity {width: 228px; height: 400px; background-position: -2460px -2050px;}
-.csp-verticalCustomize {width: 228px; height: 400px; background-position: -1640px -2050px;}
-.csp-verticalContact {width: 228px; height: 400px; background-position: -2050px -2050px;}
-.csp-verticalConnect {width: 302px; height: 400px; background-position: -1230px -2050px;}
-.csp-verticalCategories {width: 226px; height: 400px; background-position: -820px -2050px;}
-.csp-verticalBusiness {width: 228px; height: 400px; background-position: -410px -2050px;}
-.csp-verticalAccount {width: 228px; height: 400px; background-position: -0px -2050px;}
-.csp-mobileUpload {width: 400px; height: 200px; background-position: -410px -2870px;}
-.csp-mobilePaid {width: 400px; height: 200px; background-position: -0px -2870px;}
-.csp-mobileNumbersPattern {width: 400px; height: 200px; background-position: -410px -2460px;}
-.csp-mobileFaster {width: 400px; height: 200px; background-position: -3280px -2460px;}
-.csp-mobileDiversity {width: 400px; height: 200px; background-position: -1640px -2460px;}
-.csp-mobileCustomize {width: 400px; height: 200px; background-position: -1230px -2460px;}
-.csp-mobileContact {width: 400px; height: 200px; background-position: -2870px -2460px;}
-.csp-mobileConnect {width: 400px; height: 200px; background-position: -2460px -2460px;}
-.csp-mobileCategories {width: 400px; height: 200px; background-position: -2050px -2460px;}
-.csp-mobileBusiness {width: 400px; height: 200px; background-position: -820px -2460px;}
-.csp-imageXsDollar {width: 365px; height: 231px; background-position: -820px -820px;}
-.csp-imageXlMoneybag {width: 644.87px; height: 377.52px; background-position: -0px -1640px;}
-.csp-imageXlDollar {width: 794px; height: 503px; background-position: -2870px -1230px;}
-.csp-imageXlCoins {width: 797px; height: 258px; background-position: -820px -1230px;}
-.csp-imageSmallCoins {width: 362px; height: 213px; background-position: -0px -820px;}
-.csp-imageSmMoneybag {width: 350px; height: 205px; background-position: -410px -820px;}
-.csp-imageSmDollar {width: 416px; height: 263px; background-position: -1230px -820px;}
-.csp-imageMdDollar {width: 454px; height: 287px; background-position: -2870px -820px;}
-.csp-imageLgMoneybag {width: 469px; height: 275px; background-position: -2050px -1230px;}
-.csp-imageLgDllar {width: 498px; height: 316px; background-position: -2050px -820px;}
-.csp-imageLgCoins {width: 625.76px; height: 201.85px; background-position: -0px -1230px;}
-.csp-horizontalNumbersPattern {width: 400px; height: 200px; background-position: -820px -410px;}
-.csp-horizontalDiversity {width: 400px; height: 200px; background-position: -2050px -410px;}
-.csp-horizontalCustomize {width: 400px; height: 200px; background-position: -1640px -410px;}
-.csp-horizontalBusiness {width: 400px; height: 200px; background-position: -1230px -410px;}
-.csp-bannerHeaderGraphic {width: 1134px; height: 20px; background-position: -2460px -410px;}
-.csp-bannerSquare {width: 769px; height: 79px; background-position: -3230px -440px;}
-.csp-bannerQuadrilateral {width: 346px; height: 70px; background-position: -2460px -530px;}
-.csp-arrowUp {width: 8px; height: 8px; background-position: -850px -2870px;}
-.csp-arrowRight {width: 8px; height: 8px; background-position: -820px -2870px;}
-.csp-arrowLeft {width: 8px; height: 8px; background-position: -830px -2870px;}
-.csp-arrowDown {width: 8px; height: 8px; background-position: -840px -2870px;}
+.csp-verticalCurvedDiversity {background-position: -2460px -0px; width: 228px; height: 400px; }
+.csp-verticalCurvedCustomize {background-position: -2050px -0px; width: 228px; height: 400px; }
+.csp-verticalCurvedContact {background-position: -1640px -0px; width: 228px; height: 400px; }
+.csp-verticalCurvedConnect {background-position: -1230px -0px; width: 302px; height: 400px; }
+.csp-verticalCurvedCategories {background-position: -820px -0px; width: 226px; height: 400px; }
+.csp-verticalCurvedBusiness {background-position: -410px -0px; width: 228px; height: 400px; }
+.csp-verticalCurvedAccount {background-position: -0px -0px; width: 228px; height: 400px; }
+.csp-verticalUpload {background-position: -0px -2463px; width: 228px; height: 400px; }
+.csp-verticalPaid {background-position: -3280px -2050px; width: 228px; height: 400px; }
+.csp-verticalFaster {background-position: -2870px -2050px; width: 265px; height: 400px; }
+.csp-verticalDiversity {background-position: -2460px -2050px; width: 228px; height: 400px; }
+.csp-verticalCustomize {background-position: -1640px -2050px; width: 228px; height: 400px; }
+.csp-verticalContact {background-position: -2050px -2050px; width: 228px; height: 400px; }
+.csp-verticalConnect {background-position: -1230px -2050px; width: 302px; height: 400px; }
+.csp-verticalCategories {background-position: -820px -2050px; width: 226px; height: 400px; }
+.csp-verticalBusiness {background-position: -410px -2050px; width: 228px; height: 400px; }
+.csp-verticalAccount {background-position: -0px -2050px; width: 228px; height: 400px; }
+.csp-mobileUpload {background-position: -410px -2870px; width: 400px; height: 200px; }
+.csp-mobilePaid {background-position: -0px -2870px; width: 400px; height: 200px; }
+.csp-mobileNumbersPattern {background-position: -410px -2460px; width: 400px; height: 200px; }
+.csp-mobileFaster {background-position: -3280px -2460px; width: 400px; height: 200px; }
+.csp-mobileDiversity {background-position: -1640px -2460px; width: 400px; height: 200px; }
+.csp-mobileCustomize {background-position: -1230px -2460px; width: 400px; height: 200px;}
+ .csp-mobileContact {background-position: -2870px -2460px; width: 400px; height: 200px;}
+.csp-mobileConnect {background-position: -2460px -2460px; width: 400px; height: 200px;}
+.csp-mobileCategories {background-position: -2050px -2460px; width: 400px; height: 200px;}
+.csp-mobileBusiness {background-position: -820px -2460px; width: 400px; height: 200px;}
+.csp-imageXsDollar {background-position: -820px -820px; width: 365px; height: 231px; }
+.csp-imageXlMoneybag {background-position: -0px -1640px; width: 644.87px; height: 377.52px; }
+.csp-imageXlDollar {background-position: -2870px -1230px; width: 794px; height: 503px; }
+.csp-imageXlCoins {background-position: -820px -1230px; width: 797px; height: 258px; }
+.csp-imageSmallCoins {background-position: -0px -820px; width: 362px; height: 213px; }
+.csp-imageSmMoneybag {background-position: -410px -820px; width: 350px; height: 205px; }
+.csp-imageSmDollar {background-position: -1230px -820px; width: 416px; height: 263px; }
+.csp-imageMdDollar {background-position: -2870px -820px; width: 454px; height: 287px; }
+.csp-imageLgMoneybag {background-position: -2050px -1230px; width: 469px; height: 275px; }
+.csp-imageLgDllar {background-position: -2050px -820px; width: 498px; height: 316px; }
+.csp-imageLgCoins {background-position: -0px -1230px; width: 625.76px; height: 201.85px; }
+.csp-horizontalNumbersPattern {background-position: -820px -410px; width: 400px; height: 200px;}
+.csp-horizontalDiversity {background-position: -2050px -410px; width: 400px; height: 200px;}
+.csp-horizontalCustomize {background-position: -1640px -410px; width: 400px; height: 200px;}
+.csp-horizontalBusiness {background-position: -1230px -410px; width: 400px; height: 200px;}
+.csp-bannerHeaderGraphic {background-position: -2460px -410px; width: 1134px; height: 20px; }
+.csp-bannerSquaree { background-position: -2460px -440px; width: 769px; height: 79px;  }
+.csp-bannerQuadrilateral {background-position: -2460px -530px; width: 346px; height: 70px; }
+.csp-arrowUp { background-position: -850px -2870px; width: 8px; height: 8px;}
+.csp-arrowRight { background-position: -820px -2870px; width: 8px; height: 8px;}
+.csp-arrowLeft { background-position: -830px -2870px; width: 8px; height: 8px;}
+.csp-arrowDown { background-position: -840px -2870px; width: 8px; height: 8px;}
 
 /*   End:: CSP sprites!    */
 
