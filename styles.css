@@ -664,6 +664,7 @@ h2 { background-color: #ffe7e7; border: 1px solid #ddd; margin: 0; padding: 16px
 .trigger-compliant1Icon42,  .trigger-compliant1Icon130 { background-position: 0px 50px; }
 .trigger-fraud_risk_sprite_global { background-position: -400px -880px;  width: 80px;  height: 80px;}
 .trigger-fraud_risk_sprite_users { background-position: -240px -800px;  width: 60px;  height: 60px;}
+.trigger-fraudRiskUsers40x40 { background-position: -720px -620px;  width: 40px;  height: 40px;}
 .trigger-fraud_risk_sprite_lines { background-position: -80px -880px;  width: 60px;  height: 60px;}
 .trigger-search-icon-sprite_magnifier_icon_large {   background-position: -160px -1330px;   width: 60px;  height: 60px;}
 .trigger-spend_guard_global_sprite_expense_lines { background-position: -80px -1530px; width: 40px;  height: 40px; }
@@ -749,6 +750,7 @@ h2 { background-color: #ffe7e7; border: 1px solid #ddd; margin: 0; padding: 16px
 .trigger-supplierEmailsAccelerateWhiteIcon {  background-position: -420px -560px;  width: 44px;  height: 27px;background-color: #333333}
 .trigger-plusIcon {  background-position: -320px -960px;  width: 52px;  height: 52px;}
 .trigger-sgSupplierRisk {  background-position: -400px -960px; width: 52px;  height: 52px;}
+.trigger-sgSupplierRiskSmall { background-position: -720px -560px;	width: 32px;	height: 40px; }
 .trigger-noImageIcon {  background-position: -210px -2130px; width: 128px;  height: 128px;}
 .trigger-location_check {  background-position: -350px -2130px; width: 120px;  height: 120px;}
 .trigger-review {background-position: -480px -960px; width: 48px;  height: 48px; }
@@ -899,6 +901,7 @@ h2 { background-color: #ffe7e7; border: 1px solid #ddd; margin: 0; padding: 16px
 .trigger-illustrationSnoozeAlarmOff { background-position: 0 -4940px;	width: 224px;	height: 108px; }
 .trigger-illustrationSnoozeAlarmOn { background-position: -240px -4940px;	width: 224px;	height: 108px; }
 .trigger-commodity { background-position: -640px -400px;	width: 32px;	height: 33px; }
+.trigger-commodity40x40 { background-position: -720px -500px;	width: 40px;	height: 40px; }
 .trigger-formExpense { background-position: 0 -1590px;	width: 48px;	height: 65px; }
 .trigger-formDefault { background-position: -80px -1590px;	width: 48px;	height: 65px; }
 .trigger-formWeb { background-position: -160px -1590px;	width: 48px;	height: 65px; }
