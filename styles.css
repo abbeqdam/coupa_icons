@@ -558,48 +558,48 @@ h2 { background-color: #ffe7e7; border: 1px solid #ddd; margin: 0; padding: 16px
 
 /*   Start:: testing single sprites!    */
 
-.singel-sprite-magnifier { background: url(sprites/singleSprites/sprite-magnifier.svg);  width: 18px; height: 18px; }
-.singel-sprite-user_add { background: url(sprites/singleSprites/sprite-user_add.svg);  width: 18px; height: 18px; }
-.singel-sprite-alertIcon { background: url(sprites/singleSprites/sprite-alertIcon.svg);  width: 18px; height: 18px; }
-.singel-sprite-exclamation { background: url(sprites/singleSprites/sprite-exclamation.svg);  width: 18px; height: 18px; }
-.singel-sprite-accept { background: url(sprites/singleSprites/sprite-accept.svg);  width: 18px; height: 18px; }
-.singel-sprite-info { background: url(sprites/singleSprites/sprite-info.svg);  width: 18px; height: 18px; }
-.singel-sprite-delete { background: url(sprites/singleSprites/sprite-delete.svg); width: 18px; height: 18px; }
-.singel-sprite-delete_bw { background: url(sprites/singleSprites/sprite-delete_bw.svg); width: 18px; height: 18px;}
-.singel-sprite-note { background: url(sprites/singleSprites/sprite-note.svg); width: 18px; height: 18px;}
-.singel-sprite-field-changed-flag { background: url(sprites/singleSprites/sprite-field-changed-flag.svg); width: 13.72px; height: 18px;}
-.singel-sprite-calendar { background: url(sprites/singleSprites/calendar.svg); width: 17px; height: 18px;}
-.singel-sprite-user_go { background: url(sprites/singleSVG18x18/sprite-user_go.svg);  width: 18px; height: 18px; }
-.singel-sprite-uploadColorful { background: url(sprites/singleSVG18x18/sprite-uploadColorful.svg);  width: 18px; height: 18px; }
-.singel-sprite-time { background: url(sprites/singleSVG18x18/sprite-time.svg);  width: 18px; height: 18px; }
-.singel-sprite-tick { background: url(sprites/singleSVG18x18/sprite-tick.svg);  width: 18px; height: 18px; }
-.singel-sprite-pending_approval { background: url(sprites/singleSVG18x18/sprite-pending_approval.svg);  width: 18px; height: 18px; }
-.singel-sprite-info { background: url(sprites/singleSVG18x18/sprite-info.svg);  width: 18px; height: 18px; }
-.singel-sprite-group { background: url(sprites/singleSVG18x18/sprite-group.svg);  width: 18px; height: 18px; }
-.singel-sprite-field-changed-flag { background: url(sprites/singleSVG18x18/sprite-field-changed-flag.svg);  width: 18px; height: 18px; }
-.singel-sprite-escalated { background: url(sprites/singleSVG18x18/sprite-escalated.svg);  width: 18px; height: 18px; }
-.singel-sprite-email_go { background: url(sprites/singleSVG18x18/sprite-email_go.svg);  width: 18px; height: 18px; }
-.singel-sprite-delete_grey { background: url(sprites/singleSVG18x18/sprite-delete_grey.svg);  width: 18px; height: 18px; }
-.singel-sprite-community-intelligence { background: url(sprites/singleSVG18x18/sprite-community-intelligence.svg);  width: 18px; height: 18px; }
-.singel-sprite-calendar { background: url(sprites/singleSVG18x18/sprite-calendar.svg);  width: 18px; height: 18px; }
-.singel-sprite-arrow_undo { background: url(sprites/singleSVG18x18/sprite-arrow_undo.svg);  width: 18px; height: 18px; }
-.singel-sprite-account_split_edit { background: url(sprites/singleSVG18x18/sprite-account_split_edit.svg);  width: 18px; height: 18px; }
-.singel-sprite-account_split { background: url(sprites/singleSVG18x18/sprite-account_split.svg);  width: 18px; height: 18px; }
-.singel-sprite-ellipsisVertical { background: url(sprites/singleSVG18x18/sprite-ellipsisVertical.svg);  width: 18px; height: 18px; }
-.singel-sprite-arrow_down_gray { background: url(sprites/singleSVG18x18/sprite-arrow_down_gray.svg);  width: 18px; height: 18px; }
-.singel-sprite-arrow_left_gray { background: url(sprites/singleSVG18x18/sprite-arrow_left_gray.svg);  width: 18px; height: 18px; }
-.singel-sprite-arrow_right_gray { background: url(sprites/singleSVG18x18/sprite-arrow_right_gray.svg);  width: 18px; height: 18px; }
-.singel-sprite-arrow_up_gray { background: url(sprites/singleSVG18x18/sprite-arrow_up_gray.svg);  width: 18px; height: 18px; }
-.singel-sprite-tag_blue { background: url(sprites/singleSVG18x18/sprite-tag_blue.svg);  width: 18px; height: 18px; }
-.singel-sprite-tag_blue_add { background: url(sprites/singleSVG18x18/sprite-tag_blue_add.svg);  width: 18px; height: 18px; }
-.singel-sprite-lock { background: url(sprites/singleSVG18x18/sprite-lock.svg);  width: 18px; height: 18px; }
-.singel-sprite-header-avatar { background: url(sprites/singleSVG18x18/sprite-header-avatar.svg);  width: 18px; height: 18px; }
-.singel-sprite-header-bell { background: url(sprites/singleSVG18x18/sprite-header-bell.svg);  width: 18px; height: 18px; }
-.singel-sprite-header-questionMark{ background: url(sprites/singleSVG18x18/sprite-header-questionMark.svg);  width: 18px; height: 18px; }
-.singel-sprite-header-shoppingCart { background: url(sprites/singleSVG18x18/sprite-header-shoppingCart.svg);  width: 18px; height: 18px; }
-.singel-sprite-header-avata28x28 { background: url(sprites/singleSVG18x18/sprite-header-avatar28x28.svg);  width: 28px; height: 28px; }
-.singel-sprite-searchBlack { background: url(sprites/singleSVG18x18/sprite-searchBlack.svg);  width: 18px; height: 18px; }
-.singel-sprite-searchGrey { background: url(sprites/singleSVG18x18/sprite-searchGrey.svg);  width: 18px; height: 18px; }
+.singel-svg-magnifier { background: url(sprites/singleSvg/sprite-magnifier.svg);  width: 18px; height: 18px; }
+.singel-svg-user_add { background: url(sprites/singleSvg/sprite-user_add.svg);  width: 18px; height: 18px; }
+.singel-svg-alertIcon { background: url(sprites/singleSvg/sprite-alertIcon.svg);  width: 18px; height: 18px; }
+.singel-svg-exclamation { background: url(sprites/singleSvg/sprite-exclamation.svg);  width: 18px; height: 18px; }
+.singel-svg-accept { background: url(sprites/singleSvg/sprite-accept.svg);  width: 18px; height: 18px; }
+.singel-svg-info { background: url(sprites/singleSvg/sprite-info.svg);  width: 18px; height: 18px; }
+.singel-svg-delete { background: url(sprites/singleSvg/sprite-delete.svg); width: 18px; height: 18px; }
+.singel-svg-delete_bw { background: url(sprites/singleSvg/sprite-delete_bw.svg); width: 18px; height: 18px;}
+.singel-svg-note { background: url(sprites/singleSvg/sprite-note.svg); width: 18px; height: 18px;}
+.singel-svg-field-changed-flag { background: url(sprites/singleSvg/sprite-field-changed-flag.svg); width: 13.72px; height: 18px;}
+.singel-svg-calendar { background: url(sprites/singleSvg/calendar.svg); width: 17px; height: 18px;}
+.singel-svg-user_go { background: url(sprites/singleSVG18x18/sprite-user_go.svg);  width: 18px; height: 18px; }
+.singel-svg-uploadColorful { background: url(sprites/singleSVG18x18/sprite-uploadColorful.svg);  width: 18px; height: 18px; }
+.singel-svg-time { background: url(sprites/singleSVG18x18/sprite-time.svg);  width: 18px; height: 18px; }
+.singel-svg-tick { background: url(sprites/singleSVG18x18/sprite-tick.svg);  width: 18px; height: 18px; }
+.singel-svg-pending_approval { background: url(sprites/singleSVG18x18/sprite-pending_approval.svg);  width: 18px; height: 18px; }
+.singel-svg-info { background: url(sprites/singleSVG18x18/sprite-info.svg);  width: 18px; height: 18px; }
+.singel-svg-group { background: url(sprites/singleSVG18x18/sprite-group.svg);  width: 18px; height: 18px; }
+.singel-svg-field-changed-flag { background: url(sprites/singleSVG18x18/sprite-field-changed-flag.svg);  width: 18px; height: 18px; }
+.singel-svg-escalated { background: url(sprites/singleSVG18x18/sprite-escalated.svg);  width: 18px; height: 18px; }
+.singel-svg-email_go { background: url(sprites/singleSVG18x18/sprite-email_go.svg);  width: 18px; height: 18px; }
+.singel-svg-delete_grey { background: url(sprites/singleSVG18x18/sprite-delete_grey.svg);  width: 18px; height: 18px; }
+.singel-svg-community-intelligence { background: url(sprites/singleSVG18x18/sprite-community-intelligence.svg);  width: 18px; height: 18px; }
+.singel-svg-calendar { background: url(sprites/singleSVG18x18/sprite-calendar.svg);  width: 18px; height: 18px; }
+.singel-svg-arrow_undo { background: url(sprites/singleSVG18x18/sprite-arrow_undo.svg);  width: 18px; height: 18px; }
+.singel-svg-account_split_edit { background: url(sprites/singleSVG18x18/sprite-account_split_edit.svg);  width: 18px; height: 18px; }
+.singel-svg-account_split { background: url(sprites/singleSVG18x18/sprite-account_split.svg);  width: 18px; height: 18px; }
+.singel-svg-ellipsisVertical { background: url(sprites/singleSVG18x18/sprite-ellipsisVertical.svg);  width: 18px; height: 18px; }
+.singel-svg-arrow_down_gray { background: url(sprites/singleSVG18x18/sprite-arrow_down_gray.svg);  width: 18px; height: 18px; }
+.singel-svg-arrow_left_gray { background: url(sprites/singleSVG18x18/sprite-arrow_left_gray.svg);  width: 18px; height: 18px; }
+.singel-svg-arrow_right_gray { background: url(sprites/singleSVG18x18/sprite-arrow_right_gray.svg);  width: 18px; height: 18px; }
+.singel-svg-arrow_up_gray { background: url(sprites/singleSVG18x18/sprite-arrow_up_gray.svg);  width: 18px; height: 18px; }
+.singel-svg-tag_blue { background: url(sprites/singleSVG18x18/sprite-tag_blue.svg);  width: 18px; height: 18px; }
+.singel-svg-tag_blue_add { background: url(sprites/singleSVG18x18/sprite-tag_blue_add.svg);  width: 18px; height: 18px; }
+.singel-svg-lock { background: url(sprites/singleSVG18x18/sprite-lock.svg);  width: 18px; height: 18px; }
+.singel-svg-header-avatar { background: url(sprites/singleSVG18x18/sprite-header-avatar.svg);  width: 18px; height: 18px; }
+.singel-svg-header-bell { background: url(sprites/singleSVG18x18/sprite-header-bell.svg);  width: 18px; height: 18px; }
+.singel-svg-header-questionMark{ background: url(sprites/singleSVG18x18/sprite-header-questionMark.svg);  width: 18px; height: 18px; }
+.singel-svg-header-shoppingCart { background: url(sprites/singleSVG18x18/sprite-header-shoppingCart.svg);  width: 18px; height: 18px; }
+.singel-svg-header-avata28x28 { background: url(sprites/singleSVG18x18/sprite-header-avatar28x28.svg);  width: 28px; height: 28px; }
+.singel-svg-searchBlack { background: url(sprites/singleSVG18x18/sprite-searchBlack.svg);  width: 18px; height: 18px; }
+.singel-svg-searchGrey { background: url(sprites/singleSVG18x18/sprite-searchGrey.svg);  width: 18px; height: 18px; }
 
 
 /*   End:: testing single sprites!    */
