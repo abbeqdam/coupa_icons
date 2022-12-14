@@ -928,6 +928,7 @@ h2 { background-color: #ffe7e7; border: 1px solid #ddd; margin: 0; padding: 16px
 .trigger-nodeCurrent { background-position: -200px -2420px;	width: 28px; height: 28px; }
 .trigger-nodeCurrentHover { background-position: -240px -2420px;	width: 28px; height: 28px; }
 .trigger-bulletGreyFull { background-position: -280px -2420px;	width: 24px; height: 22px; }
+.trigger-policy { background-position: -640px -1042px;	width: 52px; height: 44px; }
 
 
 
