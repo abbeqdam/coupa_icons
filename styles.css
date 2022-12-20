@@ -923,11 +923,12 @@ h2 { background-color: #ffe7e7; border: 1px solid #ddd; margin: 0; padding: 16px
 .trigger-nodeApprovalChainBlue { background-position: 0px -2420px;	width: 22px; height: 22px; }
 .trigger-nodeApprovalChainGrey { background-position: -40px -2420px;	width: 22px; height: 22px; }
 .trigger-nodeCompleted { background-position: -80px -2420px;	width: 28px; height: 28px; }
-.trigger-nodeCompletedHover { background-position: -120px -2420px;	width: 28px; height: 28px; }
+.trigger-nodeCompletedHover { background-position: -120px -2420px;	width: 34px; height: 34px; }
 .trigger-nodeFuture { background-position: -160px -2420px;	width: 28px; height: 28px; }
-.trigger-nodeCurrent { background-position: -200px -2420px;	width: 28px; height: 28px; }
-.trigger-nodeCurrentHover { background-position: -240px -2420px;	width: 28px; height: 28px; }
-.trigger-bulletGreyFull { background-position: -280px -2420px;	width: 24px; height: 22px; }
+.trigger-nodeFutureHover { background-position: -200px -2420px;	width: 34px; height: 34px; }
+.trigger-nodeCurrent { background-position: -240px -2420px;	width: 34px; height: 34px; }
+.trigger-nodeCurrentHover { background-position: -280px -2420px;	width: 34px; height: 34px; }
+.trigger-bulletGreyFull { background-position: -320px -2420px;	width: 24px; height: 22px; }
 .trigger-policy { background-position: -640px -1042px;	width: 52px; height: 44px; }
 
 
