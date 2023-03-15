@@ -547,6 +547,7 @@ h2 { background-color: #ffe7e7; border: 1px solid #ddd; margin: 0; padding: 16px
 .sprite-addOrange { background-position:  -1152px -396px; }
 .sprite-bulletGreyHalf { background-position:  -1188px -396px; }
 .sprite-unknown { background-position:  -1206px -396px; }
+.sprite-asnFlip { background-position: -1242px -396px;}
 
 
 /*start of icons in the main.css.less*/
@@ -938,7 +939,7 @@ h2 { background-color: #ffe7e7; border: 1px solid #ddd; margin: 0; padding: 16px
 .trigger-filesProcessed { background-position: -720px -880px; width: 48px; height: 48px; }
 .trigger-processedByYou { background-position: -720px -960px; width: 48px; height: 48px; }
 .trigger-medianTime { background-position: -720px -1040px; width: 48px; height: 48px; }
-
+.trigger-searchResultsPolicy { background-position: -640px -1115px; width: 64px; height: 64px; }
 
 
 
