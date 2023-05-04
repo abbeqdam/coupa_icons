@@ -546,8 +546,23 @@ h2 { background-color: #ffe7e7; border: 1px solid #ddd; margin: 0; padding: 16px
 .sprite-addDisabled { background-position:  -1116px -396px; }
 .sprite-addOrange { background-position:  -1152px -396px; }
 .sprite-bulletGreyHalf { background-position:  -1188px -396px; }
-.sprite-unknown { background-position:  -1206px -396px; }
-.sprite-asnFlip { background-position: -1242px -396px;}
+.sprite-unknown { background-position: -1224px -396px; }
+.sprite-asnFlip { background-position: -1260px -396px; }
+.sprite-filterBlue { background-position: -1296px -396px;}
+.sprite-filterOrange { background-position: -1332px -396px;}
+.sprite-exclamationCircle { background-position: -1368px -396px;}
+.sprite-xCloseAction { background-position: -1404px -396px;}
+.sprite-rxAction { background-position: -1440px -396px;}
+.sprite-gaugeActionBlue{ background-position: -1476px -396px;}
+.sprite-gaugeActionOrange{ background-position: -1512px -396px;}
+.sprite-addProject { background-position: -1548px -396px;}
+.sprite-plan { background-position: -1585px -396px;}
+.sprite-heartHover { background-position: -1620px -396px;}
+.sprite-heartEmptyHover{ background-position: -1656px -396px;}
+.sprite-exclamationSmall{ background-position: -1692px -396px;}
+.sprite-review{ background-position: -1728px -396px;}
+.sprite-reviewDisabled{ background-position: -1764px -396px;}
+.sprite-markerGraph{ background-position: -1800px -396px;}
 
 
 /*start of icons in the main.css.less*/
