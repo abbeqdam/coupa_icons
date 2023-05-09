@@ -969,8 +969,8 @@ h2 { background-color: #ffe7e7; border: 1px solid #ddd; margin: 0; padding: 16px
 .trigger-heartEmptyHover { background-position: -880px -2380px; width: 28px; height: 28px; }
 .trigger-skipAction { background-position: -920px -2380px; width: 21px; height: 18px; }
 .trigger-unskipAction { background-position: -960px -2380px; width: 23px; height: 21px; }
-.trigger-CarouselArrowRight { background-position: -400px -2420px; width: 50px; height: 50px; }
-.trigger-CarouselArrowLeft{ background-position: -460px -2420px; width: 50px; height: 50px; }
+.trigger-carouselArrowRight { background-position: -400px -2420px; width: 50px; height: 50px; }
+.trigger-carouselArrowLeft{ background-position: -460px -2420px; width: 50px; height: 50px; }
 
 
 
