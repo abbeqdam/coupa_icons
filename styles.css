@@ -563,6 +563,8 @@ h2 { background-color: #ffe7e7; border: 1px solid #ddd; margin: 0; padding: 16px
 .sprite-review{ background-position: -1728px -396px;}
 .sprite-reviewDisabled{ background-position: -1764px -396px;}
 .sprite-markerGraph{ background-position: -1800px -396px;}
+.sprite-assign { background-position: -504px -432px; }
+.sprite-unassign { background-position: -540px -432px; }
 
 
 /*start of icons in the main.css.less*/
@@ -971,6 +973,8 @@ h2 { background-color: #ffe7e7; border: 1px solid #ddd; margin: 0; padding: 16px
 .trigger-unskipAction { background-position: -960px -2380px; width: 23px; height: 21px; }
 .trigger-carouselArrowRight { background-position: -400px -2420px; width: 50px; height: 50px; }
 .trigger-carouselArrowLeft{ background-position: -460px -2420px; width: 50px; height: 50px; }
+.trigger-identityThief { background-position: -540px -2750px;  width: 170px; height: 120px; }
+.trigger-combinationLock {background-position: -720px -2750px;  width: 128px; height: 128px; }
 
 
 
