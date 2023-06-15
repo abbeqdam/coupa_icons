@@ -565,7 +565,7 @@ h2 { background-color: #ffe7e7; border: 1px solid #ddd; margin: 0; padding: 16px
 .sprite-markerGraph{ background-position: -1800px -396px;}
 .sprite-assign { background-position: -504px -432px; }
 .sprite-unassign { background-position: -540px -432px; }
-
+.sprite-arrowCircleRight { background-position: -1836px -396px; }
 
 /*start of icons in the main.css.less*/
 .sprite-home { background-position: -316px -430px; width: 40px; height: 40px; background-color: #333333;}
@@ -574,6 +574,7 @@ h2 { background-color: #ffe7e7; border: 1px solid #ddd; margin: 0; padding: 16px
 .sprite-search_icon_disabled { cursor: auto; background-position: -361px -361px;}
 .sprite-big-star-rating { list-style:none; margin: 0px; padding:0px; width: 140px; height: 28px; position: relative; background-position: 0px -433px; }
 .sprite-current-rating{ width: 140px; height: 28px; background-position: -162px -433px;}
+
 
 
 /*   Start:: testing single sprites!    */
