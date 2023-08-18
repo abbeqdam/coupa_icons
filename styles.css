@@ -978,7 +978,8 @@ h2 { background-color: #ffe7e7; border: 1px solid #ddd; margin: 0; padding: 16px
 .trigger-combinationLock {background-position: -720px -2750px;  width: 128px; height: 128px; }
 .trigger-vault { background-position: -560px -4330px; width: 256px; height: 120px; }
 .trigger-eyeOpenWhite { background-position: -780px -680px; width: 50px; height: 50px; background-color: #333333}
-
+.trigger-exclamationGray { background-position: -560px -1260px; width: 40px; height: 40px;}
+.trigger-analyticsGray { background-position: -640px -1260px; width: 40px;	height: 40px;}
 
 
 
