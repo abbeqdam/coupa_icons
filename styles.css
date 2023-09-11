@@ -980,6 +980,10 @@ h2 { background-color: #ffe7e7; border: 1px solid #ddd; margin: 0; padding: 16px
 .trigger-eyeOpenWhite { background-position: -780px -680px; width: 50px; height: 50px; background-color: #333333}
 .trigger-exclamationGray { background-position: -560px -1260px; width: 40px; height: 40px;}
 .trigger-analyticsGray { background-position: -640px -1260px; width: 40px;	height: 40px;}
+.trigger-insightsAiWhite40x40 { background-position: -720px -740px;  width: 40px; height: 40px; }
+.trigger-insightsAiWhite32x32 { background-position: -780px -740px;  width: 32px; height: 32px; }
+.trigger-insightsAiWhite18x18 { background-position: -840px -740px;  width: 18px; height: 18px; }
+.trigger-insightsAiWhite12x12 { background-position: -900px -740px;  width: 12px; height: 12px; }
 
 
 
