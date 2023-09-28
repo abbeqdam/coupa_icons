@@ -566,6 +566,9 @@ h2 { background-color: #ffe7e7; border: 1px solid #ddd; margin: 0; padding: 16px
 .sprite-assign { background-position: -504px -432px; }
 .sprite-unassign { background-position: -540px -432px; }
 .sprite-arrowCircleRight { background-position: -1836px -396px; }
+.sprite-reportsCompleted { background-position: -576px -432px;}
+.sprite-reportsPending { background-position: -612px -432px;}
+.sprite-reportsTotal {background-position: -648px -432px;}
 
 /*start of icons in the main.css.less*/
 .sprite-home { background-position: -316px -430px; width: 40px; height: 40px; background-color: #333333;}
@@ -984,9 +987,6 @@ h2 { background-color: #ffe7e7; border: 1px solid #ddd; margin: 0; padding: 16px
 .trigger-insightsAiWhite32x32 { background-position: -780px -740px;  width: 32px; height: 32px; background-color: #333333}
 .trigger-insightsAiWhite18x18 { background-position: -840px -740px;  width: 18px; height: 18px; background-color: #333333}
 .trigger-insightsAiWhite12x12 { background-position: -900px -740px;  width: 12px; height: 12px; background-color: #333333}
-.trigger-reportsCompleted { background-position: -520px -2420px;  width: 30px; height: 36px;}
-.trigger-reportsSending { background-position: -560px -2420px;  width: 36px; height: 36px;}
-.trigger-reportsTotal {background-position: -600px -2420px;  width: 28px; height: 36px;}
 
 
 
