@@ -569,6 +569,8 @@ h2 { background-color: #ffe7e7; border: 1px solid #ddd; margin: 0; padding: 16px
 .sprite-reportsCompleted { background-position: -576px -432px;}
 .sprite-reportsPending { background-position: -612px -432px;}
 .sprite-reportsTotal {background-position: -648px -432px;}
+.sprite-extracted {background-position: -684px -432px;}
+
 
 /*start of icons in the main.css.less*/
 .sprite-home { background-position: -316px -430px; width: 40px; height: 40px; background-color: #333333;}
