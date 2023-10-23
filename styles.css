@@ -570,6 +570,7 @@ h2 { background-color: #ffe7e7; border: 1px solid #ddd; margin: 0; padding: 16px
 .sprite-reportsPending { background-position: -612px -432px;}
 .sprite-reportsTotal {background-position: -648px -432px;}
 .sprite-extracted {background-position: -684px -432px;}
+.sprite-arrowBack {background-position: -720px -432px;}
 
 
 /*start of icons in the main.css.less*/
