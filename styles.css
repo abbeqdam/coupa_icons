@@ -991,6 +991,7 @@ h2 { background-color: #ffe7e7; border: 1px solid #ddd; margin: 0; padding: 16px
 .trigger-insightsAiWhite32x32 { background-position: -780px -740px;  width: 32px; height: 32px; background-color: #333333}
 .trigger-insightsAiWhite18x18 { background-position: -840px -740px;  width: 18px; height: 18px; background-color: #333333}
 .trigger-insightsAiWhite12x12 { background-position: -900px -740px;  width: 12px; height: 12px; background-color: #333333}
+.trigger-supplierRecommended { background-position: -800px -800px;  width: 63px; height: 63px; }
 
 
 
