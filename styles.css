@@ -121,6 +121,7 @@ h2 { background-color: #ffe7e7; border: 1px solid #ddd; margin: 0; padding: 16px
 .sprite-arrow_left{  background-position: 0 -252px; }
 .sprite-arrow_left_gray{  background-position: -216px -180px; }
 .sprite-arrow_refresh{  background-position: -216px -216px; }
+.sprite-arrow_refreshGray{  background-position: -1584px -252px; }
 .sprite-arrow_right{  background-position: -252px -216px; }
 .sprite-arrow_right_gray{  background-position: -180px -180px; }
 .sprite-arrow_rotate_right {  background-position: -540px -216px; }
@@ -571,6 +572,9 @@ h2 { background-color: #ffe7e7; border: 1px solid #ddd; margin: 0; padding: 16px
 .sprite-reportsTotal {background-position: -648px -432px;}
 .sprite-extracted {background-position: -684px -432px;}
 .sprite-arrowBack {background-position: -720px -432px;}
+.sprite-rules {background-position: -828px -144px;}
+.sprite-sync {background-position: -504px -180px;}
+.sprite-syncGray {background-position: -756px -432px;}
 
 
 /*start of icons in the main.css.less*/
